@@ -1,0 +1,264 @@
+\select@language {english}
+\contentsline {section}{Abstract}{i}{chapter*.1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Structure of thesis}{2}{section.1.2}
+\contentsline {chapter}{\numberline {2}Literature review}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Epoxy adhesives}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Introduction}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Rubber-toughened epoxy}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}silica-toughened epoxy}{7}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Polyethersulphone-toughened epoxy}{8}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Ceramic microspheres-toughened epoxy}{10}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Phase separation}{10}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}Fracture mechanics}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Introduction}{10}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Fracture energy}{11}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Plastic Zone Size}{12}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Tapered double cantilever beam (TDCB)}{13}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Types of crack growth}{15}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Single-edge notch bending (SENB)}{17}{subsection.2.2.6}
+\contentsline {section}{\numberline {2.3}High rate testing}{18}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Introduction}{18}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Uncertainties}{20}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Geometry factor}{20}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Toughening mechanisms}{21}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Introduction}{21}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Shear bands and shear yielding}{21}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Crack pinning}{21}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Crack deflection}{22}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Cavitation}{22}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}Debonding}{23}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {2.4.7}Rubber bridging}{24}{subsection.2.4.7}
+\contentsline {subsection}{\numberline {2.4.8}Plastic void growth}{24}{subsection.2.4.8}
+\contentsline {subsection}{\numberline {2.4.9}Modelling toughening mechanisms}{25}{subsection.2.4.9}
+\contentsline {section}{\numberline {2.5}Conclusions}{25}{section.2.5}
+\contentsline {chapter}{\numberline {3}Materials}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{27}{section.3.1}
+\contentsline {section}{\numberline {3.2}Epoxy polymer}{27}{section.3.2}
+\contentsline {section}{\numberline {3.3}Silica nanoparticles}{28}{section.3.3}
+\contentsline {section}{\numberline {3.4}Core shell rubber}{28}{section.3.4}
+\contentsline {section}{\numberline {3.5}CSR / silica hybrid}{28}{section.3.5}
+\contentsline {section}{\numberline {3.6}Polyethersulphone (PES)}{29}{section.3.6}
+\contentsline {section}{\numberline {3.7}PES / silica hybrid}{29}{section.3.7}
+\contentsline {section}{\numberline {3.8}Alumino silicate ceramic microspheres}{30}{section.3.8}
+\contentsline {section}{\numberline {3.9}Alumino silicate ceramic / CSR hybrid}{30}{section.3.9}
+\contentsline {section}{\numberline {3.10}Conclusions}{30}{section.3.10}
+\contentsline {chapter}{\numberline {4}Tapered Double Cantilever Beam}{31}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{31}{section.4.1}
+\contentsline {section}{\numberline {4.2}Experimental}{31}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}TDCB specimen preparation}{31}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Differential scanning calorimetry (DSC) tests}{33}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Quasi-static rate tests}{34}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Initial loading and re-loading}{35}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Initiation and propagation values}{36}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Determination of $G_c$ in TDCB}{36}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}Quasi-static TDCB results}{37}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Fracture energies}{37}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Control}{37}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Silica-modified epoxy}{39}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}CSR modified epoxy}{42}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Fracture surfaces}{44}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Conclusions}{44}{subsection.4.3.6}
+\contentsline {chapter}{\numberline {5}High Rate Tapered Double Cantilever Beam}{46}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{46}{section.5.1}
+\contentsline {section}{\numberline {5.2}TDCB high test rate set up}{46}{section.5.2}
+\contentsline {section}{\numberline {5.3}High rate data reduction strategy}{49}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Fracture types}{49}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Data analysis}{49}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.2.1}Video analysis}{49}{subsubsection.5.3.2.1}
+\contentsline {subsubsection}{\numberline {5.3.2.2}Plots}{51}{subsubsection.5.3.2.2}
+\contentsline {subsubsection}{\numberline {5.3.2.3}Calculation of $G_c$ values}{52}{subsubsection.5.3.2.3}
+\contentsline {section}{\numberline {5.4}High rate TDCB results}{54}{section.5.4}
+\contentsline {section}{\numberline {5.5}Conclusions}{60}{section.5.5}
+\contentsline {chapter}{\numberline {6}Single-Edge Notch Bending}{61}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{61}{section.6.1}
+\contentsline {section}{\numberline {6.2}Tensile tests}{61}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Introduction}{61}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Tensile test specimen preparation}{62}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Tensile test procedure}{62}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Tensile results}{63}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Quasi-static single-edge notch bending (SENB) tests}{66}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Introduction}{66}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Quasi-static specimen preparation}{67}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Quasi-static SENB test procedure}{68}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Quasi-static test rate SENB results}{71}{subsection.6.3.4}
+\contentsline {section}{\numberline {6.4}High rate SENB tests}{73}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Introduction}{73}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}High rate SENB test procedure}{73}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}High rate SENB test results}{76}{subsection.6.4.3}
+\contentsline {subsubsection}{\numberline {6.4.3.1}Silica-modified epoxy}{76}{subsubsection.6.4.3.1}
+\contentsline {subsubsection}{\numberline {6.4.3.2}CSR-modified epoxy}{78}{subsubsection.6.4.3.2}
+\contentsline {subsubsection}{\numberline {6.4.3.3}Hybrid-modified epoxy}{79}{subsubsection.6.4.3.3}
+\contentsline {section}{\numberline {6.5}Low temperature SENB tests}{83}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Introduction}{83}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Low temperature SENB test procedure}{83}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Low temperature SENB test results}{85}{subsection.6.5.3}
+\contentsline {subsubsection}{\numberline {6.5.3.1}Silica modified epoxy}{85}{subsubsection.6.5.3.1}
+\contentsline {subsubsection}{\numberline {6.5.3.2}CSR modified epoxy}{86}{subsubsection.6.5.3.2}
+\contentsline {subsubsection}{\numberline {6.5.3.3}Hybrid modified epoxy}{88}{subsubsection.6.5.3.3}
+\contentsline {section}{\numberline {6.6}Conclusions}{89}{section.6.6}
+\contentsline {chapter}{\numberline {7}Fracture energy comparison}{91}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{91}{section.7.1}
+\contentsline {section}{\numberline {7.2}Quasi-static fracture energy (from TDCB and SENB)}{91}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Silica-modified epoxy}{91}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}CSR-modified epoxy}{92}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Summary - Quasi-rate fracture energy}{94}{subsection.7.2.3}
+\contentsline {section}{\numberline {7.3}High rate fracture energy}{94}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Introduction}{94}{subsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.1.1}High rate SENB}{94}{subsubsection.7.3.1.1}
+\contentsline {subsubsection}{\numberline {7.3.1.2}High rate TDCB}{95}{subsubsection.7.3.1.2}
+\contentsline {subsubsection}{\numberline {7.3.1.3}Summary}{96}{subsubsection.7.3.1.3}
+\contentsline {section}{\numberline {7.4}Fracture energy from high rate and low temperature}{96}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Introduction}{96}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}High rate and low temperature SENB comparison}{97}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Summary - fracture energy from high rate and low temperature results}{98}{subsection.7.4.3}
+\contentsline {section}{\numberline {7.5}Conclusions}{99}{section.7.5}
+\contentsline {chapter}{\numberline {8}Analytical models}{100}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Introduction}{100}{subsection.8.0.1}
+\contentsline {section}{\numberline {8.1}Halpin-Tsai model}{100}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Modulus Predictions from Halpin-Tsai Model}{100}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Modulus prediction results}{101}{subsection.8.1.2}
+\contentsline {subsubsection}{\numberline {8.1.2.1}Silica-modified epoxy}{101}{subsubsection.8.1.2.1}
+\contentsline {subsubsection}{\numberline {8.1.2.2}CSR-modified epoxy}{103}{subsubsection.8.1.2.2}
+\contentsline {subsubsection}{\numberline {8.1.2.3}Silica / CSR hybrid-modified epoxy}{104}{subsubsection.8.1.2.3}
+\contentsline {subsection}{\numberline {8.1.3}Summary}{105}{subsection.8.1.3}
+\contentsline {section}{\numberline {8.2}Huang \& Kinloch fracture model}{106}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Introduction}{106}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Fracture energy representation}{106}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Contribution of Shear Band Yielding}{107}{subsection.8.2.3}
+\contentsline {subsubsection}{\numberline {8.2.3.1}Contribution of plastic void growth}{108}{subsubsection.8.2.3.1}
+\contentsline {subsection}{\numberline {8.2.4}Contribution of cavitation, debonding and bridging}{108}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.5}Plastic zone size consideration}{109}{subsection.8.2.5}
+\contentsline {subsection}{\numberline {8.2.6}Fracture energy predictions from Huang \& Kinloch model}{109}{subsection.8.2.6}
+\contentsline {subsection}{\numberline {8.2.7}Summary}{116}{subsection.8.2.7}
+\contentsline {section}{\numberline {8.3}Conclusion}{116}{section.8.3}
+\contentsline {chapter}{\numberline {9}Scanning electron microscopy}{117}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{117}{section.9.1}
+\contentsline {section}{\numberline {9.2}Unmodified epoxy}{118}{section.9.2}
+\contentsline {subsubsection}{\numberline {9.2.0.1}Voids in TDCB and SENB specimens}{119}{subsubsection.9.2.0.1}
+\contentsline {section}{\numberline {9.3}Silica modified epoxy}{120}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Fracture and toughening mechanisms}{120}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Effect of concentration of silica particles}{120}{subsection.9.3.2}
+\contentsline {subsubsection}{\numberline {9.3.2.1}Si 5 wt\%}{120}{subsubsection.9.3.2.1}
+\contentsline {subsubsection}{\numberline {9.3.2.2}Si 10 wt\%}{122}{subsubsection.9.3.2.2}
+\contentsline {subsubsection}{\numberline {9.3.2.3}Si 15 wt\%}{122}{subsubsection.9.3.2.3}
+\contentsline {subsubsection}{\numberline {9.3.2.4}Si 25.4 wt\%}{124}{subsubsection.9.3.2.4}
+\contentsline {subsection}{\numberline {9.3.3}Effect of high rate}{124}{subsection.9.3.3}
+\contentsline {subsubsection}{\numberline {9.3.3.1}Si 5 wt\% at 0.1 m/s}{124}{subsubsection.9.3.3.1}
+\contentsline {subsubsection}{\numberline {9.3.3.2}Si 15 wt\% at 0.1 m/s}{124}{subsubsection.9.3.3.2}
+\contentsline {subsubsection}{\numberline {9.3.3.3}Si 25.4 wt\% at 0.1m/s}{126}{subsubsection.9.3.3.3}
+\contentsline {subsubsection}{\numberline {9.3.3.4}Si 5 wt\% at 1m/s}{128}{subsubsection.9.3.3.4}
+\contentsline {subsubsection}{\numberline {9.3.3.5}Si 15 wt\% at 1m/s}{128}{subsubsection.9.3.3.5}
+\contentsline {subsubsection}{\numberline {9.3.3.6}Si 25.4 wt\% at 1m/s}{128}{subsubsection.9.3.3.6}
+\contentsline {subsection}{\numberline {9.3.4}Effect of low temperature}{130}{subsection.9.3.4}
+\contentsline {subsubsection}{\numberline {9.3.4.1}Si 5 wt\% at -40$^oC$}{130}{subsubsection.9.3.4.1}
+\contentsline {subsubsection}{\numberline {9.3.4.2}Si 15 wt\% at -40$^oC$}{130}{subsubsection.9.3.4.2}
+\contentsline {subsubsection}{\numberline {9.3.4.3}Si 25/4 wt\% at -40 $^oC$}{131}{subsubsection.9.3.4.3}
+\contentsline {subsubsection}{\numberline {9.3.4.4}Si 5 wt\% at -80$^oC$}{131}{subsubsection.9.3.4.4}
+\contentsline {subsubsection}{\numberline {9.3.4.5}Si 15 wt\% at -80$^oC$}{131}{subsubsection.9.3.4.5}
+\contentsline {subsubsection}{\numberline {9.3.4.6}Si 25/4 wt\% at -80 $^oC$}{133}{subsubsection.9.3.4.6}
+\contentsline {section}{\numberline {9.4}Core-shell rubber modified epoxy}{133}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}Effect of concentration of particles}{133}{subsection.9.4.1}
+\contentsline {subsection}{\numberline {9.4.2}Fracture and toughening mechanisms}{133}{subsection.9.4.2}
+\contentsline {subsubsection}{\numberline {9.4.2.1}Deformation of particles}{133}{subsubsection.9.4.2.1}
+\contentsline {subsubsection}{\numberline {9.4.2.2}Effect of concentration of particles}{134}{subsubsection.9.4.2.2}
+\contentsline {subsection}{\numberline {9.4.3}Effect of high rate}{138}{subsection.9.4.3}
+\contentsline {subsubsection}{\numberline {9.4.3.1}0.1 m/s}{138}{subsubsection.9.4.3.1}
+\contentsline {subsection}{\numberline {9.4.4}Effect of low temperature}{140}{subsection.9.4.4}
+\contentsline {section}{\numberline {9.5}Silica / CSR hybrid modified epoxy}{142}{section.9.5}
+\contentsline {subsection}{\numberline {9.5.1}Fracture and toughening mechanisms}{142}{subsection.9.5.1}
+\contentsline {subsection}{\numberline {9.5.2}Effect of concentration of particles}{142}{subsection.9.5.2}
+\contentsline {subsection}{\numberline {9.5.3}Effect of low temperature}{144}{subsection.9.5.3}
+\contentsline {subsection}{\numberline {9.5.4}Effect of high rate}{147}{subsection.9.5.4}
+\contentsline {section}{\numberline {9.6}Alumino silicate ceramics microsphere modified epoxy}{149}{section.9.6}
+\contentsline {subsection}{\numberline {9.6.1}Fracture and toughening mechanisms}{149}{subsection.9.6.1}
+\contentsline {subsection}{\numberline {9.6.2}Effect of concentration of particles}{149}{subsection.9.6.2}
+\contentsline {subsection}{\numberline {9.6.3}Effect of low temperature}{151}{subsection.9.6.3}
+\contentsline {section}{\numberline {9.7}Ceramic microphere / CSR hybrid modified epoxy}{155}{section.9.7}
+\contentsline {subsection}{\numberline {9.7.1}Fracture and toughening mechanisms}{155}{subsection.9.7.1}
+\contentsline {subsection}{\numberline {9.7.2}Effect of concentration of particles}{155}{subsection.9.7.2}
+\contentsline {subsection}{\numberline {9.7.3}Effect of low temperature}{158}{subsection.9.7.3}
+\contentsline {section}{\numberline {9.8}(PES) Polyethersulfore modified epoxy}{160}{section.9.8}
+\contentsline {subsection}{\numberline {9.8.1}Fracture and toughening mechanisms}{160}{subsection.9.8.1}
+\contentsline {subsection}{\numberline {9.8.2}Effect of concentration of particles}{160}{subsection.9.8.2}
+\contentsline {subsection}{\numberline {9.8.3}Effect of low temperature}{162}{subsection.9.8.3}
+\contentsline {section}{\numberline {9.9}Polyethersulfore / Silica hybrid modified epoxy}{168}{section.9.9}
+\contentsline {subsection}{\numberline {9.9.1}Fracture and toughening mechanisms}{168}{subsection.9.9.1}
+\contentsline {subsection}{\numberline {9.9.2}Effect of concentration of particles}{168}{subsection.9.9.2}
+\contentsline {subsection}{\numberline {9.9.3}Effect of low temperature}{171}{subsection.9.9.3}
+\contentsline {section}{\numberline {9.10}Particles count}{175}{section.9.10}
+\contentsline {subsection}{\numberline {9.10.1}Particles count - Introduction}{175}{subsection.9.10.1}
+\contentsline {subsection}{\numberline {9.10.2}Particles count example}{176}{subsection.9.10.2}
+\contentsline {subsection}{\numberline {9.10.3}Particles count results}{179}{subsection.9.10.3}
+\contentsline {chapter}{\numberline {10}Finite element analysis (FEA)}{183}{chapter.10}
+\contentsline {subsection}{\numberline {10.0.4}Finite element analysis introduction}{183}{subsection.10.0.4}
+\contentsline {subsection}{\numberline {10.0.5}One element Tensile model}{185}{subsection.10.0.5}
+\contentsline {subsection}{\numberline {10.0.6}Finite element analysis results-TDCB}{186}{subsection.10.0.6}
+\contentsline {subsubsection}{\numberline {10.0.6.1}Silica-modified epoxy}{186}{subsubsection.10.0.6.1}
+\contentsline {subsubsection}{\numberline {10.0.6.2}CSR-modified epoxy}{188}{subsubsection.10.0.6.2}
+\contentsline {subsection}{\numberline {10.0.7}High rate TDCB}{190}{subsection.10.0.7}
+\contentsline {subsubsection}{\numberline {10.0.7.1}1 m/s}{190}{subsubsection.10.0.7.1}
+\contentsline {paragraph}{\numberline {10.0.7.1.1}Si 2 wt\%}{190}{paragraph.10.0.7.1.1}
+\contentsline {paragraph}{\numberline {10.0.7.1.2}Si 5 wt\%}{190}{paragraph.10.0.7.1.2}
+\contentsline {paragraph}{\numberline {10.0.7.1.3}Si 10 wt\%}{191}{paragraph.10.0.7.1.3}
+\contentsline {paragraph}{\numberline {10.0.7.1.4}CSR 2 wt\%}{191}{paragraph.10.0.7.1.4}
+\contentsline {paragraph}{\numberline {10.0.7.1.5}CSR 5 wt\%}{192}{paragraph.10.0.7.1.5}
+\contentsline {paragraph}{\numberline {10.0.7.1.6}CSR 10 wt\%}{192}{paragraph.10.0.7.1.6}
+\contentsline {subsubsection}{\numberline {10.0.7.2}High rate TDCB conclusion}{193}{subsubsection.10.0.7.2}
+\contentsline {subsection}{\numberline {10.0.8}One-element tensile model}{193}{subsection.10.0.8}
+\contentsline {subsection}{\numberline {10.0.9}Finite element analysis of SENB model}{193}{subsection.10.0.9}
+\contentsline {subsection}{\numberline {10.0.10}SENB model Results}{195}{subsection.10.0.10}
+\contentsline {subsubsection}{\numberline {10.0.10.1}SENB silica results}{195}{subsubsection.10.0.10.1}
+\contentsline {subsubsection}{\numberline {10.0.10.2}SENB CSR results}{198}{subsubsection.10.0.10.2}
+\contentsline {subsubsection}{\numberline {10.0.10.3}SENB Hybrid (Si/CSR) results}{199}{subsubsection.10.0.10.3}
+\contentsline {subsubsection}{\numberline {10.0.10.4}W210}{200}{subsubsection.10.0.10.4}
+\contentsline {subsubsection}{\numberline {10.0.10.5}Hybrid W210}{203}{subsubsection.10.0.10.5}
+\contentsline {subsubsection}{\numberline {10.0.10.6}PES}{204}{subsubsection.10.0.10.6}
+\contentsline {subsubsection}{\numberline {10.0.10.7}Hybrid PES}{205}{subsubsection.10.0.10.7}
+\contentsline {subsubsection}{\numberline {10.0.10.8}SENB model results conclusion}{206}{subsubsection.10.0.10.8}
+\contentsline {subsection}{\numberline {10.0.11}Low temperature SENB}{206}{subsection.10.0.11}
+\contentsline {subsubsection}{\numberline {10.0.11.1}Silica $ -40 ^{o}C$}{206}{subsubsection.10.0.11.1}
+\contentsline {subsubsection}{\numberline {10.0.11.2}Silica $ -80 ^{o}C$}{207}{subsubsection.10.0.11.2}
+\contentsline {subsubsection}{\numberline {10.0.11.3}CSR $ -40 ^{o}C$}{209}{subsubsection.10.0.11.3}
+\contentsline {subsubsection}{\numberline {10.0.11.4}CSR $ -80 ^{o}C$}{210}{subsubsection.10.0.11.4}
+\contentsline {subsubsection}{\numberline {10.0.11.5}Hybrid(Si/CSR) $ -40 ^{o}C$}{211}{subsubsection.10.0.11.5}
+\contentsline {subsubsection}{\numberline {10.0.11.6}Hybrid(Si/CSR) $ -80 ^{o}C$}{214}{subsubsection.10.0.11.6}
+\contentsline {subsubsection}{\numberline {10.0.11.7}W210 $ -40 ^{o}C$}{214}{subsubsection.10.0.11.7}
+\contentsline {subsubsection}{\numberline {10.0.11.8}W210 $ -80 ^{o}C$}{217}{subsubsection.10.0.11.8}
+\contentsline {subsubsection}{\numberline {10.0.11.9}Hybrid W210 $ -40 ^{o}C$}{218}{subsubsection.10.0.11.9}
+\contentsline {subsubsection}{\numberline {10.0.11.10} Hybrid W210 $ -80 ^{o}C$}{219}{subsubsection.10.0.11.10}
+\contentsline {subsubsection}{\numberline {10.0.11.11} PES $ -40 ^{o}C$}{220}{subsubsection.10.0.11.11}
+\contentsline {subsubsection}{\numberline {10.0.11.12} PES $ -80 ^{o}C$}{221}{subsubsection.10.0.11.12}
+\contentsline {subsubsection}{\numberline {10.0.11.13} Hybrid PES $ -40 ^{o}C$}{222}{subsubsection.10.0.11.13}
+\contentsline {subsubsection}{\numberline {10.0.11.14} Hybrid PES $ -80 ^{o}C$}{223}{subsubsection.10.0.11.14}
+\contentsline {subsection}{\numberline {10.0.12}High rate SENB}{224}{subsection.10.0.12}
+\contentsline {subsubsection}{\numberline {10.0.12.1}Silica - 0.1 m/s}{224}{subsubsection.10.0.12.1}
+\contentsline {subsubsection}{\numberline {10.0.12.2}Silica - 1 m/s}{225}{subsubsection.10.0.12.2}
+\contentsline {subsubsection}{\numberline {10.0.12.3}CSR - 0.1 m/s}{228}{subsubsection.10.0.12.3}
+\contentsline {subsubsection}{\numberline {10.0.12.4}CSR - 1 m/s}{229}{subsubsection.10.0.12.4}
+\contentsline {subsubsection}{\numberline {10.0.12.5}Hybrid - 0.1 m/s}{232}{subsubsection.10.0.12.5}
+\contentsline {subsubsection}{\numberline {10.0.12.6}Hybrid - 1 m/s}{233}{subsubsection.10.0.12.6}
+\contentsline {subsection}{\numberline {10.0.13}The relationship between fracture energy and displacement}{236}{subsection.10.0.13}
+\contentsline {section}{\numberline {10.1}Load predictions range}{238}{section.10.1}
+\contentsline {section}{\numberline {10.2}Mesh Convergence}{238}{section.10.2}
+\contentsline {chapter}{\numberline {11}W210 and PES results comparisons}{239}{chapter.11}
+\contentsline {section}{\numberline {11.1}Tensile results of PES and W210}{239}{section.11.1}
+\contentsline {section}{\numberline {11.2}Low temperature SENB (PES, W210)}{240}{section.11.2}
+\contentsline {subsubsection}{\numberline {11.2.0.1}W210 ceramics, PES, hybrid W210 (W210 and CSR), Hybrid PES (PES and silica)}{240}{subsubsection.11.2.0.1}
+\contentsline {subsection}{\numberline {11.2.1}Fracture energy predictions}{245}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}Analytical model modulus predictions}{250}{subsection.11.2.2}
+\contentsline {section}{\numberline {11.3}Dynamic Mechanical Analysis (DMA)}{255}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}DMA results}{256}{subsection.11.3.1}
+\contentsline {chapter}{\numberline {12}Conclusions}{261}{chapter.12}
+\contentsline {chapter}{\numberline {13}Further work}{263}{chapter.13}
+\contentsline {chapter}{References}{264}{chapter.13}
+\contentsline {chapter}{\numberline {A}Appendices}{273}{appendix.A}
+\contentsline {section}{\numberline {A.1}input file}{273}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Input file-TDCB model}{273}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Input file-SENB model}{280}{subsection.A.1.2}
+\contentsline {section}{\numberline {A.2}Particles count images}{287}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}Silica modified epoxy}{287}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {A.2.2}Core-shell rubber modified epoxy}{290}{subsection.A.2.2}
+\contentsline {subsection}{\numberline {A.2.3}Alumino silicate ceramics microsphere modified epoxy (W210)}{295}{subsection.A.2.3}
+\contentsline {subsection}{\numberline {A.2.4}(PES) Polyethersulfore modified epoxy}{301}{subsection.A.2.4}

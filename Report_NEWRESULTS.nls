@@ -1,0 +1,87 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{$\mu _m $}]\begingroup Coefficient of increase of shear yield stress with hydrostatic pressure \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$\nu$}]\begingroup Poisson’s ratio \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$\Psi$}]\begingroup Overall toughening contributions of the phase \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$\sigma _{ycu}$}]\begingroup Compressive yield stress of unmodified polymer \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$\sigma _{yt}$}]\begingroup Tensile yield stress \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$G_u$}]\begingroup Fracture energy of unmodified epoxy \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$K_v$}]\begingroup Stress concentration factor for voids \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$K_{sp}$}]\begingroup Maximum stress concentration around a particle \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$r_{pzu}$}]\begingroup Plastic zone size at fracture \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$r_{pz}$}]\begingroup Plane-strain plastic deformation zone \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$V_f$}]\begingroup Volume fraction of particles \nomeqref {1.0}
+		\nompageref{1}
+
+ \nomgroup{B}
+
+  \item [{$\Delta G_s$}]\begingroup Energy from Shear band yielding \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$\Delta G_v$}]\begingroup Energy from Plastic void-growth \nomeqref {1.0}
+		\nompageref{1}
+  \item [{$\Delta G_{db}$}]\begingroup Energy from Debonding of particles \nomeqref {1.0}
+		\nompageref{1}
+  \item [{ATBN}]\begingroup Amino-Terminated-Acrylonitrile\nomeqref {1.0}
+		\nompageref{1}
+  \item [{CBT}]\begingroup Corrected Beam Theory\nomeqref {1.0}
+		\nompageref{1}
+  \item [{CSR}]\begingroup Core Shell Rubber\nomeqref {1.0}
+		\nompageref{1}
+  \item [{CTBN}]\begingroup Carboxyl-Terminated Butadiene-Acrylonitrile rubber \nomeqref {1.0}
+		\nompageref{1}
+  \item [{CZM}]\begingroup Cohesive Zone Modelling \nomeqref {1.0}
+		\nompageref{1}
+  \item [{DCB}]\begingroup Double Cantilever Beam \nomeqref {1.0}
+		\nompageref{1}
+  \item [{DGEBA}]\begingroup Diglycidyl Ether of Bisphenol A\nomeqref {1.0}
+		\nompageref{1}
+  \item [{DMA}]\begingroup Dynamic Mechanical Analysis\nomeqref {1.0}
+		\nompageref{1}
+  \item [{DSC}]\begingroup Differential Scanning Calorimetry\nomeqref {1.0}
+		\nompageref{1}
+  \item [{E}]\begingroup Modulus\nomeqref {1.0}\nompageref{1}
+  \item [{ECM}]\begingroup Experimental Compliance Method\nomeqref {1.0}
+		\nompageref{1}
+  \item [{FEA}]\begingroup Finite Element Analysis \nomeqref {1.0}
+		\nompageref{1}
+  \item [{FEG-SEM}]\begingroup Field Emission Gun Scanning Electron Microscopy  \nomeqref {1.0}
+		\nompageref{1}
+  \item [{FEG-SEM}]\begingroup Field Emission Gun Scanning Electron Microscopy\nomeqref {1.0}
+		\nompageref{1}
+  \item [{G}]\begingroup Fracture energy \nomeqref {1.0}\nompageref{1}
+  \item [{HSV}]\begingroup High-Speed Video  \nomeqref {1.0}
+		\nompageref{1}
+  \item [{LEFM}]\begingroup Linear Elastic Fracture Mechanics\nomeqref {1.0}
+		\nompageref{1}
+  \item [{LMD}]\begingroup Lost Motion Device\nomeqref {1.0}
+		\nompageref{1}
+  \item [{LVDT}]\begingroup Linear Variable Displacement Transformer\nomeqref {1.0}
+		\nompageref{1}
+  \item [{PES}]\begingroup Polyethersulphone\nomeqref {1.0}
+		\nompageref{1}
+  \item [{PTFE}]\begingroup Polytetrafluoroethylene\nomeqref {1.0}
+		\nompageref{1}
+  \item [{SBT}]\begingroup Simple Beam Theory \nomeqref {1.0}
+		\nompageref{1}
+  \item [{SENB}]\begingroup Single-Edge Notch Three-point Bending \nomeqref {1.0}
+		\nompageref{1}
+  \item [{TDCB}]\begingroup Tapered double cantilever beam\nomeqref {1.0}
+		\nompageref{1}
+  \item [{VCCT}]\begingroup Virtual Crack Closure Technique \nomeqref {1.0}
+		\nompageref{1}
+  \item [{VTBN}]\begingroup Vinyl-Terminated Butadiene-Acrylonitrile\nomeqref {1.0}
+		\nompageref{1}
+
+\end{thenomenclature}

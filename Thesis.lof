@@ -1,0 +1,256 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Different phases of PES in epoxy: a) Particulate, b) Transition between particulate and co-continuous, c) Co-continuous and d) Phase-inverted microstructure \cite {Chong2015}\relax }}{9}{figure.caption.5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Co-continuous phase \cite {Bagheri2009}\relax }}{9}{figure.caption.6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces The different modes of loading for fracture \cite {Hodgkin1998}\relax }}{11}{figure.caption.7}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Plastic zone model \cite {Kinloch1994}\relax }}{13}{figure.caption.8}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces TDCB geometry \cite {Brett2011}\relax }}{13}{figure.caption.9}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Failure modes diagram a) cohesive, and b) interfacial failure \cite {Lee2006} \relax }}{14}{figure.caption.10}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Graphic representation of fracture types under different testing conditions \cite {Lee2006}\relax }}{16}{figure.caption.11}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Single-edge notch bending (SENB) specimen \cite {D50232007}\relax }}{17}{figure.caption.12}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Single edge notch bending (SENB) test, loaded in three point bending \cite {Karac2011}\relax }}{18}{figure.caption.13}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Flow chart for data reduction strategy of TDCB test \cite {Huang1992}\relax }}{19}{figure.caption.14}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces The process of crack pinning \cite {Mohammed2007}\relax }}{22}{figure.caption.15}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Crack deflection by a particle, after \cite {Kinloch1994}\relax }}{22}{figure.caption.16}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces SEM image of cavitation of rubber particles \cite {Kinloch1997} \relax }}{23}{figure.caption.17}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces SEM image of debonding of glass particles \cite {Huang1992d}\relax }}{23}{figure.caption.18}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Rubber bridging model \cite {Guild2010}\relax }}{24}{figure.caption.19}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces SEM showing plastic void growth of epoxy (tested at 40\ensuremath {^\circ }C) \cite {Kawaguchi2003}\relax }}{24}{figure.caption.20}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces TDCB bonding jig\relax }}{32}{figure.caption.21}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces TDCB specimens\relax }}{33}{figure.caption.22}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Second heating cycle in DSC showing calculation of $ T_{g} $\relax }}{34}{figure.caption.23}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces TDCB test set up\relax }}{35}{figure.caption.24}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Fracture energy versus crack length for the control epoxy from TDCB specimen\relax }}{39}{figure.caption.26}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Fracture energy against percentage of silica from TDCB specimens (CBT) and model predictions from Hsieh et al. \cite {Huang1992b,Bagheri2000} \relax }}{41}{figure.caption.28}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Fracture energy against percentage of particles for CSR-modified epoxy from TDCB specimens\relax }}{43}{figure.caption.30}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Fracture surfaces of TDCB specimens (crack propagation from right to left)\relax }}{44}{figure.caption.31}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces TDCB high rate test setup showing lost motion device (LMD) which allows rapid specimen acceleration \cite {Adnan2008}\relax }}{48}{figure.caption.32}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces TDCB high rate test setup showing high speed video camera \cite {Adnan2008}\relax }}{48}{figure.caption.33}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Example of high rate TDCB image. Crack propagation was from left to right\relax }}{49}{figure.caption.34}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Distance between centres of pins against time graph for TDCB specimen (1 mm/s)\relax }}{50}{figure.caption.35}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Crack length against time graph for TDCB specimen\relax }}{52}{figure.caption.36}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Average fracture energy from TDCB tests when rate is 0.1 m/s\relax }}{57}{figure.caption.37}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Average fracture energy from TDCB tests when rate is 1 m/s\relax }}{57}{figure.caption.38}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Average fracture energy from TDCB tests rate when is 2 m/s\relax }}{58}{figure.caption.39}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Average fracture energy from TDCB tests when rate is 3 m/s\relax }}{58}{figure.caption.40}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Average fracture energy of silica TDCB specimens at different rates\relax }}{59}{figure.caption.41}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Average fracture energy of CSR TDCB specimens at different rates\relax }}{59}{figure.caption.42}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Average fracture energy of silica / CSR hybrid TDCB specimens at different rates\relax }}{60}{figure.caption.43}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Tensile test geometry (dimensions in millimetres) \cite {Chong2015}\relax }}{62}{figure.caption.44}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Tensile stress against strain curve example - control epoxy\relax }}{64}{figure.caption.45}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Tensile modulus results of particle-modified epoxy \relax }}{65}{figure.caption.46}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces SENB specimen geometry according to the ISO Standard \cite {ISO13586}, where W is width, l is overall length, B is thickness and a is crack length.\relax }}{68}{figure.caption.50}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Quasi-static SENB test setup at room temperature\relax }}{69}{figure.caption.51}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces SENB force against displacement graph\relax }}{70}{figure.caption.52}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Fracture energy of modified epoxy from SENB tests at quasi-static test rate\relax }}{72}{figure.caption.53}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces High rate SENB test setup \relax }}{74}{figure.caption.55}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Load signal versus time graph example at a test rate of 1 m/s\relax }}{75}{figure.caption.56}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Force fluctuations in SENB fracture tests \cite {ISO13586}\relax }}{76}{figure.caption.57}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Fracture energy of silica-modified epoxy from SENB tests at different test rates\relax }}{77}{figure.caption.58}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Fracture energy of CSR-modified epoxy at different test rates \newline $\ast $ Dynamic effects are significant and hence the data are unreliable\relax }}{79}{figure.caption.60}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Fracture energy of hybrid-modified epoxy from SENB tests at different rates \newline $\ast $ Dynamic effects are significant and hence the data are unreliable\relax }}{81}{figure.caption.62}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Example of force against time graph for SENB test at 1 m/s\relax }}{82}{figure.caption.64}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Low temperature SENB setup\relax }}{84}{figure.caption.65}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Close-up of low temperature SENB setup\relax }}{84}{figure.caption.66}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Fracture energy of silica modified epoxy from SENB tests at low temperature\relax }}{86}{figure.caption.68}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Fracture energy of CSR modified epoxy from SENB tests at low temperature\relax }}{88}{figure.caption.70}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Fracture energy of CSR / silica hybrid modified epoxy at low temperature\relax }}{89}{figure.caption.72}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Fracture energy of silica-modified epoxy (SENB, TDCB)\relax }}{92}{figure.caption.73}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Fracture energy of quasi-static CSR (SENB, TDCB) and CSR-MX-156 modified epoxy \cite {Giannakopoulos2011}\relax }}{93}{figure.caption.74}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Fracture energy at 0.1 m/s for high rate SENB and high rate TDCB for silica, CSR, silica / CSR hybrid modified epoxies\relax }}{95}{figure.caption.75}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Fracture energy at 1 m/s for high rate SENB and high rate TDCB for silica, CSR, silica / CSR hybrid modified epoxies\relax }}{96}{figure.caption.76}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Fracture energy at high rate (1 m/s) and low temperature (-80 $^oC$) for silica, CSR and hybrid modified epoxies\relax }}{97}{figure.caption.77}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Fracture energy at high rate (2 m/s) and low temperature (-80 $^oC$) for silica, CSR and hybrid modified epoxies\relax }}{98}{figure.caption.78}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Predicted modulus from Halpin-Tsai model of silica-modified epoxy\relax }}{102}{figure.caption.80}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Predicted modulus from Halpin-Tsai model of CSR-modified epoxy\relax }}{103}{figure.caption.82}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Predicted modulus from Halpin-Tsai model of silica \ CSR hybrid-modified epoxy\relax }}{105}{figure.caption.84}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Fracture energy prediction of silica-modified epoxy\relax }}{112}{figure.caption.91}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Fracture energy prediction of CSR-modified epoxy\relax }}{114}{figure.caption.93}
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Fracture energy prediction of hybrid-modified epoxy\relax }}{116}{figure.caption.95}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces SEM image of unmodified epoxy (SENB)\relax }}{118}{figure.caption.96}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces SEM image of unmodified epoxy (TDCB)\relax }}{118}{figure.caption.97}
+\contentsline {figure}{\numberline {9.3}{\ignorespaces SEM image of unmodified epoxy (TDCB)\relax }}{119}{figure.caption.98}
+\contentsline {figure}{\numberline {9.4}{\ignorespaces TDCB voids from CSR modified specimens\relax }}{119}{figure.caption.99}
+\contentsline {figure}{\numberline {9.5}{\ignorespaces SENB voids from PES modified specimens\relax }}{120}{figure.caption.100}
+\contentsline {figure}{\numberline {9.6}{\ignorespaces Si 5 wt\% under quasi-static rate\relax }}{121}{figure.caption.101}
+\contentsline {figure}{\numberline {9.7}{\ignorespaces Voids in Silica modified epoxy\relax }}{122}{figure.caption.102}
+\contentsline {figure}{\numberline {9.8}{\ignorespaces Silica modified epoxy 10 wt\%\relax }}{122}{figure.caption.103}
+\contentsline {figure}{\numberline {9.9}{\ignorespaces Silica modified epoxy 15 wt\% \relax }}{123}{figure.caption.104}
+\contentsline {figure}{\numberline {9.10}{\ignorespaces Si max wt\% (25.4 wt\%) \relax }}{124}{figure.caption.105}
+\contentsline {figure}{\numberline {9.11}{\ignorespaces Si 5 wt\% at rate 0.1 m/s\relax }}{124}{figure.caption.106}
+\contentsline {figure}{\numberline {9.12}{\ignorespaces Si 15 wt\% at rate 0.1 m/s\relax }}{125}{figure.caption.107}
+\contentsline {figure}{\numberline {9.13}{\ignorespaces Si 15 wt\% at rate 0.1 m/s zoom in image\relax }}{126}{figure.caption.108}
+\contentsline {figure}{\numberline {9.14}{\ignorespaces Si max\% (25.4 wt\%) at 0.1 m/s\relax }}{127}{figure.caption.109}
+\contentsline {figure}{\numberline {9.15}{\ignorespaces Si 15 wt\% at 1 m/s\relax }}{128}{figure.caption.110}
+\contentsline {figure}{\numberline {9.16}{\ignorespaces Si max\% (25.4\%) at 0.1 m/s\relax }}{128}{figure.caption.111}
+\contentsline {figure}{\numberline {9.17}{\ignorespaces Si max\% (25.4\%) at 0.1 m/s\relax }}{129}{figure.caption.112}
+\contentsline {figure}{\numberline {9.18}{\ignorespaces Si 5 wt\% at -40$^oC$\relax }}{130}{figure.caption.113}
+\contentsline {figure}{\numberline {9.19}{\ignorespaces Si 15 wt\% at -40$^oC$\relax }}{130}{figure.caption.114}
+\contentsline {figure}{\numberline {9.20}{\ignorespaces Si max\% (25.4\%) at -40$^oC$\relax }}{131}{figure.caption.115}
+\contentsline {figure}{\numberline {9.21}{\ignorespaces Si 5 wt\% at -80$^oC$\relax }}{131}{figure.caption.116}
+\contentsline {figure}{\numberline {9.22}{\ignorespaces Si 5 wt\% at -80$^oC$\relax }}{132}{figure.caption.117}
+\contentsline {figure}{\numberline {9.23}{\ignorespaces Si max\% (25.4\%) at -40$^oC$\relax }}{133}{figure.caption.118}
+\contentsline {figure}{\numberline {9.24}{\ignorespaces Original CSR particles\relax }}{134}{figure.caption.119}
+\contentsline {figure}{\numberline {9.25}{\ignorespaces Example of damaged CSR particles\relax }}{134}{figure.caption.120}
+\contentsline {figure}{\numberline {9.26}{\ignorespaces CSR 0.5 wt\% specimen\relax }}{135}{figure.caption.121}
+\contentsline {figure}{\numberline {9.27}{\ignorespaces CSR 3\% specimen\relax }}{135}{figure.caption.122}
+\contentsline {figure}{\numberline {9.28}{\ignorespaces CSR 5 wt\% specimen\relax }}{136}{figure.caption.123}
+\contentsline {figure}{\numberline {9.29}{\ignorespaces CSR 10 wt\% specimen\relax }}{136}{figure.caption.124}
+\contentsline {figure}{\numberline {9.30}{\ignorespaces Deformed CSR particles for high \% of CSR specimen \relax }}{137}{figure.caption.125}
+\contentsline {figure}{\numberline {9.31}{\ignorespaces Deformed CSR particles for low \% of CSR specimen \relax }}{137}{figure.caption.126}
+\contentsline {figure}{\numberline {9.32}{\ignorespaces Small voids inside a particle\relax }}{137}{figure.caption.127}
+\contentsline {figure}{\numberline {9.33}{\ignorespaces Epoxy inside a large CSR particle\relax }}{138}{figure.caption.128}
+\contentsline {figure}{\numberline {9.34}{\ignorespaces Example of CSR particle deformation at high magnification \relax }}{138}{figure.caption.129}
+\contentsline {figure}{\numberline {9.35}{\ignorespaces 0.5 wt\% CSR-modified epoxy specimen tested at a rate of 0.1 m/s\relax }}{139}{figure.caption.130}
+\contentsline {figure}{\numberline {9.36}{\ignorespaces 5 wt\% CSR-modified epoxy specimen tested at a rate of 0.1 m/s\relax }}{139}{figure.caption.131}
+\contentsline {figure}{\numberline {9.37}{\ignorespaces 10 wt\% CSR-modified epoxy specimen tested at a rate of 0.1 m/s\relax }}{139}{figure.caption.132}
+\contentsline {figure}{\numberline {9.38}{\ignorespaces 0.5 wt\% CSR-modified epoxy specimen tested at $\discretionary {-}{}{}40 ^oC$\relax }}{140}{figure.caption.133}
+\contentsline {figure}{\numberline {9.39}{\ignorespaces 5 wt\% -modified epoxy specimen tested at $\discretionary {-}{}{}40 ^oC$\relax }}{140}{figure.caption.134}
+\contentsline {figure}{\numberline {9.40}{\ignorespaces 10 wt\% -modified epoxy specimen tested at $\discretionary {-}{}{}40 ^oC$\relax }}{141}{figure.caption.135}
+\contentsline {figure}{\numberline {9.41}{\ignorespaces 1 wt\% CSR-modified epoxy specimen tested at $\discretionary {-}{}{}80 ^oC$\relax }}{141}{figure.caption.136}
+\contentsline {figure}{\numberline {9.42}{\ignorespaces 5 wt\% CSR-modified epoxy specimen tested at $\discretionary {-}{}{}80 ^oC$\relax }}{142}{figure.caption.137}
+\contentsline {figure}{\numberline {9.43}{\ignorespaces 10 wt\% CSR-modified epoxy specimen tested at $\discretionary {-}{}{}80 ^oC$\relax }}{142}{figure.caption.138}
+\contentsline {figure}{\numberline {9.44}{\ignorespaces Silica / CSR hybrid-modified epoxy 1 wt\% specimen tested at quasi-static rate\relax }}{143}{figure.caption.139}
+\contentsline {figure}{\numberline {9.45}{\ignorespaces Silica / CSR hybrid-modified epoxy 5 wt\% specimen tested at quasi-static rate\relax }}{143}{figure.caption.140}
+\contentsline {figure}{\numberline {9.46}{\ignorespaces Silica / CSR hybrid-modified epoxy 10 wt\% specimen tested at quasi-static rate\relax }}{144}{figure.caption.141}
+\contentsline {figure}{\numberline {9.47}{\ignorespaces hybrid-modified epoxy 1 wt\% specimen tested at $\discretionary {-}{}{}40 ^oC$\relax }}{144}{figure.caption.142}
+\contentsline {figure}{\numberline {9.48}{\ignorespaces hybrid-modified epoxy 5 wt\% specimen tested at $\discretionary {-}{}{}40 ^oC$\relax }}{145}{figure.caption.143}
+\contentsline {figure}{\numberline {9.49}{\ignorespaces hybrid-modified epoxy 10 wt\% specimen tested at $\discretionary {-}{}{}40 ^oC$\relax }}{145}{figure.caption.144}
+\contentsline {figure}{\numberline {9.50}{\ignorespaces hybrid-modified epoxy 1\% specimen tested at $\discretionary {-}{}{}80 ^oC$\relax }}{146}{figure.caption.145}
+\contentsline {figure}{\numberline {9.51}{\ignorespaces Zoom in image of hybrid-modified epoxy 1\% specimen tested at $\discretionary {-}{}{}80 ^oC$\relax }}{146}{figure.caption.146}
+\contentsline {figure}{\numberline {9.52}{\ignorespaces silica / CSR hybrid-modified epoxy 1\% specimen tested at $\discretionary {-}{}{}80 ^oC$\relax }}{146}{figure.caption.147}
+\contentsline {figure}{\numberline {9.53}{\ignorespaces hybrid-modified epoxy 5 wt\% specimen tested at $\discretionary {-}{}{}80 ^oC$\relax }}{147}{figure.caption.148}
+\contentsline {figure}{\numberline {9.54}{\ignorespaces hybrid-modified epoxy 10 wt\% specimen tested at $\discretionary {-}{}{}80 ^oC$\relax }}{147}{figure.caption.149}
+\contentsline {figure}{\numberline {9.55}{\ignorespaces Hybrid-modified epoxy 2 wt\% specimen tested at rate 0.1 m/s\relax }}{148}{figure.caption.150}
+\contentsline {figure}{\numberline {9.56}{\ignorespaces Hybrid-modified epoxy 5 wt\% specimen tested at rate 0.1 m/s\relax }}{148}{figure.caption.151}
+\contentsline {figure}{\numberline {9.57}{\ignorespaces W210 5 wt\% SEM image\relax }}{149}{figure.caption.152}
+\contentsline {figure}{\numberline {9.58}{\ignorespaces W210 5 wt\% SEM image\relax }}{150}{figure.caption.153}
+\contentsline {figure}{\numberline {9.59}{\ignorespaces W210 10 wt\% SEM image\relax }}{151}{figure.caption.154}
+\contentsline {figure}{\numberline {9.60}{\ignorespaces W210 SEM image\relax }}{151}{figure.caption.155}
+\contentsline {figure}{\numberline {9.61}{\ignorespaces W210 SEM image\relax }}{152}{figure.caption.156}
+\contentsline {figure}{\numberline {9.62}{\ignorespaces W210 SEM image\relax }}{153}{figure.caption.157}
+\contentsline {figure}{\numberline {9.63}{\ignorespaces W210 SEM image\relax }}{153}{figure.caption.158}
+\contentsline {figure}{\numberline {9.64}{\ignorespaces W210 SEM image\relax }}{154}{figure.caption.159}
+\contentsline {figure}{\numberline {9.65}{\ignorespaces W210 SEM image\relax }}{155}{figure.caption.160}
+\contentsline {figure}{\numberline {9.66}{\ignorespaces Hybrid W210 2wt\%\relax }}{155}{figure.caption.161}
+\contentsline {figure}{\numberline {9.67}{\ignorespaces Hybrid W210 5 wt\% SEM image\relax }}{156}{figure.caption.162}
+\contentsline {figure}{\numberline {9.68}{\ignorespaces Hybrid W210 10 wt\% SEM image\relax }}{156}{figure.caption.163}
+\contentsline {figure}{\numberline {9.69}{\ignorespaces Hybrid W210 10 wt\% SEM image\relax }}{157}{figure.caption.164}
+\contentsline {figure}{\numberline {9.70}{\ignorespaces Hybrid W210 10 wt\% SEM image\relax }}{158}{figure.caption.165}
+\contentsline {figure}{\numberline {9.71}{\ignorespaces \relax }}{158}{figure.caption.166}
+\contentsline {figure}{\numberline {9.72}{\ignorespaces \relax }}{159}{figure.caption.167}
+\contentsline {figure}{\numberline {9.73}{\ignorespaces \relax }}{160}{figure.caption.168}
+\contentsline {figure}{\numberline {9.74}{\ignorespaces PES 2 wt\%\relax }}{160}{figure.caption.169}
+\contentsline {figure}{\numberline {9.75}{\ignorespaces Different sizes of PES particles (PES 2 wt\%)\relax }}{161}{figure.caption.170}
+\contentsline {figure}{\numberline {9.76}{\ignorespaces Different sizes of PES particles tearing off from surface (PES 5 wt\%)\relax }}{162}{figure.caption.171}
+\contentsline {figure}{\numberline {9.77}{\ignorespaces Brittle PES surface (PES 10 wt\%)\relax }}{162}{figure.caption.172}
+\contentsline {figure}{\numberline {9.78}{\ignorespaces Broken PES (PES 2 wt\%)\relax }}{163}{figure.caption.173}
+\contentsline {figure}{\numberline {9.79}{\ignorespaces Broken PES (PES 2 wt\%)\relax }}{164}{figure.caption.174}
+\contentsline {figure}{\numberline {9.80}{\ignorespaces \relax }}{164}{figure.caption.175}
+\contentsline {figure}{\numberline {9.81}{\ignorespaces PES 10 wt\%\relax }}{164}{figure.caption.176}
+\contentsline {figure}{\numberline {9.82}{\ignorespaces PES 10 wt\%\relax }}{165}{figure.caption.177}
+\contentsline {figure}{\numberline {9.83}{\ignorespaces \relax }}{166}{figure.caption.178}
+\contentsline {figure}{\numberline {9.84}{\ignorespaces \relax }}{166}{figure.caption.179}
+\contentsline {figure}{\numberline {9.85}{\ignorespaces \relax }}{167}{figure.caption.180}
+\contentsline {figure}{\numberline {9.86}{\ignorespaces PES small particles (PES 10 wt\%)\relax }}{168}{figure.caption.181}
+\contentsline {figure}{\numberline {9.87}{\ignorespaces Zoom in image of PES small particles (PES 10 wt\%)\relax }}{168}{figure.caption.182}
+\contentsline {figure}{\numberline {9.88}{\ignorespaces Hybrid PES 2 wt\% SEM image\relax }}{169}{figure.caption.183}
+\contentsline {figure}{\numberline {9.89}{\ignorespaces Hybrid PES 10 wt\% SEM image\relax }}{169}{figure.caption.184}
+\contentsline {figure}{\numberline {9.90}{\ignorespaces Hybrid PES 10 wt\% SEM image\relax }}{170}{figure.caption.185}
+\contentsline {figure}{\numberline {9.91}{\ignorespaces PES 10 wt\%\relax }}{171}{figure.caption.186}
+\contentsline {figure}{\numberline {9.92}{\ignorespaces \relax }}{171}{figure.caption.187}
+\contentsline {figure}{\numberline {9.93}{\ignorespaces \relax }}{172}{figure.caption.188}
+\contentsline {figure}{\numberline {9.94}{\ignorespaces \relax }}{173}{figure.caption.189}
+\contentsline {figure}{\numberline {9.95}{\ignorespaces \relax }}{173}{figure.caption.190}
+\contentsline {figure}{\numberline {9.96}{\ignorespaces \relax }}{173}{figure.caption.191}
+\contentsline {figure}{\numberline {9.97}{\ignorespaces \relax }}{174}{figure.caption.192}
+\contentsline {figure}{\numberline {9.98}{\ignorespaces \relax }}{175}{figure.caption.193}
+\contentsline {figure}{\numberline {9.99}{\ignorespaces \relax }}{175}{figure.caption.194}
+\contentsline {figure}{\numberline {9.100}{\ignorespaces W210 2 wt\% image used for particles count\relax }}{176}{figure.caption.195}
+\contentsline {figure}{\numberline {9.101}{\ignorespaces Binary image of W210 2 wt\%\relax }}{177}{figure.caption.196}
+\contentsline {figure}{\numberline {9.102}{\ignorespaces Particles count of W210 2 wt\% image\relax }}{178}{figure.caption.197}
+\contentsline {figure}{\numberline {9.103}{\ignorespaces Particles count with ImageJ\relax }}{179}{figure.caption.198}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Forces in TDCB (modified from \cite {Brett2011})\relax }}{183}{figure.caption.204}
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Traction-separation curve \cite {Brett2011}\relax }}{184}{figure.caption.206}
+\contentsline {figure}{\numberline {10.3}{\ignorespaces One Element Tensile model\relax }}{185}{figure.caption.207}
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Traction-separation curve induced from tensile model\relax }}{186}{figure.caption.208}
+\contentsline {figure}{\numberline {10.5}{\ignorespaces TDCB model - silica results predictions graph\relax }}{187}{figure.caption.209}
+\contentsline {figure}{\numberline {10.6}{\ignorespaces TDCB model - CSR results predictions graph\relax }}{189}{figure.caption.211}
+\contentsline {figure}{\numberline {10.7}{\ignorespaces SENB mesh\relax }}{194}{figure.caption.219}
+\contentsline {figure}{\numberline {10.8}{\ignorespaces SENB boundary conditions\relax }}{194}{figure.caption.220}
+\contentsline {figure}{\numberline {10.9}{\ignorespaces SENB silica load predictions graph\relax }}{196}{figure.caption.221}
+\contentsline {figure}{\numberline {10.10}{\ignorespaces SENB CSR load predictions graph\relax }}{198}{figure.caption.223}
+\contentsline {figure}{\numberline {10.11}{\ignorespaces SENB Hybrid load predictions graph\relax }}{199}{figure.caption.225}
+\contentsline {figure}{\numberline {10.12}{\ignorespaces SENB W210 load predictions graph\relax }}{201}{figure.caption.227}
+\contentsline {figure}{\numberline {10.13}{\ignorespaces SENB hybrid W210 load predictions graph\relax }}{203}{figure.caption.229}
+\contentsline {figure}{\numberline {10.14}{\ignorespaces SENB PES load predictions graph\relax }}{204}{figure.caption.231}
+\contentsline {figure}{\numberline {10.15}{\ignorespaces SENB W210 load predictions graph\relax }}{205}{figure.caption.233}
+\contentsline {figure}{\numberline {10.16}{\ignorespaces Low Temperature ($ -40 ^{o}C$) silica load predictions graph\relax }}{206}{figure.caption.235}
+\contentsline {figure}{\numberline {10.17}{\ignorespaces Low Temperature ($ -80 ^{o}C$) silica load predictions graph\relax }}{208}{figure.caption.237}
+\contentsline {figure}{\numberline {10.18}{\ignorespaces Low Temperature ($ -40 ^{o}C$) silica load predictions graph\relax }}{209}{figure.caption.239}
+\contentsline {figure}{\numberline {10.19}{\ignorespaces Low Temperature ($ -80 ^{o}C$) CSR load predictions graph\relax }}{210}{figure.caption.241}
+\contentsline {figure}{\numberline {10.20}{\ignorespaces Low Temperature ($ -40 ^{o}C$) Hybrid load predictions graph\relax }}{212}{figure.caption.243}
+\contentsline {figure}{\numberline {10.21}{\ignorespaces Low Temperature ($ -80 ^{o}C$) Hybrid load predictions graph\relax }}{214}{figure.caption.245}
+\contentsline {figure}{\numberline {10.22}{\ignorespaces Low Temperature ($ -40 ^{o}C$) W210 load predictions graph\relax }}{215}{figure.caption.247}
+\contentsline {figure}{\numberline {10.23}{\ignorespaces Low Temperature ($ -80 ^{o}C$) W210 load predictions graph\relax }}{217}{figure.caption.249}
+\contentsline {figure}{\numberline {10.24}{\ignorespaces Low Temperature ($ -40 ^{o}C$) Hybrid W210 load predictions graph\relax }}{218}{figure.caption.251}
+\contentsline {figure}{\numberline {10.25}{\ignorespaces Low Temperature ($ -80 ^{o}C$) Hybrid W210 load predictions graph\relax }}{219}{figure.caption.253}
+\contentsline {figure}{\numberline {10.26}{\ignorespaces Low Temperature ($ -40 ^{o}C$) PES load predictions graph\relax }}{220}{figure.caption.255}
+\contentsline {figure}{\numberline {10.27}{\ignorespaces Low Temperature ($ -80 ^{o}C$) PES load predictions graph\relax }}{221}{figure.caption.257}
+\contentsline {figure}{\numberline {10.28}{\ignorespaces Low Temperature ($ -40 ^{o}C$) Hybrid PES load predictions graph\relax }}{222}{figure.caption.259}
+\contentsline {figure}{\numberline {10.29}{\ignorespaces Low Temperature ($ -80 ^{o}C$) Hybrid PES load predictions graph\relax }}{223}{figure.caption.261}
+\contentsline {figure}{\numberline {10.30}{\ignorespaces High rate (0.1 m/s) silica SENB load predictions graph\relax }}{224}{figure.caption.263}
+\contentsline {figure}{\numberline {10.31}{\ignorespaces High rate (1 m/s) silica SENB load predictions graph\relax }}{226}{figure.caption.265}
+\contentsline {figure}{\numberline {10.32}{\ignorespaces High rate (0.1 m/s) silica SENB load predictions graph\relax }}{228}{figure.caption.267}
+\contentsline {figure}{\numberline {10.33}{\ignorespaces High rate (1 m/s) CSR SENB load predictions graph\relax }}{230}{figure.caption.269}
+\contentsline {figure}{\numberline {10.34}{\ignorespaces High rate (0.1 m/s) Hybrid load predictions graph\relax }}{232}{figure.caption.271}
+\contentsline {figure}{\numberline {10.35}{\ignorespaces High rate (1 m/s) Hybrid load predictions graph\relax }}{234}{figure.caption.273}
+\contentsline {figure}{\numberline {10.36}{\ignorespaces High rate (1 m/s) Hybrid load predictions graph\relax }}{236}{figure.caption.275}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Tensile modulus results of W210 ceramics modified epoxy\relax }}{240}{figure.caption.278}
+\contentsline {figure}{\numberline {11.2}{\ignorespaces Fracture energy of PES modified epoxy under low temperature\relax }}{242}{figure.caption.280}
+\contentsline {figure}{\numberline {11.3}{\ignorespaces Fracture energy of Hybrid PES modified epoxy under low temperature\relax }}{244}{figure.caption.282}
+\contentsline {figure}{\numberline {11.4}{\ignorespaces Figure showing fracture energy predictions of ceramics W210-modified epoxy\relax }}{247}{figure.caption.287}
+\contentsline {figure}{\numberline {11.5}{\ignorespaces Figure showing fracture energy predictions of Hybrid ceramics W210-modified epoxy\relax }}{248}{figure.caption.289}
+\contentsline {figure}{\numberline {11.6}{\ignorespaces Figure showing fracture energy predictions of PES-modified epoxy\relax }}{249}{figure.caption.291}
+\contentsline {figure}{\numberline {11.7}{\ignorespaces Figure showing fracture energy predictions of Hybrid PES-modified epoxy\relax }}{250}{figure.caption.293}
+\contentsline {figure}{\numberline {11.8}{\ignorespaces Predicted modulus of W210-modified epoxy\relax }}{251}{figure.caption.294}
+\contentsline {figure}{\numberline {11.9}{\ignorespaces Predicted modulus of W210 hybrid-modified epoxy\relax }}{252}{figure.caption.296}
+\contentsline {figure}{\numberline {11.10}{\ignorespaces Predicted modulus of PES-modified epoxy\relax }}{253}{figure.caption.298}
+\contentsline {figure}{\numberline {11.11}{\ignorespaces Predicted modulus of PES hybrid-modified epoxy\relax }}{254}{figure.caption.300}
+\contentsline {figure}{\numberline {11.12}{\ignorespaces DMA tangents for $T_g$\relax }}{257}{figure.caption.302}
+\contentsline {figure}{\numberline {11.13}{\ignorespaces $T_g$ of low \% particles\relax }}{258}{figure.caption.303}
+\contentsline {figure}{\numberline {11.14}{\ignorespaces $T_g$ of high \% particles\relax }}{259}{figure.caption.304}
+\contentsline {figure}{\numberline {11.15}{\ignorespaces $T_g$ curve fit gradient\relax }}{260}{figure.caption.305}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Binary image of silica 5 wt\%\relax }}{287}{figure.caption.307}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Particles count images of silica 5 wt\%\relax }}{288}{figure.caption.308}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Particles count images of silica 15 wt\%\relax }}{289}{figure.caption.309}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Binary image of CSR 2 wt\%\relax }}{290}{figure.caption.310}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Particles count images of CSR 2 wt\%\relax }}{291}{figure.caption.311}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Particles count images of CSR 5 wt\%\relax }}{292}{figure.caption.312}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Binary image of a big CSR particle\relax }}{293}{figure.caption.313}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Particles count images of a big CSR particle\relax }}{294}{figure.caption.314}
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Binary image of W210 2 wt\%\relax }}{295}{figure.caption.315}
+\contentsline {figure}{\numberline {A.10}{\ignorespaces Particles count images of W210 2 wt\%\relax }}{296}{figure.caption.316}
+\contentsline {figure}{\numberline {A.11}{\ignorespaces Binary image of W210 5 wt\%\relax }}{297}{figure.caption.317}
+\contentsline {figure}{\numberline {A.12}{\ignorespaces Particles count images of W210 5 wt\%\relax }}{298}{figure.caption.318}
+\contentsline {figure}{\numberline {A.13}{\ignorespaces Binary image of W210 10 wt\%\relax }}{299}{figure.caption.319}
+\contentsline {figure}{\numberline {A.14}{\ignorespaces Particles count images of W210 10 wt\%\relax }}{300}{figure.caption.320}
+\contentsline {figure}{\numberline {A.15}{\ignorespaces Binary image of PES 2 wt\%\relax }}{301}{figure.caption.321}
+\contentsline {figure}{\numberline {A.16}{\ignorespaces Particles count images of PES 2 wt\%\relax }}{302}{figure.caption.322}
+\contentsline {figure}{\numberline {A.17}{\ignorespaces Binary image of PES 5 wt\%\relax }}{303}{figure.caption.323}
+\contentsline {figure}{\numberline {A.18}{\ignorespaces Particles count images of PES 5 wt\%\relax }}{304}{figure.caption.324}
+\contentsline {figure}{\numberline {A.19}{\ignorespaces Binary image of PES 10 wt\%\relax }}{305}{figure.caption.325}
+\contentsline {figure}{\numberline {A.20}{\ignorespaces Particles count images of PES 10 wt\%\relax }}{306}{figure.caption.326}

@@ -1,0 +1,114 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Declaration}{i}{chapter.1}
+\contentsline {section}{Abstract}{ii}{chapter*.1}
+\contentsline {chapter}{\numberline {2}Introduction}{1}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{1}{section.2.1}
+\contentsline {chapter}{\numberline {3}Literature review}{3}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{3}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Rubber-toughened epoxy}{4}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Silica-toughened epoxy}{5}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Other materials used}{6}{subsection.3.1.3}
+\contentsline {subsubsection}{\nonumberline PES}{6}{section*.5}
+\contentsline {subsubsection}{\nonumberline 3M ceramic microspheres W210}{8}{section*.8}
+\contentsline {subsection}{\numberline {3.1.4}Fracture mechanics}{8}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Fracture toughness}{8}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Tapered double cantilever beam (TDCB)}{10}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.7}Types of crack growth}{12}{subsection.3.1.7}
+\contentsline {subsection}{\numberline {3.1.8}Single-edge notch bending (SENB)}{12}{subsection.3.1.8}
+\contentsline {section}{\numberline {3.2}Toughening mechanisms}{15}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Introduction}{15}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Shear bands and shear yielding}{15}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Crack pinning}{15}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Crack deflection}{16}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Cavitation}{17}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Debonding}{17}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Rubber bridging}{17}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Plastic void growth}{19}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {3.2.9}Modelling toughening mechanisms}{19}{subsection.3.2.9}
+\contentsline {subsection}{\numberline {3.2.10}High rate testing}{20}{subsection.3.2.10}
+\contentsline {subsection}{\numberline {3.2.11}Uncertainties}{20}{subsection.3.2.11}
+\contentsline {subsection}{\numberline {3.2.12}Geometry factor}{22}{subsection.3.2.12}
+\contentsline {subsection}{\numberline {3.2.13}Toughening mechanisms}{22}{subsection.3.2.13}
+\contentsline {section}{\numberline {3.3}Conclusions}{22}{section.3.3}
+\contentsline {chapter}{\numberline {4}Experimental work}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{23}{section.4.1}
+\contentsline {section}{\numberline {4.2}Materials and methods}{23}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Materials}{23}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}TDCB specimen preparation}{24}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Differential scanning calorimetry (DSC) tests}{25}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Quasi-static rate tests}{26}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Initial loading and re-loading}{27}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Initiation and propagation values}{27}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Determination of $G_c$ in TDCB}{28}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Field emission gun scanning electron microscopy (FEG-SEM)}{29}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Scanning electron microscopy}{29}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}Fracture energies}{29}{subsection.4.2.10}
+\contentsline {subsubsection}{\nonumberline Control}{29}{section*.26}
+\contentsline {subsubsection}{\nonumberline Silica-modified epoxy}{30}{section*.29}
+\contentsline {subsubsection}{\nonumberline CSR}{32}{section*.32}
+\contentsline {subsection}{\numberline {4.2.11}Fracture surfaces}{33}{subsection.4.2.11}
+\contentsline {section}{\numberline {4.3}High rate testing}{34}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Introduction}{34}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}TDCB high test rate set up}{35}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}High rate data reduction strategy}{37}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Fracture types}{37}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Data analysis}{37}{subsection.4.4.2}
+\contentsline {subsubsection}{\nonumberline Video analysis}{37}{section*.39}
+\contentsline {subsubsection}{\nonumberline Plots}{38}{section*.41}
+\contentsline {subsubsection}{\nonumberline Analysis of $G_C$ values}{39}{section*.43}
+\contentsline {subsection}{\numberline {4.4.3}High rate TDCB results}{42}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Tensile testing}{44}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Introduction}{44}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Results}{44}{subsection.4.5.2}
+\contentsline {section}{\numberline {4.6}Single-edge notch bending (SENB) tests}{46}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Introduction}{46}{subsection.4.6.1}
+\contentsline {subsubsection}{\nonumberline SENB specimen preparation}{47}{section*.51}
+\contentsline {subsection}{\numberline {4.6.2}Testing}{48}{subsection.4.6.2}
+\contentsline {subsubsection}{\nonumberline Quasi-static SENB tests}{48}{section*.53}
+\contentsline {subsubsection}{\nonumberline High rate SENB tests}{50}{section*.55}
+\contentsline {subsection}{\numberline {4.6.3}Results}{51}{subsection.4.6.3}
+\contentsline {subsubsection}{\nonumberline Quasi static test rate SENB tests}{51}{section*.58}
+\contentsline {subsubsection}{\nonumberline High rate SENB}{53}{section*.61}
+\contentsline {subsubsection}{\nonumberline CSR-modified epoxy}{54}{section*.64}
+\contentsline {subsubsection}{\nonumberline Hybrid-modified epoxy}{56}{section*.67}
+\contentsline {subsection}{\numberline {4.6.4}Quasi-static fracture energy (from TDCB and SENB)}{58}{subsection.4.6.4}
+\contentsline {subsubsection}{\nonumberline Silica-modified epoxy}{58}{section*.70}
+\contentsline {subsubsection}{\nonumberline CSR-modified epoxy}{58}{section*.72}
+\contentsline {section}{\numberline {4.7}Analytical models}{60}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Halpin-Tsai model}{60}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}Huang \& Kinloch fracture model}{61}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {4.7.3}Shear band yielding}{62}{subsection.4.7.3}
+\contentsline {subsubsection}{\nonumberline Plastic void growth}{62}{section*.75}
+\contentsline {subsection}{\numberline {4.7.4}Plastic zone size consideration}{63}{subsection.4.7.4}
+\contentsline {subsection}{\numberline {4.7.5}Predicted results}{64}{subsection.4.7.5}
+\contentsline {subsubsection}{\nonumberline Modulus predictions from Halpin-Tsai model}{64}{section*.77}
+\contentsline {subsubsection}{\nonumberline Fracture energy predictions from Huang \& Kinloch model}{67}{section*.84}
+\contentsline {section}{\numberline {4.8}Scanning electron microscopy}{74}{section.4.8}
+\contentsline {subsection}{\numberline {4.8.1}Introduction}{74}{subsection.4.8.1}
+\contentsline {subsection}{\numberline {4.8.2}SEM results}{74}{subsection.4.8.2}
+\contentsline {subsubsection}{\nonumberline CSR}{74}{section*.94}
+\contentsline {subsubsection}{\nonumberline Voids in TDCB and SENB specimens}{75}{section*.97}
+\contentsline {subsubsection}{\nonumberline Deformation of particles}{77}{section*.101}
+\contentsline {subsubsection}{\nonumberline Effect of concentration of particles}{78}{section*.105}
+\contentsline {subsubsection}{\nonumberline Effect of low temperature}{82}{section*.114}
+\contentsline {section}{\numberline {4.9}Finite element analysis (FEA)}{83}{section.4.9}
+\contentsline {subsection}{\numberline {4.9.1}Finite element analysis introduction}{83}{subsection.4.9.1}
+\contentsline {subsection}{\numberline {4.9.2}Finite element analysis results}{85}{subsection.4.9.2}
+\contentsline {subsubsection}{\nonumberline Silica-modified epoxy}{86}{section*.121}
+\contentsline {subsubsection}{\nonumberline CSR-modified epoxy}{86}{section*.123}
+\contentsline {subsection}{\numberline {4.9.3}Progress}{87}{subsection.4.9.3}
+\contentsline {section}{\numberline {4.10}W210 and PES materials}{88}{section.4.10}
+\contentsline {subsection}{\numberline {4.10.1}Materials information}{88}{subsection.4.10.1}
+\contentsline {subsection}{\numberline {4.10.2}Tensile results of PES and W210}{89}{subsection.4.10.2}
+\contentsline {section}{\numberline {4.11}Low temperature SENB}{90}{section.4.11}
+\contentsline {subsection}{\numberline {4.11.1}Low temperature SENB results (Silica, CSR and Hybrid of both)}{92}{subsection.4.11.1}
+\contentsline {subsubsection}{\nonumberline Silica specimens}{92}{section*.129}
+\contentsline {subsubsection}{\nonumberline CSR specimens}{94}{section*.132}
+\contentsline {subsubsection}{\nonumberline Hybrid specimens}{95}{section*.135}
+\contentsline {subsubsection}{\nonumberline W210 ceramics, PES, hybrid W210 (W210 and CSR), Hybrid PES (PES and Silica)}{97}{section*.138}
+\contentsline {subsection}{\numberline {4.11.2}Fracture energy predictions}{102}{subsection.4.11.2}
+\contentsline {subsection}{\numberline {4.11.3}Analytical model modulus predictions}{107}{subsection.4.11.3}
+\contentsline {section}{\numberline {4.12}Conclusions}{112}{section.4.12}
+\contentsline {section}{References}{112}{section.4.12}
+\contentsline {chapter}{\numberline {A}Appendices}{118}{appendix.A}
+\contentsline {section}{\numberline {A.1}Input file-TDCB model}{118}{section.A.1}

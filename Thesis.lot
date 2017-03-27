@@ -1,0 +1,95 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces TDCB fracture energy results for control epoxy\relax }}{38}{table.caption.25}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Summary of fracture energies of silica modified epoxy calculated using the CBT method from TDCB specimens, mean and standard deviation shown\relax }}{40}{table.caption.27}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Summary of fracture energies of CSR modified epoxy calculated using the CBT method from TDCB specimens, mean and standard deviation shown.\relax }}{42}{table.caption.29}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Tensile test results from tensile tests of particle-modified epoxy\relax }}{65}{table.caption.47}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Fracture stress results of particle-modified epoxy\relax }}{66}{table.caption.48}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Particle contents used in SENB specimens\relax }}{67}{table.caption.49}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Fracture energy of modified epoxy from SENB tests at quasi-static test rate \relax }}{73}{table.caption.54}
+\contentsline {table}{\numberline {6.5}{\ignorespaces Fracture energy of silica-modified epoxy at different rate\relax }}{78}{table.caption.59}
+\contentsline {table}{\numberline {6.6}{\ignorespaces Fracture energy of CSR-modified epoxy from SENB tests at different rates\relax }}{79}{table.caption.61}
+\contentsline {table}{\numberline {6.7}{\ignorespaces Fracture energy of hybrid-modified epoxy from SENB tests at different rates\relax }}{82}{table.caption.63}
+\contentsline {table}{\numberline {6.8}{\ignorespaces Fracture energy of silica modified epoxy from SENB tests at low temperature\relax }}{86}{table.caption.67}
+\contentsline {table}{\numberline {6.9}{\ignorespaces Fracture energy of CSR modified epoxy from SENB tests at low temperature\relax }}{87}{table.caption.69}
+\contentsline {table}{\numberline {6.10}{\ignorespaces Fracture energy of CSR / silica hybrid modified epoxy from SENB tests at low temperature\relax }}{89}{table.caption.71}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {8.1}{\ignorespaces Modulus used for CSR and hybrid modified epoxy\relax }}{101}{table.caption.79}
+\contentsline {table}{\numberline {8.2}{\ignorespaces Predicted modulus from Halpin-Tsai model of silica-modified epoxy\relax }}{102}{table.caption.81}
+\contentsline {table}{\numberline {8.3}{\ignorespaces Predicted modulus from Halpin-Tsai model of CSR-modified epoxy \relax }}{104}{table.caption.83}
+\contentsline {table}{\numberline {8.4}{\ignorespaces Predicted modulus from Halpin-Tsai model of silica \ CSR hybrid-modified epoxy \relax }}{105}{table.caption.85}
+\contentsline {table}{\numberline {8.5}{\ignorespaces Values of parameters used for toughening predictions.\relax }}{109}{table.caption.86}
+\contentsline {table}{\numberline {8.6}{\ignorespaces Table showing fracture energy predictions from assuming 100\% void growth\relax }}{110}{table.caption.87}
+\contentsline {table}{\numberline {8.7}{\ignorespaces Table showing fracture energy predictions from assuming 14.3\% void growth\relax }}{111}{table.caption.88}
+\contentsline {table}{\numberline {8.8}{\ignorespaces Table showing fracture energy predictions from assuming there was only shear\relax }}{111}{table.caption.89}
+\contentsline {table}{\numberline {8.9}{\ignorespaces Table showing fracture energy predictions of silica-modified epoxy\relax }}{112}{table.caption.90}
+\contentsline {table}{\numberline {8.10}{\ignorespaces Table showing fracture energy predictions of CSR-modified epoxy\relax }}{113}{table.caption.92}
+\contentsline {table}{\numberline {8.11}{\ignorespaces Fracture energy predictions of hybrid-modified epoxy\relax }}{115}{table.caption.94}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {9.1}{\ignorespaces Particles count density table\relax }}{179}{table.caption.199}
+\contentsline {table}{\numberline {9.2}{\ignorespaces Particles count results of silica modified epoxy\relax }}{180}{table.caption.200}
+\contentsline {table}{\numberline {9.3}{\ignorespaces Particles count results of CSR modified epoxy\relax }}{181}{table.caption.201}
+\contentsline {table}{\numberline {9.4}{\ignorespaces Particles count results of W210 modified epoxy\relax }}{181}{table.caption.202}
+\contentsline {table}{\numberline {9.5}{\ignorespaces Particles count results of PES modified epoxy\relax }}{182}{table.caption.203}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {10.1}{\ignorespaces Properties of aluminium alloy (EN AW 2014-A) \cite {Brett2011} and epoxy \cite {Adnan2008} for the FE model\relax }}{184}{table.caption.205}
+\contentsline {table}{\numberline {10.2}{\ignorespaces TDCB model - silica results predictions table\relax }}{188}{table.caption.210}
+\contentsline {table}{\numberline {10.3}{\ignorespaces TDCB model - CSR results predictions table\relax }}{190}{table.caption.212}
+\contentsline {table}{\numberline {10.4}{\ignorespaces High rate TDCB model - Si 2 wt\% results predictions table\relax }}{190}{table.caption.213}
+\contentsline {table}{\numberline {10.5}{\ignorespaces High rate TDCB model - Si 5 wt\% results predictions table\relax }}{191}{table.caption.214}
+\contentsline {table}{\numberline {10.6}{\ignorespaces High rate TDCB model - Si 10 wt\% results predictions table\relax }}{191}{table.caption.215}
+\contentsline {table}{\numberline {10.7}{\ignorespaces High rate TDCB model - CSR 2 wt\% results predictions table\relax }}{192}{table.caption.216}
+\contentsline {table}{\numberline {10.8}{\ignorespaces High rate TDCB model - CSR 5 wt\% results predictions table\relax }}{192}{table.caption.217}
+\contentsline {table}{\numberline {10.9}{\ignorespaces High rate TDCB model - CSR 10 wt\% results predictions table\relax }}{192}{table.caption.218}
+\contentsline {table}{\numberline {10.10}{\ignorespaces SENB silica load predictions table\relax }}{197}{table.caption.222}
+\contentsline {table}{\numberline {10.11}{\ignorespaces SENB CSR load predictions table\relax }}{199}{table.caption.224}
+\contentsline {table}{\numberline {10.12}{\ignorespaces SENB Hybrid load predictions table\relax }}{200}{table.caption.226}
+\contentsline {table}{\numberline {10.13}{\ignorespaces SENB W210 load predictions table\relax }}{202}{table.caption.228}
+\contentsline {table}{\numberline {10.14}{\ignorespaces SENB W210 load predictions table\relax }}{203}{table.caption.230}
+\contentsline {table}{\numberline {10.15}{\ignorespaces SENB PES load predictions table\relax }}{204}{table.caption.232}
+\contentsline {table}{\numberline {10.16}{\ignorespaces SENB W210 load predictions table\relax }}{205}{table.caption.234}
+\contentsline {table}{\numberline {10.17}{\ignorespaces Low Temperature ($ -40 ^{o}C$) silica load predictions table\relax }}{207}{table.caption.236}
+\contentsline {table}{\numberline {10.18}{\ignorespaces Low Temperature ($ -80 ^{o}C$) silica load predictions table\relax }}{208}{table.caption.238}
+\contentsline {table}{\numberline {10.19}{\ignorespaces Low Temperature ($ -40 ^{o}C$) CSR load predictions table\relax }}{210}{table.caption.240}
+\contentsline {table}{\numberline {10.20}{\ignorespaces Low Temperature ($ -80 ^{o}C$) CSR load predictions table\relax }}{211}{table.caption.242}
+\contentsline {table}{\numberline {10.21}{\ignorespaces Low Temperature ($ -40 ^{o}C$) Hybrid load predictions table\relax }}{213}{table.caption.244}
+\contentsline {table}{\numberline {10.22}{\ignorespaces Low Temperature ($ -80 ^{o}C$) Hybrid load predictions table\relax }}{215}{table.caption.246}
+\contentsline {table}{\numberline {10.23}{\ignorespaces Low Temperature ($ -40 ^{o}C$) W210 load predictions table\relax }}{216}{table.caption.248}
+\contentsline {table}{\numberline {10.24}{\ignorespaces Low Temperature ($ -80 ^{o}C$) W210 load predictions table\relax }}{217}{table.caption.250}
+\contentsline {table}{\numberline {10.25}{\ignorespaces Low Temperature ($ -40 ^{o}C$) Hybrid W210 load predictions table\relax }}{218}{table.caption.252}
+\contentsline {table}{\numberline {10.26}{\ignorespaces Low Temperature ($ -80 ^{o}C$) Hybrid W210 load predictions table\relax }}{219}{table.caption.254}
+\contentsline {table}{\numberline {10.27}{\ignorespaces Low Temperature ($ -40 ^{o}C$) PES load predictions table\relax }}{220}{table.caption.256}
+\contentsline {table}{\numberline {10.28}{\ignorespaces Low Temperature ($ -80 ^{o}C$) PES load predictions table\relax }}{221}{table.caption.258}
+\contentsline {table}{\numberline {10.29}{\ignorespaces Low Temperature ($ -40 ^{o}C$) Hybrid PES load predictions table\relax }}{222}{table.caption.260}
+\contentsline {table}{\numberline {10.30}{\ignorespaces Low Temperature ($ -80 ^{o}C$) Hybrid PES load predictions table\relax }}{223}{table.caption.262}
+\contentsline {table}{\numberline {10.31}{\ignorespaces High rate (0.1 m/s) SENB silica load predictions table\relax }}{225}{table.caption.264}
+\contentsline {table}{\numberline {10.32}{\ignorespaces High rate (1 m/s) silica SENB load predictions table\relax }}{227}{table.caption.266}
+\contentsline {table}{\numberline {10.33}{\ignorespaces High rate (0.1 m/s) silica SENB load predictions table\relax }}{229}{table.caption.268}
+\contentsline {table}{\numberline {10.34}{\ignorespaces High rate (1 m/s) CSR SENB load predictions table\relax }}{231}{table.caption.270}
+\contentsline {table}{\numberline {10.35}{\ignorespaces High rate (0.1 m/s) SENB Hybrid load predictions table\relax }}{233}{table.caption.272}
+\contentsline {table}{\numberline {10.36}{\ignorespaces High rate (1 m/s) SENB Hybrid load predictions table\relax }}{235}{table.caption.274}
+\contentsline {table}{\numberline {10.37}{\ignorespaces Table showed the corresponding displacement of the fracture energies used\relax }}{237}{table.caption.276}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {11.1}{\ignorespaces Tensile modulus results of W210 ceramics modified epoxy\relax }}{240}{table.caption.277}
+\contentsline {table}{\numberline {11.2}{\ignorespaces Fracture energy of PES modified epoxy under low temperature\relax }}{241}{table.caption.279}
+\contentsline {table}{\numberline {11.3}{\ignorespaces Fracture energy of Hybrid PES modified epoxy under low temperature\relax }}{243}{table.caption.281}
+\contentsline {table}{\numberline {11.4}{\ignorespaces Table showing fracture energy predictions of W210 and PES from assuming 100\% void growth\relax }}{245}{table.caption.283}
+\contentsline {table}{\numberline {11.5}{\ignorespaces Table showing fracture energy predictions from assuming 14.3\% void growth\relax }}{246}{table.caption.284}
+\contentsline {table}{\numberline {11.6}{\ignorespaces Table showing fracture energy predictions from assuming there was only shear\relax }}{246}{table.caption.285}
+\contentsline {table}{\numberline {11.7}{\ignorespaces Table showing fracture energy predictions of ceramics W210-modified epoxy\relax }}{247}{table.caption.286}
+\contentsline {table}{\numberline {11.8}{\ignorespaces Table showing fracture energy predictions of Hybrid ceramics W210-modified epoxy\relax }}{248}{table.caption.288}
+\contentsline {table}{\numberline {11.9}{\ignorespaces Table showing fracture energy predictions of PES-modified epoxy\relax }}{249}{table.caption.290}
+\contentsline {table}{\numberline {11.10}{\ignorespaces Table showing fracture energy predictions of Hybrid PES-modified epoxy\relax }}{250}{table.caption.292}
+\contentsline {table}{\numberline {11.11}{\ignorespaces Predicted modulus of W210-modified epoxy\relax }}{251}{table.caption.295}
+\contentsline {table}{\numberline {11.12}{\ignorespaces Predicted modulus of W210 hybrid-modified epoxy\relax }}{252}{table.caption.297}
+\contentsline {table}{\numberline {11.13}{\ignorespaces Predicted modulus of PES-modified epoxy\relax }}{253}{table.caption.299}
+\contentsline {table}{\numberline {11.14}{\ignorespaces Predicted modulus of PES hybrid-modified epoxy\relax }}{253}{table.caption.301}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

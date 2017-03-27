@@ -1,0 +1,39 @@
+\nomenclatureentry{bx CSR@[{CSR}]\begingroup Core Shell Rubber\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx CTBN@[{CTBN}]\begingroup Carboxyl-Terminated Butadiene-Acrylonitrile rubber \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx ATBN@[{ATBN}]\begingroup Amino-Terminated-Acrylonitrile\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx VTBN@[{VTBN}]\begingroup Vinyl-Terminated Butadiene-Acrylonitrile\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx LEFM@[{LEFM}]\begingroup Linear Elastic Fracture Mechanics\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx TDCB@[{TDCB}]\begingroup Tapered double cantilever beam\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx DCB@[{DCB}]\begingroup Double Cantilever Beam \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx SENB@[{SENB}]\begingroup Single-Edge Notch Three-point Bending \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx DGEBA@[{DGEBA}]\begingroup Diglycidyl Ether of Bisphenol A\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx PTFE@[{PTFE}]\begingroup Polytetrafluoroethylene\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx DSC@[{DSC}]\begingroup Differential Scanning Calorimetry\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx ECM@[{ECM}]\begingroup Experimental Compliance Method\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx SBT@[{SBT}]\begingroup Simple Beam Theory \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx CBT@[{CBT}]\begingroup Corrected Beam Theory\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx FEG-SEM@[{FEG-SEM}]\begingroup Field Emission Gun Scanning Electron Microscopy\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx LMD@[{LMD}]\begingroup Lost Motion Device\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx LVDT@[{LVDT}]\begingroup Linear Variable Displacement Transformer\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx FEA@[{FEA}]\begingroup Finite Element Analysis \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx DMA@[{DMA}]\begingroup Dynamic Mechanical Analysis\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx E@[{E}]\begingroup Modulus\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx G@[{G}]\begingroup Fracture energy \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx PES@[{PES}]\begingroup Polyethersulphone\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx $\Delta G_s$@[{$\Delta G_s$}]\begingroup Energy from Shear band yielding \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx $\Delta G_v$@[{$\Delta G_v$}]\begingroup Energy from Plastic void-growth \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx $\Delta G_{db}$@[{$\Delta G_{db}$}]\begingroup Energy from Debonding of particles \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx CZM@[{CZM}]\begingroup Cohesive Zone Modelling \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx VCCT@[{VCCT}]\begingroup Virtual Crack Closure Technique \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx FEG-SEM@[{FEG-SEM}]\begingroup Field Emission Gun Scanning Electron Microscopy  \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx HSV@[{HSV}]\begingroup High-Speed Video  \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx B@[{B}]\begingroup width of crack front \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx U@[{U}]\begingroup potential energy of the loaded specimen \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx a@[{a}]\begingroup crack length \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx K_{c}@[{K_{c}}]\begingroup critical stress intensity factor \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx d_{crack}@[{d_{crack}}]\begingroup crack opening displacement \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx P@[{P}]\begingroup load\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx v_{f}@[{v_{f}}]\begingroup volume fraction of particles\nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx G_{c}@[{G_{c}}]\begingroup fracture energy \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry{bx $\bigtriangleup$G_{s}@[{$\bigtriangleup$G_{s}}]\begingroup fracture energy due to shear-banding \nomeqref {1.0}|nompageref}{1}
+\nomenclatureentry

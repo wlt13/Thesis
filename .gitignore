@@ -1,0 +1,9 @@
+*.eps
+*.png
+*.tiff
+*.tif
+*.jpg
+*.jpeg
+*-eps-converted-to.*
+*.gz
+*.dvi

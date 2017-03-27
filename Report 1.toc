@@ -1,0 +1,55 @@
+\select@language {english}
+\contentsline {section}{Abstract}{i}{chapter*.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Literature review}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Rubber-toughened epoxy}{4}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Silica-toughened epoxy}{5}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Fracture mechanics}{5}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Fracture toughness}{6}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Tapered double cantilever beam (TDCB)}{8}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Types of crack growth}{9}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Single-edge notch bending (SENB)}{11}{subsection.2.1.7}
+\contentsline {section}{\numberline {2.2}Toughening mechanisms}{12}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Introduction}{12}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Shear bands and shear yielding}{13}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Crack pinning}{13}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Crack deflection}{13}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Cavitation}{14}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Debonding}{14}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Rubber bridging}{15}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.2.8}Plastic void growth}{15}{subsection.2.2.8}
+\contentsline {subsection}{\numberline {2.2.9}Modelling toughening mechanisms}{16}{subsection.2.2.9}
+\contentsline {subsection}{\numberline {2.2.10}High rate testing}{17}{subsection.2.2.10}
+\contentsline {subsection}{\numberline {2.2.11}Uncertainties}{17}{subsection.2.2.11}
+\contentsline {subsection}{\numberline {2.2.12}Geometry factor}{19}{subsection.2.2.12}
+\contentsline {subsection}{\numberline {2.2.13}Toughening mechanisms}{19}{subsection.2.2.13}
+\contentsline {section}{\numberline {2.3}Conclusions}{19}{section.2.3}
+\contentsline {section}{\numberline {2.4}Experimental work}{20}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Introduction}{20}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.5}Materials and methods}{20}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Materials}{20}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}TDCB specimen preparation}{21}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Differential scanning calorimetry (DSC) tests}{21}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Quasi-static rate tests}{23}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Initial loading and re-loading}{24}{subsection.2.5.5}
+\contentsline {subsection}{\numberline {2.5.6}Initiation and propagation values}{24}{subsection.2.5.6}
+\contentsline {subsection}{\numberline {2.5.7}Determination of $G_c$ in TDCB}{25}{subsection.2.5.7}
+\contentsline {subsection}{\numberline {2.5.8}Field emission gun scanning electron microscopy (FEG-SEM)}{25}{subsection.2.5.8}
+\contentsline {subsection}{\numberline {2.5.9}Scanning electron microscopy}{26}{subsection.2.5.9}
+\contentsline {subsection}{\numberline {2.5.10}Fracture energies}{26}{subsection.2.5.10}
+\contentsline {subsubsection}{\nonumberline Control}{26}{section*.22}
+\contentsline {subsubsection}{\nonumberline Silica-modified epoxy}{27}{section*.25}
+\contentsline {subsubsection}{\nonumberline CSR}{28}{section*.28}
+\contentsline {subsection}{\numberline {2.5.11}Fracture surfaces}{29}{subsection.2.5.11}
+\contentsline {section}{\numberline {2.6}High rate testing}{31}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Introduction}{31}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}TDCB high test rate set up}{31}{subsection.2.6.2}
+\contentsline {section}{\numberline {2.7}High rate data reduction strategy}{33}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Fracture types}{33}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Data analysis}{33}{subsection.2.7.2}
+\contentsline {subsubsection}{\nonumberline Video analysis}{33}{section*.35}
+\contentsline {subsubsection}{\nonumberline Plots}{34}{section*.37}
+\contentsline {subsubsection}{\nonumberline Analysis of GC values}{35}{section*.39}
+\contentsline {subsection}{\numberline {2.7.3}Tensile testing}{37}{subsection.2.7.3}
+\contentsline {subsubsection}{\nonumberline Introduction}{37}{section*.40}

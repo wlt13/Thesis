@@ -1,0 +1,3566 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.9)  19 MAR 2017 11:17
+entering extended mode
+**Report_NEWRESULTS.tex
+("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\Report_NEWRESULTS.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\icldt.cls"
+Document Class: icldt 2011/01/29 v2.0 Imperial College London Dissertation Temp
+late
+("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\scrreprt.cls"
+Document Class: scrreprt 2015/10/03 v3.19a KOMA-Script document class (report)
+("D:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
+Package: scrkbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
+Package: scrbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
+Package: scrlfile 2015/10/03 v3.19a KOMA-Script package (loading files)
+
+Package scrlfile, 2015/10/03 v3.19a KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) ("D:\Program Files\MiKTeX 2.9\tex\latex\koma-script\tocbasic.sty"
+Package: tocbasic 2015/10/03 v3.19a KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 125.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 126.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 127.
+Package tocbasic Info: defining new hook before heading of `' on input line 158
+8.
+Package scrreprt Info: You've used standard option `11pt'.
+(scrreprt)             This is correct!
+(scrreprt)             Internally I'm using `fontsize=11pt'.
+(scrreprt)             If you'd like to set the option with \KOMAoptions,
+(scrreprt)             you'd have to use `fontsize=11pt' there
+(scrreprt)             instead of `11pt', too.
+Class scrreprt Info: You've used standard option `oneside'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `twoside=false'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `twoside=false' there
+(scrreprt)           instead of `oneside', too.
+Class scrreprt Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 2248.
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize11pt.clo"
+File: scrsize11pt.clo 2015/10/03 v3.19a KOMA-Script font size class option (11p
+t)
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
+Package: typearea 2015/10/03 v3.19a KOMA-Script package (type area)
+
+Package typearea, 2015/10/03 v3.19a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+\footheight=\skip45
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1509.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count87
+\c@table=\count88
+\bibindent=\dimen102
+) ("D:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("D:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+Package scrkbase Info: You've told me to redefine the font selection of the
+(scrkbase)             element `sectioning' that is an alias of element
+(scrkbase)             `disposition' on input line 99.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen111
+\nom@tempdim=\dimen112
+\nomitemsep=\skip48
+)
+("D:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("D:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count92
+\U@D=\dimen113
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+("D:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen116
+))
+("D:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen117
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks17
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks18
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("D:\Program Files\MiKTeX 2.9\tex\latex\bbm\bbm.sty"
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count106
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box29
+\rot@mess@toks=\toks21
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count107
+\calc@Bcount=\count108
+\calc@Adimen=\dimen125
+\calc@Bdimen=\dimen126
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count109
+\calc@Cskip=\skip56
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count110
+\l_MT_multwidth_dim=\dimen127
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen128
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen129
+\l_MT_above_intertext_sep=\dimen130
+\l_MT_below_intertext_sep=\dimen131
+\l_MT_above_shortintertext_sep=\dimen132
+\l_MT_below_shortintertext_sep=\dimen133
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read1
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\textgreek\textgreek.sty"
+Package: textgreek 2011/10/09 v0.7 Greek symbols in text
+Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
+input line 39.
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\lgrenc.def"
+File: lgrenc.def 2015/12/07 v0.13.1 LGR Greek font encoding definitions
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\greek-fontenc.def"
+File: greek-fontenc.def 2015/08/04 v0.13 Common Greek font encoding definitions
+
+))
+Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
+*}. on input line 69.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\was\fixmath.sty"
+Package: fixmath 2000/04/11 v0.9 (WaS)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 29.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 32.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 33.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \alpha on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \beta on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \gamma on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \delta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \epsilon on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \zeta on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \eta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \theta on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \iota on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \kappa on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \lambda on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \mu on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \nu on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \xi on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \pi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \rho on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \sigma on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \tau on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \upsilon on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \phi on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \chi on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \psi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \omega on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \varepsilon on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \vartheta on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \varpi on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \varphi on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \varrho on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \varsigma on input line 66.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\varioref.sty"
+Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
+\c@vrcnt=\count111
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+\@linkdim=\dimen134
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count114
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 3941.
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count115
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count116
+\Field@Width=\dimen135
+\Fld@charsize=\dimen136
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring OFF on input line 5793.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count117
+\c@Item=\count118
+\c@Hfootnote=\count119
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+\Fld@listcount=\count120
+\c@bookmark@seq@number=\count121
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip58
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\cleveref\cleveref.sty"
+Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2230.
+LaTeX Info: Redefining \cref on input line 2230.
+LaTeX Info: Redefining \Cref on input line 2230.
+LaTeX Info: Redefining \crefrange on input line 2230.
+LaTeX Info: Redefining \Crefrange on input line 2230.
+LaTeX Info: Redefining \cpageref on input line 2230.
+LaTeX Info: Redefining \Cpageref on input line 2230.
+LaTeX Info: Redefining \cpagerefrange on input line 2230.
+LaTeX Info: Redefining \Cpagerefrange on input line 2230.
+LaTeX Info: Redefining \labelcref on input line 2230.
+LaTeX Info: Redefining \labelcpageref on input line 2230.
+Package cleveref Info: `varioref' support loaded on input line 2453.
+Package cleveref Info: `cleveref' supersedes `varioref's \labelformatcommand on
+ input line 2453.
+LaTeX Info: Redefining \vref on input line 2453.
+LaTeX Info: Redefining \Vref on input line 2453.
+LaTeX Info: Redefining \vrefrange on input line 2453.
+LaTeX Info: Redefining \fullref on input line 2453.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\lineno\lineno.sty"
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count122
+\output=\toks24
+\linenoprevgraf=\count123
+\linenumbersep=\dimen137
+\linenumberwidth=\dimen138
+\c@linenumber=\count124
+\c@pagewiselinenumber=\count125
+\c@LN@truepage=\count126
+\c@internallinenumber=\count127
+\c@internallinenumbers=\count128
+\quotelinenumbersep=\dimen139
+\bframerule=\dimen140
+\bframesep=\dimen141
+\bframebox=\box30
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen142
+\extrarowheight=\dimen143
+\NC@list=\toks25
+\extratabsurround=\skip59
+\backup@length=\skip60
+)
+\TX@col@width=\dimen144
+\TX@old@table=\dimen145
+\TX@old@col=\dimen146
+\TX@target=\dimen147
+\TX@delta=\dimen148
+\TX@cols=\count129
+\TX@ftn=\toks26
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\xr.sty"
+Package: xr 1994/05/28 v5.02 eXternal References (DPC)
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen149
+\captionmargin@=\dimen150
+\captionwidth=\dimen151
+\caption@tempdima=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count130
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+\c@subfigure=\count131
+\c@subtable=\count132
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen156
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen157
+\AM@pageheight=\dimen158
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box31
+\AM@global@opts=\toks27
+\AM@toc@title=\toks28
+\c@AM@survey=\count133
+\AM@templatesizebox=\box32
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\notoccite\notoccite.sty"
+Package: notoccite 2000/07/20
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip61
+\enit@outerparindent=\dimen159
+\enit@toks=\toks29
+\enit@inbox=\box33
+\enitdp@description=\count134
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip62
+\bibsep=\skip63
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count135
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+
+LaTeX Warning: Unused global option(s):
+    [paper=a4,pagesize=auto].
+
+("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\Report_NEWRESULTS.aux"
+
+LaTeX Warning: Label `fracturePredictionTable3' multiply defined.
+
+
+LaTeX Warning: Label `fracturePredictionTable3@cref' multiply defined.
+
+)
+Runaway argument?
+{\contentsline { 
+! File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.106 \begin{document}
+                      
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 106.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 106.
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr.fd"
+File: lgrcmr.fd 2016/03/04 v1.1 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(91.04872pt, 415.41049pt, 91.04872pt)
+* v-part:(T,H,B)=(84.50471pt, 591.53279pt, 169.00943pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=415.41049pt
+* \textheight=591.53279pt
+* \oddsidemargin=18.77873pt
+* \evensidemargin=18.77873pt
+* \topmargin=-25.16528pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=59.7508pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("D:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count136
+\scratchdimen=\dimen160
+\scratchbox=\box34
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen161
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks31
+)
+\AtBeginShipoutBox=\box35
+Package hyperref Info: Link coloring OFF on input line 106.
+ ("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count142
+LaTeX Info: Redefining \Ref on input line 498.
+)
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
+
+("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\Report_NEWRESULTS.out")
+Runaway argument?
+{subsecti 
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.106 \begin{document}
+                      
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\Report_NEWRESULTS.out")
+Runaway argument?
+{subsecti 
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.106 \begin{document}
+                      
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+\@outlinefile=\write3
+LaTeX Info: Redefining \Ref on input line 106.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \celsius on input line 106.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 106
+.
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 106.
+Package gensymb Info: Using \upOmega for \ohm on input line 106.
+
+Package gensymb Warning: Not defining \micro.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 132.
+("D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 132.
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 132.
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1
+
+
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+ [1
+
+]
+("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\Report_NEWRESULTS.toc")
+\tf@toc=\write4
+
+[2
+
+] ("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\Report_NEWRESULTS.lot")
+\tf@lot=\write5
+
+[3
+
+] ("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\Report_NEWRESULTS.lof")
+\tf@lof=\write6
+
+[4
+
+]
+\@nomenclaturefile=\write7
+
+Writing nomenclature file Report_NEWRESULTS.nlo
+("E:\Box Sync\EasyLatexTemplate\EasyLatexTemplate\Report_NEWRESULTS.nls"
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+[5
+
+]) [6]
+chapter 1.
+
+Package natbib Warning: Citation `Johnsen2007' on page 1 undefined on input lin
+e 228.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 1 undefined on input line
+ 228.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 1 undefined on input line 
+228.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 1 undefined on input line
+ 228.
+
+
+Package natbib Warning: Citation `Mohammed2008' on page 1 undefined on input li
+ne 228.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 1 undefined on input line
+ 228.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 1 undefined on input line
+ 228.
+
+[1
+
+]
+
+LaTeX Warning: Reference `W210_PES' on page 2 undefined on input line 232.
+
+
+Overfull \hbox (8.93175pt too wide) in paragraph at lines 232--233
+[]\OT1/cmr/m/n/10.95 For fur-ther com-par-i-son of dif-fer-ent par-ti-cles, ce-
+ramic mi-cro-spheres and (PES) polyether-
+ []
+
+
+LaTeX Warning: Reference `PES_SEM' on page 2 undefined on input line 238.
+
+[2] [3] [4]
+chapter 2.
+
+Package natbib Warning: Citation `Kinloch1997' on page 5 undefined on input lin
+e 282.
+
+
+Package natbib Warning: Citation `Kinloch1997' on page 5 undefined on input lin
+e 282.
+
+
+Package natbib Warning: Citation `Kinloch1997' on page 5 undefined on input lin
+e 284.
+
+
+Package natbib Warning: Citation `Dittanet2012a' on page 5 undefined on input l
+ine 286.
+
+
+Package natbib Warning: Citation `Dittanet2012a' on page 5 undefined on input l
+ine 286.
+
+
+Package natbib Warning: Citation `Imanaka2001' on page 5 undefined on input lin
+e 286.
+
+
+Package natbib Warning: Citation `Dittanet2012a' on page 5 undefined on input l
+ine 286.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 5 undefined on input line 
+286.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 5 undefined on input line 
+286.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 5 undefined on input line 
+286.
+
+[5
+
+]
+
+Package natbib Warning: Citation `Huang1992c' on page 6 undefined on input line
+ 289.
+
+
+Package natbib Warning: Citation `Kinloch1983a' on page 6 undefined on input li
+ne 290.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 6 undefined on in
+put line 290.
+
+
+Package natbib Warning: Citation `Garg1988' on page 6 undefined on input line 2
+92.
+
+
+Package natbib Warning: Citation `Garg' on page 6 undefined on input line 292.
+
+
+Package natbib Warning: Citation `Pan2005' on page 6 undefined on input line 29
+2.
+
+
+Package natbib Warning: Citation `Lee2006' on page 6 undefined on input line 29
+3.
+
+
+Package natbib Warning: Citation `Bandyopadhyay1990a' on page 6 undefined on in
+put line 293.
+
+
+Package natbib Warning: Citation `Bandyopadhyay1990a' on page 6 undefined on in
+put line 293.
+
+
+Package natbib Warning: Citation `Bandyopadhyay1990a' on page 6 undefined on in
+put line 295.
+
+
+Package natbib Warning: Citation `Lee2006' on page 6 undefined on input line 29
+5.
+
+
+Package natbib Warning: Citation `Lee2006' on page 6 undefined on input line 29
+5.
+
+
+Package natbib Warning: Citation `Bagheri2009' on page 6 undefined on input lin
+e 297.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 6 undefined on in
+put line 297.
+
+[6]
+
+Package natbib Warning: Citation `Bagheri2009' on page 7 undefined on input lin
+e 300.
+
+
+Package natbib Warning: Citation `Wise2000' on page 7 undefined on input line 3
+00.
+
+
+Package natbib Warning: Citation `Mohammed2008' on page 7 undefined on input li
+ne 303.
+
+
+Package natbib Warning: Citation `Imanaka2001' on page 7 undefined on input lin
+e 303.
+
+
+Package natbib Warning: Citation `Adachi2008' on page 7 undefined on input line
+ 303.
+
+
+Package natbib Warning: Citation `Adachi2008' on page 7 undefined on input line
+ 303.
+
+
+Package natbib Warning: Citation `Dittanet2013a' on page 7 undefined on input l
+ine 303.
+
+
+Package natbib Warning: Citation `Dittanet2012' on page 7 undefined on input li
+ne 303.
+
+
+Package natbib Warning: Citation `Imanaka2001' on page 7 undefined on input lin
+e 304.
+
+
+Package natbib Warning: Citation `Adachi2008' on page 7 undefined on input line
+ 304.
+
+
+Package natbib Warning: Citation `Johnsen2005' on page 7 undefined on input lin
+e 304.
+
+
+Package natbib Warning: Citation `Dittanet2012' on page 7 undefined on input li
+ne 304.
+
+
+Package natbib Warning: Citation `Mohammed2008' on page 7 undefined on input li
+ne 307.
+
+
+Package natbib Warning: Citation `Adachi2008' on page 7 undefined on input line
+ 307.
+
+
+Package natbib Warning: Citation `Adachi2008' on page 7 undefined on input line
+ 307.
+
+[7]
+
+Package natbib Warning: Citation `Kinloch2012' on page 8 undefined on input lin
+e 309.
+
+
+Package natbib Warning: Citation `Liu2011a' on page 8 undefined on input line 3
+09.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 8 undefined on input line 
+309.
+
+
+Package natbib Warning: Citation `Liu2011a' on page 8 undefined on input line 3
+09.
+
+
+Package natbib Warning: Citation `Chen2013a' on page 8 undefined on input line 
+309.
+
+
+Package natbib Warning: Citation `Chen2013' on page 8 undefined on input line 3
+09.
+
+
+Package natbib Warning: Citation `Hodgkin1998' on page 8 undefined on input lin
+e 314.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--326
+
+ []
+
+
+Package natbib Warning: Citation `Hodgkin1998' on page 8 undefined on input lin
+e 327.
+
+[8]
+
+Package natbib Warning: Citation `Chen2012' on page 9 undefined on input line 3
+35.
+
+
+Package natbib Warning: Citation `Hodgkin1998' on page 9 undefined on input lin
+e 335.
+
+<./newResultsGraphs/PES2.jpg, id=535, 664.73344pt x 723.45282pt>
+File: ./newResultsGraphs/PES2.jpg Graphic file (type jpg)
+
+<use ./newResultsGraphs/PES2.jpg>
+Package pdftex.def Info: ./newResultsGraphs/PES2.jpg used on input line 340.
+(pdftex.def)             Requested size: 261.43588pt x 284.52756pt.
+
+
+Package natbib Warning: Citation `Chong2015' on page 9 undefined on input line 
+341.
+
+
+Package natbib Warning: Citation `Chong2015' on page 9 undefined on input line 
+341.
+
+<./newResultsGraphs/PES1.jpg, id=536, 593.96906pt x 667.74469pt>
+File: ./newResultsGraphs/PES1.jpg Graphic file (type jpg)
+
+<use ./newResultsGraphs/PES1.jpg>
+Package pdftex.def Info: ./newResultsGraphs/PES1.jpg used on input line 347.
+(pdftex.def)             Requested size: 101.23624pt x 113.81102pt.
+
+
+Package natbib Warning: Citation `Bagheri2009' on page 9 undefined on input lin
+e 348.
+
+
+Package natbib Warning: Citation `Bagheri2009' on page 9 undefined on input lin
+e 348.
+
+[9 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/PES2.jpg> 
+<E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/PES1.jpg>]
+
+Package natbib Warning: Citation `Lee2006' on page 10 undefined on input line 3
+58.
+
+
+Package natbib Warning: Citation `Chong2015' on page 10 undefined on input line
+ 360.
+
+
+Package natbib Warning: Citation `Bandyopadhyay1990a' on page 10 undefined on i
+nput line 374.
+
+<3modes.png, id=543, 689.57625pt x 255.20343pt>
+File: 3modes.png Graphic file (type png)
+ <use 3modes.png>
+Package pdftex.def Info: 3modes.png used on input line 378.
+(pdftex.def)             Requested size: 307.52861pt x 113.81102pt.
+
+
+Package natbib Warning: Citation `Hodgkin1998' on page 10 undefined on input li
+ne 379.
+
+
+Package natbib Warning: Citation `Hodgkin1998' on page 10 undefined on input li
+ne 379.
+
+[10]
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 11 undefined on i
+nput line 383.
+
+
+Package natbib Warning: Citation `Chong2015' on page 11 undefined on input line
+ 384.
+
+
+Package natbib Warning: Citation `Chong2015' on page 11 undefined on input line
+ 390.
+
+
+Package natbib Warning: Citation `Bandyopadhyay1990a' on page 11 undefined on i
+nput line 397.
+
+
+Package natbib Warning: Citation `Chong2015' on page 11 undefined on input line
+ 399.
+
+[11 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/3modes.png>]
+
+Package natbib Warning: Citation `Bandyopadhyay1990a' on page 12 undefined on i
+nput line 408.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 12 undefined on input l
+ine 409.
+
+
+Package natbib Warning: Citation `D50232007' on page 12 undefined on input line
+ 409.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 12 undefined on input l
+ine 416.
+
+
+Package natbib Warning: Citation `Kinloch1990' on page 12 undefined on input li
+ne 416.
+
+
+Package natbib Warning: Citation `Bandyopadhyay1990a' on page 12 undefined on i
+nput line 430.
+
+
+Package natbib Warning: Citation `Hsieh2011' on page 12 undefined on input line
+ 436.
+
+
+Package natbib Warning: Citation `Kinloch1994' on page 12 undefined on input li
+ne 437.
+
+<plasticZoneModel_1.png, id=560, 561.59813pt x 505.13719pt>
+File: plasticZoneModel_1.png Graphic file (type png)
+
+<use plasticZoneModel_1.png>
+Package pdftex.def Info: plasticZoneModel_1.png used on input line 441.
+(pdftex.def)             Requested size: 158.16331pt x 142.26378pt.
+
+
+Package natbib Warning: Citation `Kinloch1994' on page 12 undefined on input li
+ne 442.
+
+
+Package natbib Warning: Citation `Kinloch1994' on page 12 undefined on input li
+ne 442.
+
+[12] <FETDCB.png, id=573, 1256.44406pt x 349.305pt>
+File: FETDCB.png Graphic file (type png)
+ <use FETDCB.png>
+Package pdftex.def Info: FETDCB.png used on input line 451.
+(pdftex.def)             Requested size: 511.71365pt x 142.26378pt.
+
+Overfull \hbox (96.30316pt too wide) in paragraph at lines 451--452
+ [][] 
+ []
+
+
+Package natbib Warning: Citation `Brett2011' on page 13 undefined on input line
+ 452.
+
+
+Package natbib Warning: Citation `Brett2011' on page 13 undefined on input line
+ 452.
+
+
+Package natbib Warning: Citation `Kinloch1983' on page 13 undefined on input li
+ne 455.
+
+
+Package natbib Warning: Citation `Kinloch1990' on page 13 undefined on input li
+ne 455.
+
+
+Package natbib Warning: Citation `Kinloch2008' on page 13 undefined on input li
+ne 457.
+
+
+Package natbib Warning: Citation `Kinloch1983' on page 13 undefined on input li
+ne 457.
+
+
+Package natbib Warning: Citation `Kinloch1990' on page 13 undefined on input li
+ne 457.
+
+[13 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/plasticZoneModel_1.png> <E
+:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FETDCB.png>]
+
+Package natbib Warning: Citation `Kinloch1990' on page 14 undefined on input li
+ne 465.
+
+
+Package natbib Warning: Citation `BS7991' on page 14 undefined on input line 46
+8.
+
+
+Package natbib Warning: Citation `BS7991' on page 14 undefined on input line 46
+8.
+
+
+Package natbib Warning: Citation `BS7991' on page 14 undefined on input line 46
+8.
+
+
+Package natbib Warning: Citation `Blackman2003b' on page 14 undefined on input 
+line 470.
+
+
+Package natbib Warning: Citation `BS7991' on page 14 undefined on input line 47
+0.
+
+<FrailureModesDiagram.png, id=588, 829.59938pt x 188.95593pt>
+File: FrailureModesDiagram.png Graphic file (type png)
+
+<use FrailureModesDiagram.png>
+Package pdftex.def Info: FrailureModesDiagram.png used on input line 474.
+(pdftex.def)             Requested size: 374.75937pt x 85.35826pt.
+
+
+Package natbib Warning: Citation `Lee2006' on page 14 undefined on input line 4
+75.
+
+
+Package natbib Warning: Citation `Lee2006' on page 14 undefined on input line 4
+75.
+
+
+Package natbib Warning: Citation `Lee2006' on page 14 undefined on input line 4
+79.
+
+
+Package natbib Warning: Citation `Bandyopadhyay1990a' on page 14 undefined on i
+nput line 479.
+
+[14 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FrailureModesDiagram.png>]
+
+Package natbib Warning: Citation `Kinloch1994' on page 15 undefined on input li
+ne 481.
+
+
+Package natbib Warning: Citation `Hsieh2011' on page 15 undefined on input line
+ 481.
+
+
+Package natbib Warning: Citation `Hsieh2011' on page 15 undefined on input line
+ 483.
+
+
+Package natbib Warning: Citation `Hsieh2011' on page 15 undefined on input line
+ 483.
+
+
+Package natbib Warning: Citation `Kinloch1994' on page 15 undefined on input li
+ne 483.
+
+
+Package natbib Warning: Citation `Adnan2008' on page 15 undefined on input line
+ 484.
+
+<fractureTypes.png, id=598, 462.22687pt x 536.75531pt>
+File: fractureTypes.png Graphic file (type png)
+ <use fractureTypes.png>
+Package pdftex.def Info: fractureTypes.png used on input line 488.
+(pdftex.def)             Requested size: 245.0214pt x 284.52756pt.
+
+
+Package natbib Warning: Citation `Lee2006' on page 15 undefined on input line 4
+89.
+
+
+Package natbib Warning: Citation `Lee2006' on page 15 undefined on input line 4
+89.
+
+[15] [16 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/fractureTypes.png>]
+
+Package natbib Warning: Citation `D50232007' on page 17 undefined on input line
+ 495.
+
+<SENB.png, id=611, 669.2503pt x 222.07968pt>
+File: SENB.png Graphic file (type png)
+ <use SENB.png>
+Package pdftex.def Info: SENB.png used on input line 499.
+(pdftex.def)             Requested size: 342.97768pt x 113.81102pt.
+
+
+Package natbib Warning: Citation `D50232007' on page 17 undefined on input line
+ 500.
+
+
+Package natbib Warning: Citation `D50232007' on page 17 undefined on input line
+ 500.
+
+
+Package natbib Warning: Citation `Chong2015' on page 17 undefined on input line
+ 504.
+
+
+Package natbib Warning: Citation `ISO13586' on page 17 undefined on input line 
+504.
+
+
+Package natbib Warning: Citation `Karac2011' on page 17 undefined on input line
+ 521.
+
+[17 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/SENB.png>]
+
+Package natbib Warning: Citation `Karac2011' on page 18 undefined on input line
+ 526.
+
+
+Package natbib Warning: Citation `D50232007' on page 18 undefined on input line
+ 527.
+
+<SENBLoaded.png, id=623, 438.8897pt x 251.43938pt>
+File: SENBLoaded.png Graphic file (type png)
+ <use SENBLoaded.png>
+Package pdftex.def Info: SENBLoaded.png used on input line 546.
+(pdftex.def)             Requested size: 248.32138pt x 142.26378pt.
+
+
+Package natbib Warning: Citation `Karac2011' on page 18 undefined on input line
+ 547.
+
+
+Package natbib Warning: Citation `Karac2011' on page 18 undefined on input line
+ 547.
+
+
+Package natbib Warning: Citation `Bagheri2000' on page 18 undefined on input li
+ne 553.
+
+
+Package natbib Warning: Citation `Huang1992' on page 18 undefined on input line
+ 554.
+
+
+Package natbib Warning: Citation `Huang1992' on page 18 undefined on input line
+ 554.
+
+[18 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/SENBLoaded.png>]
+<DRS.png, id=635, 682.80093pt x 580.41844pt>
+File: DRS.png Graphic file (type png)
+ <use DRS.png>
+Package pdftex.def Info: DRS.png used on input line 558.
+(pdftex.def)             Requested size: 502.07666pt x 426.79134pt.
+
+Overfull \hbox (86.66617pt too wide) in paragraph at lines 558--559
+ [][] 
+ []
+
+
+Package natbib Warning: Citation `Huang1992' on page 19 undefined on input line
+ 559.
+
+
+Package natbib Warning: Citation `Huang1992' on page 19 undefined on input line
+ 559.
+
+[19 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/DRS.png>]
+
+Package natbib Warning: Citation `BlackmanB.R.K.2009' on page 20 undefined on i
+nput line 566.
+
+
+Package natbib Warning: Citation `Blackman2012' on page 20 undefined on input l
+ine 568.
+
+
+Package natbib Warning: Citation `RodriguezSanchez2008' on page 20 undefined on
+ input line 569.
+
+
+Package natbib Warning: Citation `Blackman1996' on page 20 undefined on input l
+ine 569.
+
+
+Package natbib Warning: Citation `BlackmanB.R.K.2009' on page 20 undefined on i
+nput line 571.
+
+
+Package natbib Warning: Citation `Blackman1995' on page 20 undefined on input l
+ine 574.
+
+[20]
+
+Package natbib Warning: Citation `Mohammed2007' on page 21 undefined on input l
+ine 583.
+
+
+Package natbib Warning: Citation `Kinloch1994' on page 21 undefined on input li
+ne 583.
+
+
+Package natbib Warning: Citation `Kinloch1994' on page 21 undefined on input li
+ne 583.
+
+
+Package natbib Warning: Citation `ISO13586' on page 21 undefined on input line 
+586.
+
+
+Package natbib Warning: Citation `ISO13586' on page 21 undefined on input line 
+586.
+
+
+Package natbib Warning: Citation `Kinloch1994' on page 21 undefined on input li
+ne 587.
+
+<crackPining.png, id=652, 498.36188pt x 357.58594pt>
+File: crackPining.png Graphic file (type png)
+ <use crackPining.png>
+Package pdftex.def Info: crackPining.png used on input line 591.
+(pdftex.def)             Requested size: 237.92584pt x 170.71652pt.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 21 undefined on input l
+ine 592.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 21 undefined on input l
+ine 592.
+
+[21]
+
+Package natbib Warning: Citation `Kinloch1994' on page 22 undefined on input li
+ne 596.
+
+<crackDeflection_1.png, id=659, 593.96906pt x 109.1578pt>
+File: crackDeflection_1.png Graphic file (type png)
+
+<use crackDeflection_1.png>
+Package pdftex.def Info: crackDeflection_1.png used on input line 600.
+(pdftex.def)             Requested size: 309.64513pt x 56.9055pt.
+
+
+Package natbib Warning: Citation `Kinloch1994' on page 22 undefined on input li
+ne 601.
+
+
+Package natbib Warning: Citation `Kinloch1994' on page 22 undefined on input li
+ne 601.
+
+
+Package natbib Warning: Citation `Babu2012' on page 22 undefined on input line 
+606.
+
+
+Package natbib Warning: Citation `Kinloch1985' on page 22 undefined on input li
+ne 606.
+
+
+Package natbib Warning: Citation `Moloney1987' on page 22 undefined on input li
+ne 606.
+
+
+Package natbib Warning: Citation `Bucknall2007' on page 22 undefined on input l
+ine 606.
+
+[22 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/crackPining.png> <E:/Box S
+ync/EasyLatexTemplate/EasyLatexTemplate/crackDeflection_1.png>]
+<cavitation.png, id=669, 368.87813pt x 272.51813pt>
+File: cavitation.png Graphic file (type png)
+ <use cavitation.png>
+Package pdftex.def Info: cavitation.png used on input line 610.
+(pdftex.def)             Requested size: 192.56633pt x 142.26378pt.
+
+
+Package natbib Warning: Citation `Kinloch1997' on page 23 undefined on input li
+ne 611.
+
+
+Package natbib Warning: Citation `Kinloch1997' on page 23 undefined on input li
+ne 611.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 23 undefined on input l
+ine 616.
+
+<debonding.png, id=671, 255.20343pt x 185.94469pt>
+File: debonding.png Graphic file (type png)
+ <use debonding.png>
+Package pdftex.def Info: debonding.png used on input line 620.
+(pdftex.def)             Requested size: 195.25725pt x 142.26378pt.
+
+
+Package natbib Warning: Citation `Huang1992d' on page 23 undefined on input lin
+e 621.
+
+
+Package natbib Warning: Citation `Huang1992d' on page 23 undefined on input lin
+e 621.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 23 undefined on input l
+ine 626.
+
+[23 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/cavitation.png> <E:/Box Sy
+nc/EasyLatexTemplate/EasyLatexTemplate/debonding.png>]
+<rubberBridging.png, id=680, 294.34969pt x 170.13562pt>
+File: rubberBridging.png Graphic file (type png)
+
+<use rubberBridging.png>
+Package pdftex.def Info: rubberBridging.png used on input line 630.
+(pdftex.def)             Requested size: 196.90335pt x 113.81102pt.
+
+
+Package natbib Warning: Citation `Guild2010' on page 24 undefined on input line
+ 631.
+
+
+Package natbib Warning: Citation `Guild2010' on page 24 undefined on input line
+ 631.
+
+
+Package natbib Warning: Citation `Kawaguchi2003' on page 24 undefined on input 
+line 636.
+
+<plasticVoidGrowth.png, id=683, 359.09157pt x 261.22594pt>
+File: plasticVoidGrowth.png Graphic file (type png)
+
+<use plasticVoidGrowth.png>
+Package pdftex.def Info: plasticVoidGrowth.png used on input line 640.
+(pdftex.def)             Requested size: 195.5613pt x 142.26378pt.
+
+
+Package natbib Warning: Citation `Kawaguchi2003' on page 24 undefined on input 
+line 641.
+
+
+Package natbib Warning: Citation `Kawaguchi2003' on page 24 undefined on input 
+line 641.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 24 undefined on input lin
+e 646.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 24 undefined on input line
+ 646.
+
+
+Package natbib Warning: Citation `Kunz-Douglass1980' on page 24 undefined on in
+put line 646.
+
+[24 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/rubberBridging.png> <E:/Bo
+x Sync/EasyLatexTemplate/EasyLatexTemplate/plasticVoidGrowth.png>]
+
+Package natbib Warning: Citation `Hsieh2010a' on page 25 undefined on input lin
+e 648.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 25 undefined on input lin
+e 648.
+
+
+Package natbib Warning: Citation `Spanoudakis1984' on page 25 undefined on inpu
+t line 650.
+
+
+Package natbib Warning: Citation `Broutman197198' on page 25 undefined on input
+ line 650.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 25 undefined on input line
+ 652.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 25 undefined on input line
+ 652.
+
+
+Package natbib Warning: Citation `Huang1992a' on page 25 undefined on input lin
+e 658.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 25 undefined on input l
+ine 658.
+
+[25] [26]
+chapter 3.
+
+Package natbib Warning: Citation `Mohammed2008' on page 27 undefined on input l
+ine 669.
+
+
+Package natbib Warning: Citation `Huntsman2004' on page 27 undefined on input l
+ine 673.
+
+
+Package natbib Warning: Citation `Resins2006' on page 27 undefined on input lin
+e 676.
+
+
+Package natbib Warning: Citation `Industries2008' on page 27 undefined on input
+ line 680.
+
+[27
+
+]
+
+Package natbib Warning: Citation `Garg' on page 28 undefined on input line 683.
+
+
+
+Package natbib Warning: Citation `Masania2010' on page 28 undefined on input li
+ne 691.
+
+
+Package natbib Warning: Citation `Chemical2010' on page 28 undefined on input l
+ine 695.
+
+
+Package natbib Warning: Citation `Chemical2010' on page 28 undefined on input l
+ine 696.
+
+
+Package natbib Warning: Citation `Chen2012' on page 28 undefined on input line 
+702.
+
+[28]
+
+Package natbib Warning: Citation `3M' on page 29 undefined on input line 712.
+
+
+Package natbib Warning: Citation `3M2015' on page 29 undefined on input line 71
+2.
+
+[29] [30]
+chapter 4.
+
+Package natbib Warning: Citation `Blackman1996a' on page 31 undefined on input 
+line 733.
+
+[31
+
+] <TDCBJig.jpg, id=728, 3276.24pt x 2457.18pt>
+File: TDCBJig.jpg Graphic file (type jpg)
+ <use TDCBJig.jpg>
+Package pdftex.def Info: TDCBJig.jpg used on input line 745.
+(pdftex.def)             Requested size: 265.55396pt x 199.16928pt.
+
+<TDCBspecimens.jpg, id=729, 3276.24pt x 2457.18pt>
+File: TDCBspecimens.jpg Graphic file (type jpg)
+ <use TDCBspecimens.jpg>
+Package pdftex.def Info: TDCBspecimens.jpg used on input line 751.
+(pdftex.def)             Requested size: 265.55396pt x 199.16928pt.
+
+[32 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/TDCBJig.jpg>]
+
+Package natbib Warning: Citation `BlackmanB.R.K.2009' on page 33 undefined on i
+nput line 756.
+
+<DSC_cycle.pdf, id=737, 794.97pt x 614.295pt>
+File: DSC_cycle.pdf Graphic file (type pdf)
+ <use DSC_cycle.pdf>
+Package pdftex.def Info: DSC_cycle.pdf used on input line 769.
+(pdftex.def)             Requested size: 331.38629pt x 256.0748pt.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 33 undefined on input lin
+e 775.
+
+
+Package natbib Warning: Citation `Johnsen2007' on page 33 undefined on input li
+ne 775.
+
+[33 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/TDCBspecimens.jpg>]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ± in font cmr10!
+
+<TDCBSetUp.jpg, id=744, 3276.24pt x 2457.18pt>
+File: TDCBSetUp.jpg Graphic file (type jpg)
+ <use TDCBSetUp.jpg>
+Package pdftex.def Info: TDCBSetUp.jpg used on input line 783.
+(pdftex.def)             Requested size: 227.61053pt x 170.71652pt.
+ [34 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/DSC_cycle.pdf>]
+
+Package natbib Warning: Citation `Kinloch1990' on page 35 undefined on input li
+ne 788.
+
+
+Package natbib Warning: Citation `Blackman1995' on page 35 undefined on input l
+ine 794.
+
+
+Package natbib Warning: Citation `Chong2015' on page 35 undefined on input line
+ 797.
+
+[35 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/TDCBSetUp.jpg>]
+
+Package natbib Warning: Citation `Chong2015' on page 36 undefined on input line
+ 812.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 814.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 814.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 814.
+
+
+Package natbib Warning: Citation `Feito2012' on page 36 undefined on input line
+ 815.
+
+
+Package natbib Warning: Citation `Kinloch1990' on page 36 undefined on input li
+ne 815.
+
+[36]
+
+Package natbib Warning: Citation `Kinloch1990' on page 37 undefined on input li
+ne 843.
+
+
+Package natbib Warning: Citation `Kinloch1990' on page 37 undefined on input li
+ne 845.
+
+
+Package natbib Warning: Citation `Huang1992' on page 37 undefined on input line
+ 845.
+
+
+Package natbib Warning: Citation `MasaniaTaylorA.C.KinlochA.J.andSprengerS.' on
+ page 37 undefined on input line 851.
+
+
+Package natbib Warning: Citation `Johnsen2007' on page 37 undefined on input li
+ne 851.
+
+
+Package natbib Warning: Citation `Hsieha' on page 37 undefined on input line 85
+1.
+
+[37] <ControlFracture.png, id=789, 644.4075pt x 257.46187pt>
+File: ControlFracture.png Graphic file (type png)
+
+<use ControlFracture.png>
+Package pdftex.def Info: ControlFracture.png used on input line 860.
+(pdftex.def)             Requested size: 356.07713pt x 142.26378pt.
+ <ControlGraph.png, id=790, 738.50906pt x 367.3725pt>
+File: ControlGraph.png Graphic file (type png)
+
+<use ControlGraph.png>
+Package pdftex.def Info: ControlGraph.png used on input line 899.
+(pdftex.def)             Requested size: 400.38911pt x 199.16928pt.
+ [38 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/ControlFracture.png>]
+
+Package natbib Warning: Citation `Hsieh2010a' on page 39 undefined on input lin
+e 910.
+
+
+Package natbib Warning: Citation `GuildA.J.KinlochandA.C.Taylor' on page 39 und
+efined on input line 910.
+
+
+Package natbib Warning: Citation `Mohammed2008' on page 39 undefined on input l
+ine 913.
+
+
+Package natbib Warning: Citation `Mohammed2008' on page 39 undefined on input l
+ine 913.
+
+
+Package natbib Warning: Citation `Mohammed2008' on page 39 undefined on input l
+ine 913.
+
+<CBTSi_1.png, id=798, 1159.33125pt x 435.12563pt>
+File: CBTSi_1.png Graphic file (type png)
+ <use CBTSi_1.png>
+Package pdftex.def Info: CBTSi_1.png used on input line 918.
+(pdftex.def)             Requested size: 454.86162pt x 170.71652pt.
+
+Overfull \hbox (39.45113pt too wide) in paragraph at lines 918--919
+ [][] 
+ []
+
+[39 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/ControlGraph.png>]
+Package epstopdf Info: Source file: <CBTSiGraph.eps>
+(epstopdf)                    date: 2017-02-23 17:37:13
+(epstopdf)                    size: 55427 bytes
+(epstopdf)             Output file: <CBTSiGraph-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-23 17:40:21
+(epstopdf)                    size: 23684 bytes
+(epstopdf)             Command: <epstopdf --outfile=CBTSiGraph-eps-converted-to
+.pdf CBTSiGraph.eps>
+(epstopdf)             \includegraphics on input line 924.
+Package epstopdf Info: Output file is already uptodate.
+
+<CBTSiGraph-eps-converted-to.pdf, id=806, 774.895pt x 593.21625pt>
+File: CBTSiGraph-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CBTSiGraph-eps-converted-to.pdf>
+Package pdftex.def Info: CBTSiGraph-eps-converted-to.pdf used on input line 924
+.
+(pdftex.def)             Requested size: 408.84787pt x 312.9803pt.
+
+
+Package natbib Warning: Citation `Huang1992b' on page 40 undefined on input lin
+e 926.
+
+
+Package natbib Warning: Citation `Bagheri2000' on page 40 undefined on input li
+ne 926.
+
+
+Package natbib Warning: Citation `Huang1992b' on page 40 undefined on input lin
+e 926.
+
+
+Package natbib Warning: Citation `Bagheri2000' on page 40 undefined on input li
+ne 926.
+
+[40 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/CBTSi_1.png>] [41 <E:/Box 
+Sync/EasyLatexTemplate/EasyLatexTemplate/CBTSiGraph-eps-converted-to.pdf>]
+<CBTCSR_1.png, id=866, 1112.155pt x 350.30875pt>
+File: CBTCSR_1.png Graphic file (type png)
+ <use CBTCSR_1.png>
+Package pdftex.def Info: CBTCSR_1.png used on input line 937.
+(pdftex.def)             Requested size: 307.12482pt x 96.73918pt.
+Package epstopdf Info: Source file: <CBTCSRGraph.eps>
+(epstopdf)                    date: 2017-02-08 15:40:34
+(epstopdf)                    size: 53464 bytes
+(epstopdf)             Output file: <CBTCSRGraph-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-08 15:44:58
+(epstopdf)                    size: 24299 bytes
+(epstopdf)             Command: <epstopdf --outfile=CBTCSRGraph-eps-converted-t
+o.pdf CBTCSRGraph.eps>
+(epstopdf)             \includegraphics on input line 943.
+Package epstopdf Info: Output file is already uptodate.
+
+<CBTCSRGraph-eps-converted-to.pdf, id=867, 825.0825pt x 577.15625pt>
+File: CBTCSRGraph-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CBTCSRGraph-eps-converted-to.pdf>
+Package pdftex.def Info: CBTCSRGraph-eps-converted-to.pdf used on input line 94
+3.
+(pdftex.def)             Requested size: 406.76155pt x 284.52756pt.
+ [42 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/CBTCSR_1.png>] [43 <E:/Bo
+x Sync/EasyLatexTemplate/EasyLatexTemplate/CBTCSRGraph-eps-converted-to.pdf>]
+<FractureSurfacesTDCB.png, id=931, 1139.00531pt x 612.03656pt>
+File: FractureSurfacesTDCB.png Graphic file (type png)
+
+<use FractureSurfacesTDCB.png>
+Package pdftex.def Info: FractureSurfacesTDCB.png used on input line 955.
+(pdftex.def)             Requested size: 370.6416pt x 199.16928pt.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 44 undefined on input line
+ 963.
+
+[44 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FractureSurfacesTDCB.png>]
+[45]
+chapter 5.
+
+Package natbib Warning: Citation `Hsieh2010a' on page 46 undefined on input lin
+e 970.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 46 undefined on input line
+ 970.
+
+[46
+
+] <HighRateSetup1.png, id=950, 423.83344pt x 566.115pt>
+File: HighRateSetup1.png Graphic file (type png)
+
+<use HighRateSetup1.png>
+Package pdftex.def Info: HighRateSetup1.png used on input line 983.
+(pdftex.def)             Requested size: 170.4099pt x 227.62204pt.
+
+
+Package natbib Warning: Citation `Adnan2008' on page 47 undefined on input line
+ 984.
+
+
+Package natbib Warning: Citation `Adnan2008' on page 47 undefined on input line
+ 984.
+
+[47] <HighRateSetup.jpg, id=957, 3276.24pt x 2457.18pt>
+File: HighRateSetup.jpg Graphic file (type jpg)
+
+<use HighRateSetup.jpg>
+Package pdftex.def Info: HighRateSetup.jpg used on input line 989.
+(pdftex.def)             Requested size: 265.55396pt x 199.16928pt.
+
+
+Package natbib Warning: Citation `Adnan2008' on page 48 undefined on input line
+ 990.
+
+
+Package natbib Warning: Citation `Adnan2008' on page 48 undefined on input line
+ 990.
+
+[48 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/HighRateSetup1.png> <E:/Bo
+x Sync/EasyLatexTemplate/EasyLatexTemplate/HighRateSetup.jpg>]
+<TDCBimage.jpg, id=966, 58.27124pt x 5.91817pt>
+File: TDCBimage.jpg Graphic file (type jpg)
+ <use TDCBimage.jpg>
+Package pdftex.def Info: TDCBimage.jpg used on input line 997.
+(pdftex.def)             Requested size: 420.23807pt x 42.67912pt.
+
+Overfull \hbox (4.82758pt too wide) in paragraph at lines 997--998
+ [][] 
+ []
+
+[49 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/TDCBimage.jpg>]
+Package epstopdf Info: Source file: <test2graph1.eps>
+(epstopdf)                    date: 2017-02-13 13:55:46
+(epstopdf)                    size: 59476 bytes
+(epstopdf)             Output file: <test2graph1-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-13 13:57:59
+(epstopdf)                    size: 25855 bytes
+(epstopdf)             Command: <epstopdf --outfile=test2graph1-eps-converted-t
+o.pdf test2graph1.eps>
+(epstopdf)             \includegraphics on input line 1028.
+Package epstopdf Info: Output file is already uptodate.
+
+<test2graph1-eps-converted-to.pdf, id=974, 825.0825pt x 577.15625pt>
+File: test2graph1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use test2graph1-eps-converted-to.pdf>
+Package pdftex.def Info: test2graph1-eps-converted-to.pdf used on input line 10
+28.
+(pdftex.def)             Requested size: 366.08414pt x 256.0748pt.
+ [50 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/test2graph1-eps-converted
+-to.pdf>]
+
+Package natbib Warning: Citation `Adnan2008' on page 51 undefined on input line
+ 1039.
+
+
+Package natbib Warning: Citation `Huang1992' on page 51 undefined on input line
+ 1039.
+
+Package epstopdf Info: Source file: <test2graph2.eps>
+(epstopdf)                    date: 2017-03-14 17:14:05
+(epstopdf)                    size: 368635 bytes
+(epstopdf)             Output file: <test2graph2-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-03-14 17:14:11
+(epstopdf)                    size: 63049 bytes
+(epstopdf)             Command: <epstopdf --outfile=test2graph2-eps-converted-t
+o.pdf test2graph2.eps>
+(epstopdf)             \includegraphics on input line 1047.
+Package epstopdf Info: Output file is already uptodate.
+<test2graph2-eps-converted-to.pdf, id=1028, 774.895pt x 593.21625pt>
+File: test2graph2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use test2graph2-eps-converted-to.pdf>
+Package pdftex.def Info: test2graph2-eps-converted-to.pdf used on input line 10
+47.
+(pdftex.def)             Requested size: 297.33638pt x 227.62204pt.
+ [51]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1052.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1052.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1052.
+
+
+Package natbib Warning: Citation `Blackman1995' on page 52 undefined on input l
+ine 1064.
+
+[52 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/test2graph2-eps-converted-
+to.pdf>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+
+Package natbib Warning: Citation `Blackman1995' on page 53 undefined on input l
+ine 1108.
+
+[53]
+Missing character: There is no „ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ó in font cmr10!
+ [54]
+
+LaTeX Warning: Reference `HighRateSummary4,HighRateSummary5,HighRateSummary6' o
+n page 55 undefined on input line 1162.
+
+[55]
+Package epstopdf Info: Source file: <./newResultsGraphs/HighRateSummaryStandard
+.eps>
+(epstopdf)                    date: 2016-07-06 10:56:57
+(epstopdf)                    size: 41010 bytes
+(epstopdf)             Output file: <./newResultsGraphs/HighRateSummaryStandard
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-06 10:58:31
+(epstopdf)                    size: 19826 bytes
+(epstopdf)             Command: <epstopdf --outfile=./newResultsGraphs/HighRate
+SummaryStandard-eps-converted-to.pdf ./newResultsGraphs/HighRateSummaryStandard
+.eps>
+(epstopdf)             \includegraphics on input line 1178.
+Package epstopdf Info: Output file is already uptodate.
+
+<./newResultsGraphs/HighRateSummaryStandard-eps-converted-to.pdf, id=1077, 825.
+0825pt x 577.15625pt>
+File: ./newResultsGraphs/HighRateSummaryStandard-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./newResultsGraphs/HighRateSummaryStandard-eps-converted-to.pdf>
+Package pdftex.def Info: ./newResultsGraphs/HighRateSummaryStandard-eps-convert
+ed-to.pdf used on input line 1178.
+(pdftex.def)             Requested size: 325.40672pt x 227.62204pt.
+ [56]
+Package epstopdf Info: Source file: <./newResultsGraphs/HighRateSummary1.eps>
+(epstopdf)                    date: 2016-07-05 15:45:22
+(epstopdf)                    size: 41354 bytes
+(epstopdf)             Output file: <./newResultsGraphs/HighRateSummary1-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-07-05 15:49:09
+(epstopdf)                    size: 20040 bytes
+(epstopdf)             Command: <epstopdf --outfile=./newResultsGraphs/HighRate
+Summary1-eps-converted-to.pdf ./newResultsGraphs/HighRateSummary1.eps>
+(epstopdf)             \includegraphics on input line 1186.
+Package epstopdf Info: Output file is already uptodate.
+
+<./newResultsGraphs/HighRateSummary1-eps-converted-to.pdf, id=1084, 825.0825pt 
+x 577.15625pt>
+File: ./newResultsGraphs/HighRateSummary1-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use ./newResultsGraphs/HighRateSummary1-eps-converted-to.pdf>
+Package pdftex.def Info: ./newResultsGraphs/HighRateSummary1-eps-converted-to.p
+df used on input line 1186.
+(pdftex.def)             Requested size: 325.40672pt x 227.62204pt.
+Package epstopdf Info: Source file: <./newResultsGraphs/HighRateSummary2.eps>
+(epstopdf)                    date: 2016-07-05 15:50:43
+(epstopdf)                    size: 41263 bytes
+(epstopdf)             Output file: <./newResultsGraphs/HighRateSummary2-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-07-06 10:58:33
+(epstopdf)                    size: 20016 bytes
+(epstopdf)             Command: <epstopdf --outfile=./newResultsGraphs/HighRate
+Summary2-eps-converted-to.pdf ./newResultsGraphs/HighRateSummary2.eps>
+(epstopdf)             \includegraphics on input line 1194.
+Package epstopdf Info: Output file is already uptodate.
+
+<./newResultsGraphs/HighRateSummary2-eps-converted-to.pdf, id=1085, 825.0825pt 
+x 577.15625pt>
+File: ./newResultsGraphs/HighRateSummary2-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use ./newResultsGraphs/HighRateSummary2-eps-converted-to.pdf>
+Package pdftex.def Info: ./newResultsGraphs/HighRateSummary2-eps-converted-to.p
+df used on input line 1194.
+(pdftex.def)             Requested size: 325.40672pt x 227.62204pt.
+
+[57 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/HighRateS
+ummaryStandard-eps-converted-to.pdf> <E:/Box Sync/EasyLatexTemplate/EasyLatexTe
+mplate/newResultsGraphs/HighRateSummary1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./newResultsGraphs/HighRateSummary3.eps>
+(epstopdf)                    date: 2016-07-05 15:54:14
+(epstopdf)                    size: 41087 bytes
+(epstopdf)             Output file: <./newResultsGraphs/HighRateSummary3-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-07-06 10:58:34
+(epstopdf)                    size: 19887 bytes
+(epstopdf)             Command: <epstopdf --outfile=./newResultsGraphs/HighRate
+Summary3-eps-converted-to.pdf ./newResultsGraphs/HighRateSummary3.eps>
+(epstopdf)             \includegraphics on input line 1202.
+Package epstopdf Info: Output file is already uptodate.
+
+<./newResultsGraphs/HighRateSummary3-eps-converted-to.pdf, id=1175, 825.0825pt 
+x 577.15625pt>
+File: ./newResultsGraphs/HighRateSummary3-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use ./newResultsGraphs/HighRateSummary3-eps-converted-to.pdf>
+Package pdftex.def Info: ./newResultsGraphs/HighRateSummary3-eps-converted-to.p
+df used on input line 1202.
+(pdftex.def)             Requested size: 325.40672pt x 227.62204pt.
+Package epstopdf Info: Source file: <./newResultsGraphs/HighRateSummary4.eps>
+(epstopdf)                    date: 2016-07-06 10:53:32
+(epstopdf)                    size: 40172 bytes
+(epstopdf)             Output file: <./newResultsGraphs/HighRateSummary4-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-07-06 10:58:35
+(epstopdf)                    size: 18171 bytes
+(epstopdf)             Command: <epstopdf --outfile=./newResultsGraphs/HighRate
+Summary4-eps-converted-to.pdf ./newResultsGraphs/HighRateSummary4.eps>
+(epstopdf)             \includegraphics on input line 1209.
+Package epstopdf Info: Output file is already uptodate.
+
+<./newResultsGraphs/HighRateSummary4-eps-converted-to.pdf, id=1176, 825.0825pt 
+x 577.15625pt>
+File: ./newResultsGraphs/HighRateSummary4-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use ./newResultsGraphs/HighRateSummary4-eps-converted-to.pdf>
+Package pdftex.def Info: ./newResultsGraphs/HighRateSummary4-eps-converted-to.p
+df used on input line 1209.
+(pdftex.def)             Requested size: 325.40672pt x 227.62204pt.
+
+[58 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/HighRateS
+ummary2-eps-converted-to.pdf> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/
+newResultsGraphs/HighRateSummary3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./newResultsGraphs/HighRateSummary5.eps>
+(epstopdf)                    date: 2016-07-06 10:50:59
+(epstopdf)                    size: 41656 bytes
+(epstopdf)             Output file: <./newResultsGraphs/HighRateSummary5-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-07-06 10:58:36
+(epstopdf)                    size: 18946 bytes
+(epstopdf)             Command: <epstopdf --outfile=./newResultsGraphs/HighRate
+Summary5-eps-converted-to.pdf ./newResultsGraphs/HighRateSummary5.eps>
+(epstopdf)             \includegraphics on input line 1216.
+Package epstopdf Info: Output file is already uptodate.
+
+<./newResultsGraphs/HighRateSummary5-eps-converted-to.pdf, id=1266, 825.0825pt 
+x 577.15625pt>
+File: ./newResultsGraphs/HighRateSummary5-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use ./newResultsGraphs/HighRateSummary5-eps-converted-to.pdf>
+Package pdftex.def Info: ./newResultsGraphs/HighRateSummary5-eps-converted-to.p
+df used on input line 1216.
+(pdftex.def)             Requested size: 325.40672pt x 227.62204pt.
+Package epstopdf Info: Source file: <./newResultsGraphs/HighRateSummary6.eps>
+(epstopdf)                    date: 2016-07-06 10:49:08
+(epstopdf)                    size: 41516 bytes
+(epstopdf)             Output file: <./newResultsGraphs/HighRateSummary6-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-07-06 10:58:38
+(epstopdf)                    size: 19012 bytes
+(epstopdf)             Command: <epstopdf --outfile=./newResultsGraphs/HighRate
+Summary6-eps-converted-to.pdf ./newResultsGraphs/HighRateSummary6.eps>
+(epstopdf)             \includegraphics on input line 1223.
+Package epstopdf Info: Output file is already uptodate.
+
+<./newResultsGraphs/HighRateSummary6-eps-converted-to.pdf, id=1267, 825.0825pt 
+x 577.15625pt>
+File: ./newResultsGraphs/HighRateSummary6-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use ./newResultsGraphs/HighRateSummary6-eps-converted-to.pdf>
+Package pdftex.def Info: ./newResultsGraphs/HighRateSummary6-eps-converted-to.p
+df used on input line 1223.
+(pdftex.def)             Requested size: 325.40672pt x 227.62204pt.
+
+[59 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/HighRateS
+ummary4-eps-converted-to.pdf> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/
+newResultsGraphs/HighRateSummary5-eps-converted-to.pdf>] [60 <E:/Box Sync/EasyL
+atexTemplate/EasyLatexTemplate/newResultsGraphs/HighRateSummary6-eps-converted-
+to.pdf>]
+chapter 6.
+
+LaTeX Warning: Reference `W210_PES' on page 61 undefined on input line 1239.
+
+[61
+
+]
+
+Package natbib Warning: Citation `Blackman2003c' on page 62 undefined on input 
+line 1264.
+
+<tensile.png, id=1400, 299.1175pt x 704.6325pt>
+File: tensile.png Graphic file (type png)
+ <use tensile.png>
+Package pdftex.def Info: tensile.png used on input line 1268.
+(pdftex.def)             Requested size: 84.54648pt x 199.16928pt.
+
+
+Package natbib Warning: Citation `Chong2015' on page 62 undefined on input line
+ 1269.
+
+
+Package natbib Warning: Citation `Chong2015' on page 62 undefined on input line
+ 1269.
+
+[62 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/tensile.png>]
+
+Package natbib Warning: Citation `Masania2010' on page 63 undefined on input li
+ne 1292.
+
+[63]
+Package epstopdf Info: Source file: <Stress_strain.eps>
+(epstopdf)                    date: 2017-03-08 19:23:06
+(epstopdf)                    size: 287695 bytes
+(epstopdf)             Output file: <Stress_strain-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-03-08 19:23:13
+(epstopdf)                    size: 79191 bytes
+(epstopdf)             Command: <epstopdf --outfile=Stress_strain-eps-converted
+-to.pdf Stress_strain.eps>
+(epstopdf)             \includegraphics on input line 1306.
+Package epstopdf Info: Output file is already uptodate.
+ <Stress_strain-eps-converted-to.pdf, id=1420, 774.895pt x 593.21625pt>
+File: Stress_strain-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Stress_strain-eps-converted-to.pdf>
+Package pdftex.def Info: Stress_strain-eps-converted-to.pdf used on input line 
+1306.
+(pdftex.def)             Requested size: 371.67343pt x 284.52756pt.
+
+<Modulus-Si.png, id=1421, 926.71219pt x 730.22812pt>
+File: Modulus-Si.png Graphic file (type png)
+ <use Modulus-Si.png>
+Package pdftex.def Info: Modulus-Si.png used on input line 1321.
+(pdftex.def)             Requested size: 288.86154pt x 227.62204pt.
+
+[64 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/Stress_strain-eps-converte
+d-to.pdf>] <tensileTable-Si.png, id=1428, 1306.12968pt x 548.80031pt>
+File: tensileTable-Si.png Graphic file (type png)
+
+<use tensileTable-Si.png>
+Package pdftex.def Info: tensileTable-Si.png used on input line 1329.
+(pdftex.def)             Requested size: 406.29112pt x 170.71652pt.
+
+<Fracture_stress.png, id=1429, 1049.9225pt x 691.58376pt>
+File: Fracture_stress.png Graphic file (type png)
+
+<use Fracture_stress.png>
+Package pdftex.def Info: Fracture_stress.png used on input line 1336.
+(pdftex.def)             Requested size: 302.35501pt x 199.16928pt.
+ [65 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/Modulus-Si.png> <E:/Box S
+ync/EasyLatexTemplate/EasyLatexTemplate/tensileTable-Si.png>] <particleContentT
+ableOld.png, id=1437, 563.85657pt x 652.68843pt>
+File: particleContentTableOld.png Graphic file (type png)
+
+<use particleContentTableOld.png>
+Package pdftex.def Info: particleContentTableOld.png used on input line 1352.
+(pdftex.def)             Requested size: 221.22815pt x 256.0748pt.
+ [66 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/Fracture_stress.png>]
+
+Package natbib Warning: Citation `ISO13586' on page 67 undefined on input line 
+1360.
+
+
+Package natbib Warning: Citation `ISO13586' on page 67 undefined on input line 
+1362.
+
+[67 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/particleContentTableOld.pn
+g>] <SENBGeometry.png, id=1450, 1360.33218pt x 335.75438pt>
+File: SENBGeometry.png Graphic file (type png)
+
+<use SENBGeometry.png>
+Package pdftex.def Info: SENBGeometry.png used on input line 1377.
+(pdftex.def)             Requested size: 345.8319pt x 85.35826pt.
+
+
+Package natbib Warning: Citation `ISO13586' on page 68 undefined on input line 
+1378.
+
+
+Package natbib Warning: Citation `ISO13586' on page 68 undefined on input line 
+1378.
+
+
+Package natbib Warning: Citation `ISO13586' on page 68 undefined on input line 
+1385.
+
+
+Package natbib Warning: Citation `Chong2015' on page 68 undefined on input line
+ 1388.
+
+
+Package natbib Warning: Citation `ISO13586' on page 68 undefined on input line 
+1388.
+
+[68 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/SENBGeometry.png>]
+
+Package natbib Warning: Citation `Karac2011' on page 69 undefined on input line
+ 1408.
+
+
+Package natbib Warning: Citation `Karac2011' on page 69 undefined on input line
+ 1413.
+
+<SENBsetup(lowrate).jpg, id=1462, 2457.18pt x 3276.24pt>
+File: SENBsetup(lowrate).jpg Graphic file (type jpg)
+
+<use SENBsetup(lowrate).jpg>
+Package pdftex.def Info: SENBsetup(lowrate).jpg used on input line 1419.
+(pdftex.def)             Requested size: 149.3741pt x 199.16928pt.
+
+<SENB_Force_displacement.png, id=1463, 819.06pt x 656.4525pt>
+File: SENB_Force_displacement.png Graphic file (type png)
+
+<use SENB_Force_displacement.png>
+Package pdftex.def Info: SENB_Force_displacement.png used on input line 1427.
+(pdftex.def)             Requested size: 355.01344pt x 284.52756pt.
+ [69 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/SENBsetup(lowrate).jpg>] 
+[70 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/SENB_Force_displacement.pn
+g>]
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 71 undefined on i
+nput line 1434.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 71 undefined on i
+nput line 1444.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 71 undefined on i
+nput line 1444.
+
+<QuasiStaticSENBFracture.jpg, id=1482, 901.11656pt x 702.37407pt>
+File: QuasiStaticSENBFracture.jpg Graphic file (type jpg)
+
+<use QuasiStaticSENBFracture.jpg>
+Package pdftex.def Info: QuasiStaticSENBFracture.jpg used on input line 1457.
+(pdftex.def)             Requested size: 328.54044pt x 256.0748pt.
+ [71] [72 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/QuasiStaticSENBFract
+ure.jpg>]
+<QuasiStaticSENBFractureTable.png, id=1495, 1268.48906pt x 697.8572pt>
+File: QuasiStaticSENBFractureTable.png Graphic file (type png)
+
+<use QuasiStaticSENBFractureTable.png>
+Package pdftex.def Info: QuasiStaticSENBFractureTable.png used on input line 14
+63.
+(pdftex.def)             Requested size: 362.02638pt x 199.16928pt.
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ± in font cmr10!
+ [73
+
+ <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/QuasiStaticSENBFractureTable.
+png>]
+<HighRateSENBSetup.jpg, id=1506, 2457.18pt x 3276.24pt>
+File: HighRateSENBSetup.jpg Graphic file (type jpg)
+
+<use HighRateSENBSetup.jpg>
+Package pdftex.def Info: HighRateSENBSetup.jpg used on input line 1485.
+(pdftex.def)             Requested size: 170.7079pt x 227.62204pt.
+
+<load_as_signal.jpg, id=1507, 774.7344pt x 592.8549pt>
+File: load_as_signal.jpg Graphic file (type jpg)
+
+<use load_as_signal.jpg>
+Package pdftex.def Info: load_as_signal.jpg used on input line 1492.
+(pdftex.def)             Requested size: 408.99956pt x 312.9803pt.
+ [74 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/HighRateSENBSetup.jpg>] [
+75 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/load_as_signal.jpg>] <Fract
+ureFluations.png, id=1519, 877.02657pt x 712.91344pt>
+File: FractureFluations.png Graphic file (type png)
+
+<use FractureFluations.png>
+Package pdftex.def Info: FractureFluations.png used on input line 1503.
+(pdftex.def)             Requested size: 315.02007pt x 256.0748pt.
+
+
+Package natbib Warning: Citation `ISO13586' on page 76 undefined on input line 
+1504.
+
+
+Package natbib Warning: Citation `ISO13586' on page 76 undefined on input line 
+1504.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 76 undefined on input lin
+e 1513.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 76 undefined on input l
+ine 1513.
+
+[76 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FractureFluations.png>]
+<SiFracture_1.jpg, id=1530, 973.38657pt x 711.4078pt>
+File: SiFracture_1.jpg Graphic file (type jpg)
+ <use SiFracture_1.jpg>
+Package pdftex.def Info: SiFracture_1.jpg used on input line 1518.
+(pdftex.def)             Requested size: 350.38919pt x 256.0748pt.
+
+<SiFractureTable.png, id=1531, 1233.85968pt x 699.36281pt>
+File: SiFractureTable.png Graphic file (type png)
+
+<use SiFractureTable.png>
+Package pdftex.def Info: SiFractureTable.png used on input line 1526.
+(pdftex.def)             Requested size: 401.58328pt x 227.62204pt.
+ [77 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/SiFracture_1.jpg>] <CSRFr
+acture_1.png, id=1539, 1042.64531pt x 714.41907pt>
+File: CSRFracture_1.png Graphic file (type png)
+
+<use CSRFracture_1.png>
+Package pdftex.def Info: CSRFracture_1.png used on input line 1537.
+(pdftex.def)             Requested size: 373.72926pt x 256.0748pt.
+ [78 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/SiFractureTable.png>]
+<CSRFractureTable.png, id=1548, 1295.59032pt x 577.40718pt>
+File: CSRFractureTable.png Graphic file (type png)
+
+<use CSRFractureTable.png>
+Package pdftex.def Info: CSRFractureTable.png used on input line 1545.
+(pdftex.def)             Requested size: 319.2115pt x 142.26378pt.
+ [79 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/CSRFracture_1.png> <E:/Bo
+x Sync/EasyLatexTemplate/EasyLatexTemplate/CSRFractureTable.png>] <HybridFractu
+re.png, id=1560, 1039.63406pt x 717.43031pt>
+File: HybridFracture.png Graphic file (type png)
+
+<use HybridFracture.png>
+Package pdftex.def Info: HybridFracture.png used on input line 1557.
+(pdftex.def)             Requested size: 371.0794pt x 256.0748pt.
+ [80] [81 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/HybridFracture.png>]
+
+<HybridFractureTable.png, id=1571, 1391.95032pt x 628.59843pt>
+File: HybridFractureTable.png Graphic file (type png)
+
+<use HybridFractureTable.png>
+Package pdftex.def Info: HybridFractureTable.png used on input line 1565.
+(pdftex.def)             Requested size: 441.03665pt x 199.16928pt.
+
+Overfull \hbox (25.62616pt too wide) in paragraph at lines 1565--1566
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <HR_Oscillations.eps>
+(epstopdf)                    date: 2017-03-10 13:57:27
+(epstopdf)                    size: 5011343 bytes
+(epstopdf)             Output file: <HR_Oscillations-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-03-10 13:57:42
+(epstopdf)                    size: 124635 bytes
+(epstopdf)             Command: <epstopdf --outfile=HR_Oscillations-eps-convert
+ed-to.pdf HR_Oscillations.eps>
+(epstopdf)             \includegraphics on input line 1572.
+Package epstopdf Info: Output file is already uptodate.
+<HR_Oscillations-eps-converted-to.pdf, id=1572, 774.895pt x 593.21625pt>
+File: HR_Oscillations-eps-converted-to.pdf Graphic file (type pdf)
+
+<use HR_Oscillations-eps-converted-to.pdf>
+Package pdftex.def Info: HR_Oscillations-eps-converted-to.pdf used on input lin
+e 1572.
+(pdftex.def)             Requested size: 334.51082pt x 256.0748pt.
+ [82 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/HybridFractureTable.png> 
+<E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/HR_Oscillations-eps-converted-
+to.pdf>]
+<./newResultsGraphs/LowTemp1.jpg, id=1581, 2457.18pt x 3276.24pt>
+File: ./newResultsGraphs/LowTemp1.jpg Graphic file (type jpg)
+
+<use ./newResultsGraphs/LowTemp1.jpg>
+Package pdftex.def Info: ./newResultsGraphs/LowTemp1.jpg used on input line 159
+0.
+(pdftex.def)             Requested size: 192.0417pt x 256.0748pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[83] <./newResultsGraphs/LowTemp2.jpg, id=1586, 2457.18pt x 3276.24pt>
+File: ./newResultsGraphs/LowTemp2.jpg Graphic file (type jpg)
+
+<use ./newResultsGraphs/LowTemp2.jpg>
+Package pdftex.def Info: ./newResultsGraphs/LowTemp2.jpg used on input line 159
+7.
+(pdftex.def)             Requested size: 149.3741pt x 199.16928pt.
+ [84 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/LowTemp1
+.jpg> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/LowTemp
+2.jpg>]
+<LowTempTable1.png, id=1596, 1197.47375pt x 600.2425pt>
+File: LowTempTable1.png Graphic file (type png)
+
+<use LowTempTable1.png>
+Package pdftex.def Info: LowTempTable1.png used on input line 1614.
+(pdftex.def)             Requested size: 397.34192pt x 199.16928pt.
+ [85]
+<./newResultsGraphs/LowTempGraph1.jpg, id=1603, 953.81343pt x 723.45282pt>
+File: ./newResultsGraphs/LowTempGraph1.jpg Graphic file (type jpg)
+
+<use ./newResultsGraphs/LowTempGraph1.jpg>
+Package pdftex.def Info: ./newResultsGraphs/LowTempGraph1.jpg used on input lin
+e 1620.
+(pdftex.def)             Requested size: 300.10352pt x 227.62204pt.
+ [86 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/LowTempTable1.png> <E:/Bo
+x Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/LowTempGraph1.jpg>]
+
+<LowTempTable2.png, id=1612, 1137.24875pt x 456.70625pt>
+File: LowTempTable2.png Graphic file (type png)
+
+<use LowTempTable2.png>
+Package pdftex.def Info: LowTempTable2.png used on input line 1633.
+(pdftex.def)             Requested size: 425.09634pt x 170.71652pt.
+
+Overfull \hbox (9.68585pt too wide) in paragraph at lines 1633--1634
+ [][] 
+ []
+
+<./newResultsGraphs/LowTempGraph2.jpg, id=1613, 952.30782pt x 709.90219pt>
+File: ./newResultsGraphs/LowTempGraph2.jpg Graphic file (type jpg)
+
+<use ./newResultsGraphs/LowTempGraph2.jpg>
+Package pdftex.def Info: ./newResultsGraphs/LowTempGraph2.jpg used on input lin
+e 1639.
+(pdftex.def)             Requested size: 305.3405pt x 227.62204pt.
+ [87 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/LowTempTable2.png>]
+<./newResultsGraphs/LowTempTable3.png, id=1620, 1161.33875pt x 518.93875pt>
+File: ./newResultsGraphs/LowTempTable3.png Graphic file (type png)
+
+<use ./newResultsGraphs/LowTempTable3.png>
+Package pdftex.def Info: ./newResultsGraphs/LowTempTable3.png used on input lin
+e 1652.
+(pdftex.def)             Requested size: 382.0557pt x 170.71652pt.
+ [88 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/LowTempG
+raph2.jpg>]
+<./newResultsGraphs/LowTempGraph3.jpg, id=1627, 991.45406pt x 718.93594pt>
+File: ./newResultsGraphs/LowTempGraph3.jpg Graphic file (type jpg)
+
+<use ./newResultsGraphs/LowTempGraph3.jpg>
+Package pdftex.def Info: ./newResultsGraphs/LowTempGraph3.jpg used on input lin
+e 1658.
+(pdftex.def)             Requested size: 313.89815pt x 227.62204pt.
+
+
+LaTeX Warning: Reference `FE_intro' on page 89 undefined on input line 1665.
+
+[89 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/LowTempTa
+ble3.png> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/newResultsGraphs/Low
+TempGraph3.jpg>] [90]
+chapter 7.
+<SiFractureTDCB.png, id=1638, 1048.66782pt x 693.34032pt>
+File: SiFractureTDCB.png Graphic file (type png)
+
+<use SiFractureTDCB.png>
+Package pdftex.def Info: SiFractureTDCB.png used on input line 1684.
+(pdftex.def)             Requested size: 387.31296pt x 256.0748pt.
+ [91
+
+]
+<CSRSENB_1.png, id=1645, 839.38594pt x 639.13782pt>
+File: CSRSENB_1.png Graphic file (type png)
+ <use CSRSENB_1.png>
+Package pdftex.def Info: CSRSENB_1.png used on input line 1695.
+(pdftex.def)             Requested size: 373.67287pt x 284.52756pt.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 92 undefined on i
+nput line 1696.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 92 undefined on i
+nput line 1696.
+
+[92 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/SiFractureTDCB.png>]
+[93 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/CSRSENB_1.png>] [94]
+Package epstopdf Info: Source file: <0_1ms_both.eps>
+(epstopdf)                    date: 2017-03-04 11:44:37
+(epstopdf)                    size: 366062 bytes
+(epstopdf)             Output file: <0_1ms_both-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-03-04 11:44:54
+(epstopdf)                    size: 55472 bytes
+(epstopdf)             Command: <epstopdf --outfile=0_1ms_both-eps-converted-to
+.pdf 0_1ms_both.eps>
+(epstopdf)             \includegraphics on input line 1735.
+Package epstopdf Info: Output file is already uptodate.
+
+<0_1ms_both-eps-converted-to.pdf, id=1663, 774.895pt x 593.21625pt>
+File: 0_1ms_both-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 0_1ms_both-eps-converted-to.pdf>
+Package pdftex.def Info: 0_1ms_both-eps-converted-to.pdf used on input line 173
+5.
+(pdftex.def)             Requested size: 371.67343pt x 284.52756pt.
+Package epstopdf Info: Source file: <1ms_both.eps>
+(epstopdf)                    date: 2017-02-17 16:30:35
+(epstopdf)                    size: 59561 bytes
+(epstopdf)             Output file: <1ms_both-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-17 16:33:54
+(epstopdf)                    size: 25849 bytes
+(epstopdf)             Command: <epstopdf --outfile=1ms_both-eps-converted-to.p
+df 1ms_both.eps>
+(epstopdf)             \includegraphics on input line 1742.
+Package epstopdf Info: Output file is already uptodate.
+
+<1ms_both-eps-converted-to.pdf, id=1664, 774.895pt x 593.21625pt>
+File: 1ms_both-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 1ms_both-eps-converted-to.pdf>
+Package pdftex.def Info: 1ms_both-eps-converted-to.pdf used on input line 1742.
+
+(pdftex.def)             Requested size: 371.67343pt x 284.52756pt.
+ [95 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/0_1ms_both-eps-converted-
+to.pdf>]
+
+LaTeX Warning: Reference `Further_work' on page 96 undefined on input line 1753
+.
+
+[96 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/1ms_both-eps-converted-to.
+pdf>]
+Package epstopdf Info: Source file: <LT_HT_SENB.eps>
+(epstopdf)                    date: 2017-03-05 15:07:44
+(epstopdf)                    size: 460991 bytes
+(epstopdf)             Output file: <LT_HT_SENB-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-03-05 15:07:56
+(epstopdf)                    size: 67392 bytes
+(epstopdf)             Command: <epstopdf --outfile=LT_HT_SENB-eps-converted-to
+.pdf LT_HT_SENB.eps>
+(epstopdf)             \includegraphics on input line 1769.
+Package epstopdf Info: Output file is already uptodate.
+ <LT_HT_SENB-eps-converted-to.pdf, id=1729, 774.895pt x 593.21625pt>
+File: LT_HT_SENB-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LT_HT_SENB-eps-converted-to.pdf>
+Package pdftex.def Info: LT_HT_SENB-eps-converted-to.pdf used on input line 176
+9.
+(pdftex.def)             Requested size: 371.67343pt x 284.52756pt.
+ [97 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/LT_HT_SENB-eps-converted-
+to.pdf>]
+Package epstopdf Info: Source file: <2ms_LT_HT_SENB.eps>
+(epstopdf)                    date: 2017-03-04 17:29:16
+(epstopdf)                    size: 420078 bytes
+(epstopdf)             Output file: <2ms_LT_HT_SENB-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-03-05 12:09:55
+(epstopdf)                    size: 59644 bytes
+(epstopdf)             Command: <epstopdf --outfile=2ms_LT_HT_SENB-eps-converte
+d-to.pdf 2ms_LT_HT_SENB.eps>
+(epstopdf)             \includegraphics on input line 1778.
+Package epstopdf Info: Output file is already uptodate.
+
+<2ms_LT_HT_SENB-eps-converted-to.pdf, id=1738, 774.895pt x 593.21625pt>
+File: 2ms_LT_HT_SENB-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 2ms_LT_HT_SENB-eps-converted-to.pdf>
+Package pdftex.def Info: 2ms_LT_HT_SENB-eps-converted-to.pdf used on input line
+ 1778.
+(pdftex.def)             Requested size: 371.67343pt x 284.52756pt.
+ [98 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/2ms_LT_HT_SENB-eps-conver
+ted-to.pdf>]
+
+LaTeX Warning: Reference `FE_intro' on page 99 undefined on input line 1791.
+
+[99]
+chapter 8.
+
+Package natbib Warning: Citation `Hsieh2010a' on page 100 undefined on input li
+ne 1799.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 100 undefined on 
+input line 1799.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 100 undefined on input li
+ne 1802.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 100 undefined on input lin
+e 1802.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 100 undefined on 
+input line 1802.
+
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+<ModulusTable.png, id=1752, 679.78969pt x 572.89032pt>
+File: ModulusTable.png Graphic file (type png)
+ <use ModulusTable.png>
+Package pdftex.def Info: ModulusTable.png used on input line 1819.
+(pdftex.def)             Requested size: 236.33255pt x 199.16928pt.
+
+[100
+
+] <modulusPredictionSi.png, id=1765, 989.94844pt x 714.41907pt>
+File: modulusPredictionSi.png Graphic file (type png)
+
+<use modulusPredictionSi.png>
+Package pdftex.def Info: modulusPredictionSi.png used on input line 1830.
+(pdftex.def)             Requested size: 315.40028pt x 227.62204pt.
+ [101 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/ModulusTable.png>]
+<modulusPredictionSiTable.png, id=1776, 747.54282pt x 694.84593pt>
+File: modulusPredictionSiTable.png Graphic file (type png)
+
+<use modulusPredictionSiTable.png>
+Package pdftex.def Info: modulusPredictionSiTable.png used on input line 1838.
+(pdftex.def)             Requested size: 214.27242pt x 199.16928pt.
+ [102 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/modulusPredictionSi.png>
+ <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/modulusPredictionSiTable.png>
+]
+<modulusPredictionCSR.png, id=1789, 1006.51031pt x 714.41907pt>
+File: modulusPredictionCSR.png Graphic file (type png)
+
+<use modulusPredictionCSR.png>
+Package pdftex.def Info: modulusPredictionCSR.png used on input line 1847.
+(pdftex.def)             Requested size: 320.67694pt x 227.62204pt.
+
+<predictionTableCSR.png, id=1790, 785.18344pt x 706.89093pt>
+File: predictionTableCSR.png Graphic file (type png)
+
+<use predictionTableCSR.png>
+Package pdftex.def Info: predictionTableCSR.png used on input line 1855.
+(pdftex.def)             Requested size: 189.62201pt x 170.71652pt.
+ [103 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/modulusPredictionCSR.png
+> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/predictionTableCSR.png>]
+Package epstopdf Info: Source file: <HybridModulusPredictions.eps>
+(epstopdf)                    date: 2016-05-20 16:11:51
+(epstopdf)                    size: 50971 bytes
+(epstopdf)             Output file: <HybridModulusPredictions-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-05-20 16:30:14
+(epstopdf)                    size: 22478 bytes
+(epstopdf)             Command: <epstopdf --outfile=HybridModulusPredictions-ep
+s-converted-to.pdf HybridModulusPredictions.eps>
+(epstopdf)             \includegraphics on input line 1865.
+Package epstopdf Info: Output file is already uptodate.
+
+<HybridModulusPredictions-eps-converted-to.pdf, id=1799, 825.0825pt x 577.15625
+pt>
+File: HybridModulusPredictions-eps-converted-to.pdf Graphic file (type pdf)
+ <use HybridModulusPredictions-eps-converted-to.pdf>
+Package pdftex.def Info: HybridModulusPredictions-eps-converted-to.pdf used on 
+input line 1865.
+(pdftex.def)             Requested size: 325.40672pt x 227.62204pt.
+
+<predictionTableHybrid.png, id=1800, 855.94781pt x 699.36281pt>
+File: predictionTableHybrid.png Graphic file (type png)
+
+<use predictionTableHybrid.png>
+Package pdftex.def Info: predictionTableHybrid.png used on input line 1873.
+(pdftex.def)             Requested size: 208.93193pt x 170.71652pt.
+
+
+LaTeX Warning: Reference `FE_tensile_model' on page 104 undefined on input line
+ 1878.
+
+[104 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/HybridModulusPredictions-
+eps-converted-to.pdf> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/predicti
+onTableHybrid.png>]
+
+Package natbib Warning: Citation `Huang1992c' on page 105 undefined on input li
+ne 1883.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 105 undefined on input li
+ne 1883.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 105 undefined on input lin
+e 1883.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 105 undefined on 
+input line 1883.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 105 undefined on input li
+ne 1906.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 105 undefined on input lin
+e 1906.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 105 undefined on 
+input line 1906.
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 105 undefined on input li
+ne 1906.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 105 undefined on input lin
+e 1906.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 105 undefined on 
+input line 1906.
+
+[105]
+
+Package natbib Warning: Citation `Hsieh2010a' on page 106 undefined on input li
+ne 1912.
+
+
+Package natbib Warning: Citation `Hsieh2010' on page 106 undefined on input lin
+e 1912.
+
+
+Package natbib Warning: Citation `Giannakopoulos2011' on page 106 undefined on 
+input line 1912.
+
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ß in font cmr10!
+
+Overfull \hbox (18.22697pt too wide) detected at line 1929
+[][]\OML/cmm/m/it/10.95 F[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 r[]\OT1/cmr/
+m/n/10.95 ) = \OML/cmm/m/it/10.95 r[] []
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ö in font cmr10!
+[106]
+
+Package natbib Warning: Citation `Mohammed2007' on page 107 undefined on input 
+line 1972.
+
+
+Package natbib Warning: Citation `Masania2010' on page 107 undefined on input l
+ine 1972.
+
+
+Package natbib Warning: Citation `Masania2010' on page 107 undefined on input l
+ine 1972.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 107 undefined on input 
+line 1973.
+
+
+Package natbib Warning: Citation `Chen2013' on page 107 undefined on input line
+ 1979.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1979--1980
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1981--1982
+
+ []
+
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+[107]
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1989
+
+ []
+
+
+Package natbib Warning: Citation `Chen2013' on page 108 undefined on input line
+ 1994.
+
+
+Package natbib Warning: Citation `Mohammed2007' on page 108 undefined on input 
+line 1995.
+
+<parameters.png, id=1892, 1315.16344pt x 344.03531pt>
+File: parameters.png Graphic file (type png)
+ <use parameters.png>
+Package pdftex.def Info: parameters.png used on input line 2006.
+(pdftex.def)             Requested size: 435.06886pt x 113.81102pt.
+
+Overfull \hbox (19.65837pt too wide) in paragraph at lines 2006--2007
+ [][] 
+ []
+
+
+Package natbib Warning: Citation `Hsieh2010a' on page 108 undefined on input li
+ne 2013.
+
+
+Package natbib Warning: Citation `Masania2010' on page 108 undefined on input l
+ine 2013.
+
+<FracturePredictionTable.png, id=1898, 914.66719pt x 690.32906pt>
+File: FracturePredictionTable.png Graphic file (type png)
+
+<use FracturePredictionTable.png>
+Package pdftex.def Info: FracturePredictionTable.png used on input line 2018.
+(pdftex.def)             Requested size: 263.8929pt x 199.16928pt.
+ [108 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/parameters.png>]
+<FracturePredictionTable2.png, id=1914, 851.43094pt x 708.39656pt>
+File: FracturePredictionTable2.png Graphic file (type png)
+
+<use FracturePredictionTable2.png>
+Package pdftex.def Info: FracturePredictionTable2.png used on input line 2025.
+(pdftex.def)             Requested size: 273.58076pt x 227.62204pt.
+
+<FracturePredictionTableShear.png, id=1915, 1000.48781pt x 694.84593pt>
+File: FracturePredictionTableShear.png Graphic file (type png)
+
+<use FracturePredictionTableShear.png>
+Package pdftex.def Info: FracturePredictionTableShear.png used on input line 20
+32.
+(pdftex.def)             Requested size: 286.77547pt x 199.16928pt.
+ [109 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FracturePredictionTable.
+png> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FracturePredictionTable2.
+png>]
+<predictionTableSi.png, id=1922, 899.61093pt x 652.68843pt>
+File: predictionTableSi.png Graphic file (type png)
+
+<use predictionTableSi.png>
+Package pdftex.def Info: predictionTableSi.png used on input line 2039.
+(pdftex.def)             Requested size: 274.51134pt x 199.16928pt.
+Package epstopdf Info: Source file: <FracturePrediction-Si.eps>
+(epstopdf)                    date: 2017-02-10 12:59:51
+(epstopdf)                    size: 55033 bytes
+(epstopdf)             Output file: <FracturePrediction-Si-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-02-10 13:01:27
+(epstopdf)                    size: 23588 bytes
+(epstopdf)             Command: <epstopdf --outfile=FracturePrediction-Si-eps-c
+onverted-to.pdf FracturePrediction-Si.eps>
+(epstopdf)             \includegraphics on input line 2045.
+Package epstopdf Info: Output file is already uptodate.
+
+<FracturePrediction-Si-eps-converted-to.pdf, id=1923, 825.0825pt x 577.15625pt>
+File: FracturePrediction-Si-eps-converted-to.pdf Graphic file (type pdf)
+<use FracturePrediction-Si-eps-converted-to.pdf>
+Package pdftex.def Info: FracturePrediction-Si-eps-converted-to.pdf used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 366.08414pt x 256.0748pt.
+ [110 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FracturePredictionTableS
+hear.png> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/predictionTableSi.pn
+g>]
+<FracturePredictionTableCSR.png, id=1932, 1146.53343pt x 636.12656pt>
+File: FracturePredictionTableCSR.png Graphic file (type png)
+
+<use FracturePredictionTableCSR.png>
+Package pdftex.def Info: FracturePredictionTableCSR.png used on input line 2056
+.
+(pdftex.def)             Requested size: 256.40187pt x 142.26378pt.
+ [111 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FracturePrediction-Si-ep
+s-converted-to.pdf>]
+<FracturePredictionCSR.png, id=1989, 1000.48781pt x 720.44156pt>
+File: FracturePredictionCSR.png Graphic file (type png)
+
+<use FracturePredictionCSR.png>
+Package pdftex.def Info: FracturePredictionCSR.png used on input line 2062.
+(pdftex.def)             Requested size: 355.61075pt x 256.0748pt.
+ [112 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FracturePredictionTableC
+SR.png> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FracturePredictionCSR.
+png>]
+<FracturePredictionTable3.png, id=1999, 1319.68031pt x 637.63219pt>
+File: FracturePredictionTable3.png Graphic file (type png)
+
+<use FracturePredictionTable3.png>
+Package pdftex.def Info: FracturePredictionTable3.png used on input line 2073.
+(pdftex.def)             Requested size: 294.43845pt x 142.26378pt.
+
+<FracturePredictionHybrid.png, id=2000, 1030.60031pt x 721.94719pt>
+File: FracturePredictionHybrid.png Graphic file (type png)
+
+<use FracturePredictionHybrid.png>
+Package pdftex.def Info: FracturePredictionHybrid.png used on input line 2079.
+(pdftex.def)             Requested size: 406.1627pt x 284.52756pt.
+ [113 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FracturePredictionTable3
+.png> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/FracturePredictionHybrid
+.png>]
+
+LaTeX Warning: Reference `FE_intro' on page 114 undefined on input line 2088.
+
+[114]
+chapter 9.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+[115
+
+]
+
+LaTeX Warning: Reference `unmodified_SEM_TDCB_2' on page 116 undefined on input
+ line 2114.
+
+<unmodified_SEM.jpg, id=2022, 52.79097pt x 39.6638pt>
+File: unmodified_SEM.jpg Graphic file (type jpg)
+ <use unmodified_SEM.jpg>
+Package pdftex.def Info: unmodified_SEM.jpg used on input line 2120.
+(pdftex.def)             Requested size: 189.38275pt x 142.26378pt.
+
+<unmodified_SEM_TDCB.jpg, id=2023, 239.39438pt x 180.675pt>
+File: unmodified_SEM_TDCB.jpg Graphic file (type jpg)
+
+<use unmodified_SEM_TDCB.jpg>
+Package pdftex.def Info: unmodified_SEM_TDCB.jpg used on input line 2127.
+(pdftex.def)             Requested size: 188.50214pt x 142.26378pt.
+
+<unmodified_SEM_TDCB_2.jpg, id=2024, 177.66376pt x 134.00063pt>
+File: unmodified_SEM_TDCB_2.jpg Graphic file (type jpg)
+
+<use unmodified_SEM_TDCB_2.jpg>
+Package pdftex.def Info: unmodified_SEM_TDCB_2.jpg used on input line 2134.
+(pdftex.def)             Requested size: 188.61816pt x 142.26378pt.
+ [116 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/unmodified_SEM.jpg> <E:/
+Box Sync/EasyLatexTemplate/EasyLatexTemplate/unmodified_SEM_TDCB.jpg>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 2146.
+
+
+LaTeX Warning: Reference `TDCBCSR101' on page 117 undefined on input line 2149.
+
+
+
+LaTeX Warning: Reference `PES_void' on page 117 undefined on input line 2149.
+
+
+LaTeX Warning: Reference `TDCBCSR101' on page 117 undefined on input line 2151.
+
+
+<TDCBCSR101.jpg, id=2032, 361.35pt x 271.0125pt>
+File: TDCBCSR101.jpg Graphic file (type jpg)
+ <use TDCBCSR101.jpg>
+Package pdftex.def Info: TDCBCSR101.jpg used on input line 2155.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+LaTeX Warning: Reference `PES_void' on page 117 undefined on input line 2160.
+
+<PES_void.jpg, id=2033, 209.28188pt x 156.585pt>
+File: PES_void.jpg Graphic file (type jpg)
+ <use PES_void.jpg>
+Package pdftex.def Info: PES_void.jpg used on input line 2164.
+(pdftex.def)             Requested size: 190.1466pt x 142.26378pt.
+ [117 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/unmodified_SEM_TDCB_2.jp
+g> <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/TDCBCSR101.jpg>]
+
+Package natbib Warning: Citation `Hsieh2010a' on page 118 undefined on input li
+ne 2205.
+
+
+LaTeX Warning: Reference `Si_5' on page 118 undefined on input line 2213.
+
+<Si_5.png, id=2041, 782.17218pt x 588.69937pt>
+File: Si_5.png Graphic file (type png)
+ <use Si_5.png>
+Package pdftex.def Info: Si_5.png used on input line 2218.
+(pdftex.def)             Requested size: 189.01413pt x 142.26378pt.
+ [118 <E:/Box Sync/EasyLatexTemplate/EasyLatexTemplate/PES_void.jpg>] [119 <E:/
+Box Sync/EasyLatexTemplate/EasyLatexTemplate/Si_5.png>]
+<Si_5_grid_1.jpg, id=2057, 782.17218pt x 588.69937pt>
+File: Si_5_grid_1.jpg Graphic file (type jpg)
+ <use Si_5_grid_1.jpg>
+Package pdftex.def Info: Si_5_grid_1.jpg used on input line 2226.
+(pdftex.def)             Requested size: 189.01413pt x 142.26378pt.
+
+<Si_10.jpg, id=2058, 188.95593pt x 141.52875pt>
+File: Si_10.jpg Graphic file (type jpg)
+ <use Si_10.jpg>
+Package pdftex.def Info: Si_10.jpg used on input line 2235.
+(pdftex.def)             Requested size: 189.95305pt x 142.26378pt.
+
+<Si_15_-40_704.jpg, id=2059, 1541.76pt x 1156.32pt>
+File: Si_15_-40_704.jpg Graphic file (type jpg)
+ <use Si_15_-40_704.jpg>
+Package pdftex.def Info: Si_15_-40_704.jpg used on input line 2242.
+(pdftex.def)             Requested size: 189.68475pt x 142.26378pt.
+
+Runaway argument?
+{Silica modified epoxy 15 wt\% \end {figure} \FloatBarrier 
+! Paragraph ended before \caption@prepareanchor was complete.
+<to be read again> 
+                   \par 
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Si_max_01_307.jpg, id=2060, 1541.76pt x 1156.32pt>
+File: Si_max_01_307.jpg Graphic file (type jpg)
+ <use Si_max_01_307.jpg>
+Package pdftex.def Info: Si_max_01_307.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68475pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Si_15_01.png, id=2061, 690.32906pt x 520.19344pt>
+File: Si_15_01.png Graphic file (type png)
+ <use Si_15_01.png>
+Package pdftex.def Info: Si_15_01.png used on input line 2464.
+(pdftex.def)             Requested size: 207.66913pt x 156.49014pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Si_15_203.jpg, id=2062, 1541.76pt x 1156.32pt>
+File: Si_15_203.jpg Graphic file (type jpg)
+ <use Si_15_203.jpg>
+Package pdftex.def Info: Si_15_203.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68475pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Si_max_01_301.jpg, id=2063, 1541.76pt x 1156.32pt>
+File: Si_max_01_301.jpg Graphic file (type jpg)
+ <use Si_max_01_301.jpg>
+Package pdftex.def Info: Si_max_01_301.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68475pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Si_max_-40_801.jpg, id=2064, 1541.76pt x 1156.32pt>
+File: Si_max_-40_801.jpg Graphic file (type jpg)
+ <use Si_max_-40_801.jpg>
+Package pdftex.def Info: Si_max_-40_801.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68475pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Si_15_-40_701.jpg, id=2065, 1541.76pt x 1156.32pt>
+File: Si_15_-40_701.jpg Graphic file (type jpg)
+ <use Si_15_-40_701.jpg>
+Package pdftex.def Info: Si_15_-40_701.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68475pt x 142.26378pt.
+
+
+LaTeX Warning: Reference `CSRparticles1' on page 120 undefined on input line 24
+64.
+
+
+LaTeX Warning: Reference `DamagedCSR' on page 120 undefined on input line 2464.
+
+
+
+LaTeX Warning: Reference `DamagedCSR' on page 120 undefined on input line 2464.
+
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<CSRparticles1.jpg, id=2066, 361.35pt x 271.0125pt>
+File: CSRparticles1.jpg Graphic file (type jpg)
+ <use CSRparticles1.jpg>
+Package pdftex.def Info: CSRparticles1.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<DamagedCSR.jpg, id=2067, 361.35pt x 271.0125pt>
+File: DamagedCSR.jpg Graphic file (type jpg)
+ <use DamagedCSR.jpg>
+Package pdftex.def Info: DamagedCSR.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+LaTeX Warning: Reference `CSR0_5' on page 120 undefined on input line 2464.
+
+
+LaTeX Warning: Reference `CSR3' on page 120 undefined on input line 2464.
+
+
+LaTeX Warning: Reference `CSR5' on page 120 undefined on input line 2464.
+
+
+LaTeX Warning: Reference `CSR10' on page 120 undefined on input line 2464.
+
+
+LaTeX Warning: Reference `Particles_count' on page 120 undefined on input line 
+2464.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<CSR0_5.jpg, id=2068, 361.35pt x 271.0125pt>
+File: CSR0_5.jpg Graphic file (type jpg)
+ <use CSR0_5.jpg>
+Package pdftex.def Info: CSR0_5.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<CSR3.jpg, id=2069, 361.35pt x 271.0125pt>
+File: CSR3.jpg Graphic file (type jpg)
+ <use CSR3.jpg>
+Package pdftex.def Info: CSR3.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<CSR5.jpg, id=2070, 361.35pt x 271.0125pt>
+File: CSR5.jpg Graphic file (type jpg)
+ <use CSR5.jpg>
+Package pdftex.def Info: CSR5.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<CSR10.jpg, id=2071, 361.35pt x 271.0125pt>
+File: CSR10.jpg Graphic file (type jpg)
+ <use CSR10.jpg>
+Package pdftex.def Info: CSR10.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+LaTeX Warning: Reference `DeformedCSR, DeformedCSR2, CSRVoids, CSRVoids2' on pa
+ge 120 undefined on input line 2464.
+
+
+LaTeX Warning: Reference `CSRVoids' on page 120 undefined on input line 2464.
+
+
+Package natbib Warning: Citation `Bray2013' on page 120 undefined on input line
+ 2464.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<DeformedCSR.jpg, id=2072, 361.35pt x 271.0125pt>
+File: DeformedCSR.jpg Graphic file (type jpg)
+ <use DeformedCSR.jpg>
+Package pdftex.def Info: DeformedCSR.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<DeformedCSR2.jpg, id=2073, 361.35pt x 271.0125pt>
+File: DeformedCSR2.jpg Graphic file (type jpg)
+ <use DeformedCSR2.jpg>
+Package pdftex.def Info: DeformedCSR2.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<CSRVoids.jpg, id=2074, 361.35pt x 271.0125pt>
+File: CSRVoids.jpg Graphic file (type jpg)
+ <use CSRVoids.jpg>
+Package pdftex.def Info: CSRVoids.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<CSR_small_particles.jpg, id=2075, 209.28188pt x 156.585pt>
+File: CSR_small_particles.jpg Graphic file (type jpg)
+
+<use CSR_small_particles.jpg>
+Package pdftex.def Info: CSR_small_particles.jpg used on input line 2464.
+(pdftex.def)             Requested size: 190.1466pt x 142.26378pt.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<CSRVoids2.jpg, id=2076, 1927.2pt x 1445.4pt>
+File: CSRVoids2.jpg Graphic file (type jpg)
+ <use CSRVoids2.jpg>
+Package pdftex.def Info: CSRVoids2.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.67299pt x 142.26378pt.
+
+
+LaTeX Warning: Reference `CSR0_1ms' on page 120 undefined on input line 2464.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2464 \ref{CSRRT},CSR40,CSR80}
+                                show SEM images of CSR modified epoxy specim...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<CSR0_1ms.jpg, id=2077, 361.35pt x 271.0125pt>
+File: CSR0_1ms.jpg Graphic file (type jpg)
+ <use CSR0_1ms.jpg>
+Package pdftex.def Info: CSR0_1ms.jpg used on input line 2464.
+(pdftex.def)             Requested size: 189.68953pt x 142.26378pt.
+
+
+LaTeX Warning: Reference `CSRRT' on page 120 undefined on input line 2464.
+
+Runaway argument?
+{\ignorespaces Silica modified epoxy 15 wt\% \end {figure} \FloatBarrier 
+! P

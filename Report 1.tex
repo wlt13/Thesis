@@ -1,0 +1,762 @@
+%\documentclass[11pt]{article}
+\documentclass[numbers=noendperiod,chapterprefix=on]{icldt} % chapterprefix=on this adds the word chapter to the chapter
+%============================================================
+% Don't touch this
+% Preamble 
+%\usepackage[a4paper, inner=1.5cm, outer=2.5cm, top=1.5cm,bottom=2.5cm, bindingoffset=1cm]{geometry} 
+\department{Mechanical Engineering}
+\supervisor{Ambrose Taylor}
+
+%----------------------------------------------------------------------------
+% Inserting Important Packages
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{bbm} 
+\usepackage{rotating}
+\usepackage{mathtools}
+\usepackage{verbatim}
+\usepackage{placeins}
+\usepackage{textgreek}
+\usepackage{fixmath}
+\usepackage{varioref}
+\usepackage[pdftex,bookmarks=true,hidelinks]{hyperref}
+\usepackage{cleveref}
+\usepackage{lineno}
+\usepackage{amssymb}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{lscape}
+\usepackage{pdflscape}
+\usepackage{xr}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{pdfpages}
+\usepackage{mathrsfs}
+\usepackage{notoccite}
+\usepackage{enumitem}
+\usepackage[sort&compress,numbers]{natbib} % changes citation from [1,2,3] to [1-3]
+\usepackage{gensymb}
+%\usepackage{subfigure}
+%\usepackage[sort&compress]{natbib}
+%\usepackage[intoc]{nomencl}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+
+%============================================================
+
+\begin{document}
+\Crefname{equation}{Eq.}{Eqs.} % this is to change the equation number style
+%===============================
+% Title Page
+\title{Nanoparticle-modified epoxies – Effect of test rate}
+\author{Wing Lam (Jasmine) Tsang}
+\date{\today}
+%\begin{center}
+%\textsc{\LARGE Final Report}\\[1.5cm]
+%% Title
+%\HRule \\[0.4cm]
+%{ \large \bfseries  Title Here}\\[0.4cm]
+%\HRule \\[1cm] 
+%{\large \today} \\[1.5cm] 
+%% Author and supervisor
+%\begin{minipage}{0.4\textwidth}
+%\begin{center} \large
+%\emph{Author:}\\
+%Wing Lam (Jasmine) \textsc{Tsang}
+%\end{center}
+%\end{minipage}
+%\end{center}
+
+\pagenumbering{gobble} 
+\maketitle
+\newpage
+
+%===============================
+
+% Abstract
+\pagenumbering{roman}
+\chapter*{Abstract}
+\addcontentsline{toc}{section}{Abstract}
+
+This study compares the effect on the fracture energy of an epoxy polymer from the addition of different weight % of nanoparticles, at both quasi-static and high test rates. 
+Silica and core-shell rubber (CSR) particles, and the hybrid of both (from 0.5 weight % to the maximum concentration of 25.4 weight %) are used. Initial work concentrated on quasi-static test rates, and now the fracture energy at high test rates has been measured. Tapered double cantilever beam (TDCB) and single-edge notch bending (SENB) specimens were used for measurement of the fracture energy, $G_c$. As there was interfacial failure found with some TDCB specimens, the fracture energy found from the SENB specimens would provide additional information to clarify the results found from the TDCB tests. Higher fracture energy values were found from the SENB specimens. The lower values from the TDCBs could be due to the interfacial failure. An increase in fracture energy was found in the CSR and hybrid specimens, but clustering of particles caused a reduction in the mechanical properties when the concentration of particles was high. There were higher fracture energy values when the test rate was higher. Therefore, higher fracture energies are expected when the test rate increases further.
+The fracture energies measured with TDCB specimens will also be compared with simulation results using the finite element analysis software ‘Abaqus’. The toughening mechanisms involved will be confirmed by fracture surface images obtained from field emission gun scanning electron microscopy (FEG-SEM). 
+
+\newpage
+%======================
+% Table of contents
+\tableofcontents
+\newpage
+\listoftables
+\newpage
+\listoffigures
+
+\newpage
+\pagenumbering{arabic}
+%=============================
+
+% Text Starts here
+\chapter{}
+\section{Introduction}
+Epoxy is a thermoset polymer, which is highly crosslinked and brittle; hence there is a need to toughen epoxy for use in engineering applications. This project uses silica nanoparticles, core-shell rubber (CSR) particles and hybrids of both particle types, to investigate the toughening effect of epoxy with different weight \% of nanoparticles at both quasi-static and high test rates. In addition, the work will investigate the synergistic toughening effects of combining silica nanoparticles with micron-sized rubber particles. 
+There are two aspects in the effect of test rate study: the effect of different weight \% of nanoparticles added, and the effect of different test rate (i.e. quasi-static and high rate). Silica particles will be added in at concentrations of 0.5, 1, 2, 3, 5, 10, 15 and 20 weight \%, and at the maximum possible concentration (25.4 weight \%). CSR particles will be added in at the same weight percentages, but up to a maximum of 10 weight \%. In previous work[1-3], the effects of different weight \% of silica have been investigated with relatively large weight percentages of nanoparticles (of 10 weight \% and above, e.g. from Hsieh et al. [2] and Mohammed et al. [4]) but not with small weight percentages. It has been suggested that small percentages of silica nanoparticles are more effective at toughening epoxy than large weight percentages, but this has not yet been investigated. Hence this study will provide more information about the effect of small percentages of silica. This effect can be shown and explained by comparing the fracture energy, $G_c$, against the weight \% of silica nanoparticles. The toughening mechanisms have been identified as shear yielding in the epoxy plus debonding of the particles followed by void growth of the epoxy. The results would be expected to show a positive increase in toughness as the percentage of nanoparticles increases, and a plateau at the maximum point. However, only about 15\% of the silica nanoparticles have been observed to debond[2]. The small weight \% of $SiO_2$ particles added in could have a greater effect on the overall curve, as a higher \% of the silica particles may be able to undergo debonding and void growth than at high \% of silica particles, and hence a steeper increase in $G_c$ vs wt\% than observed in the literature, such as from Hsieh et al. [2], at small weight\% may be expected.
+For the effect of test rate, this study will start with a quasi-static rate, and then investigate the high rate effect. The higher test rate is expected to produce an increase in brittleness, and hence a reduction in the fracture energy. The hard silica particles are expected to show less of a reduction of toughness with increasing test rate when compared to the soft rubber particles. A fracture mechanics approach will be used to characterise the toughness of the epoxy. 
+
+\chapter{Literature review}
+\section{Introduction}
+There is a long history in the use of adhesives in industry. There are many advantages in using adhesives in industry; one big advantage is the reduction of cost. There is also an improvement in product appearance, and an improvement in stress distribution and corrosion resistance, these factors enhance the design possibilities [5]. However, there are also drawbacks, for example adhesive bonding requires surface pretreatment of the substrates, it cannot join thick metallic components effectively, non-destructive testing methods are not applicable and it lowers the upper-service temperature [5]. 
+In order to minimize these drawbacks, investigations into adhesive properties have been ongoing. To help the understanding and assessment of adhesive joints, finite element analysis (FEA) and fracture mechanics approaches are often used. These approaches can be used to predict service life and improve joint properties under different environments [5]. 
+Due to the brittleness of adhesives, they are often modified by particles to improve their fracture toughness without changing their glass transition temperature, Tg [6]. However, some of the toughening mechanisms – particle bridging, crack pinning and deflection are not applicable for nanoscale particles, as the particles are smaller than the crack opening displacement [6, 7]. Therefore the size of the particles used is one of the most important parameters in toughening epoxy. There is a higher critical stress for debonding for smaller particles, hence a reduced the amount of debonding would be expected. These toughening mechanisms can be investigated by scanning electron microscopy (SEM). Transmission electron microscopy (TEM) and transmission optical microscopy (TOM) [6] can be used to assess the dispersion of the particles. Agglomeration of the particles can reduce the toughness of the polymer, and will increase the viscosity of the uncured resin which may lead to processing difficulties. There can be a large increase in toughness of the modified epoxy due to the toughening mechanisms described below, and the increased toughness is also maintained when the epoxy is used in fibre composites [3]. The toughness of the modified epoxy depends on the amount of crosslinking of the epoxy, the type of particles used, the particles’ size and their concentration [3]. 
+
+\subsection{Rubber-toughened epoxy}
+There has been a long history in the use of rubber particles in the toughening of epoxy. It is established that the larger the rubber particles, the higher the stress concentrations [8] and hence a higher amount of localised deformation. There are two principal types of rubber-toughened epoxy: carboxyl-terminated butadiene-acrylonitrile (CTBN) rubber and core-shell rubber (CSR) particles are commonly used. 
+Carboxyl-terminated butadiene-acrylonitrile (CTBN) rubbers are rubbers containing butadiene and acrylonitrile as copolymers [9, 10]. They are added as a liquid rubber which dissolves in the epoxy resin and phase-separates to form particles during curing of the epoxy. Examples of different extents are amino-terminated-acrylonitrile (ATBN) and vinyl-terminated butadiene-acrylonitrile (VTBN). The use of block copolymers can also provide a different microstructure of phases (for example spherical micelles, vesicles and worm-like micelles) and hence can enhance toughening [11, 12]. 
+There are two requirements for the CTBN rubber to be added to the epoxy: 1. the rubber must be able to dissolve in the epoxy first and then able to precipitate out during curing, and 2. the rubber must be able to react with the epoxide group to ensure good interfacial bonding between the particle and the epoxy. The particle size or diameter, d, of the CTBN rubber particles depends on the curing cycle, volume fraction, Vp, and concentration of the butadiene and acrylonitrile in the rubber. Larger rubber particles would be formed when a slow curing process is used. When the amount of rubber added increases, their diameter and volume fraction would increase too [13-15].
+At high concentrations phase inversion can occur, where the rubber can become the matrix with epoxy particles inside [16]. The rubber would stay in a dispersed phase when its concentration is less than 20 wt% [17]. As a consequence, the addition of 10-20% of rubber particles provides the optimum toughening effect [17]. Other than that, phase separation can be reduced with the addition of silica nanoparticles [17]. Lee et al. [16] found that silica nanoparticles enhanced the toughness of the rubber-modified epoxy though the silica nanoparticles agglomerated [16]. 
+Core-shell rubber (CSR) particles are pre-formed rubber particles with a soft core and a hard outer shell. The glassy polymeric shell can prevent the rubber particle aggregating and deforming during processing [11]. The CSR structure can be designed according to different factors (such as the chemical components of the matrix). Multilayer structures are very commonly used [10]. The particles are preformed, so the diameter is not dependent on the curing process, unlike CTBN. 
+The major toughening mechanisms for rubber particles are localized plastic shear yielding and particle cavitation [11], followed by plastic void growth, these are discussed in Section 2.5. The toughening mechanism in rubber toughening is due to the change in yield shear stress at the crack tip, which reduces the stress concentration of the region and enhances optimal shear banding. In order for this mechanism to occur, the stress fields near particles need to be overlapped and the spaces between them are critical [18]. 
+
+\subsection{Silica-toughened epoxy}
+It has been established that the addition of silica ($SiO_2$) nanoparticles can increase the toughness of epoxy [1, 7]. A sol-gel process is used to produce these silica nanoparticles ($SiO_2$), as liquid ‘sol’ is transformed into a solid ‘gel’ phase. The increase in the % of silica particles has shown a positive increase in toughness of the epoxy. By investigating different particle diameters (240 nm to 1.56 μm) and volume fractions (0 to 0.35), Adachi et al. [19] found that the increase in volume fraction and the decrease in particle size of silica can greatly increase the fracture toughness of silica-modified epoxy [19]. There were also studies about the effect of bimodal silica particle sizes, where significant improvements in toughness were also found with the use of a mixture of particle sizes [20]. However the different sizes of silica particles used have not shown a significant effect in their modulus [6], which depends principally on the volume fraction. 
+When adhesion is low at the interfaces between the silica particles and the epoxy, there would be more debonding of particles, and leads to more plastic void growth [7, 19, 21]. Shear banding and void growth are the major toughening mechanisms in silica nanoparticle-modified epoxy [6].
+The toughening mechanisms in silica-modified epoxy is similar to other particles, but there is no crack pinning [1, 19], discussed in Section 2.5, because the particle diameter is less than the crack-opening displacement. Work on silica nanoparticle-modified epoxy performed by Hsieh et al. [19] has shown that some of the common fracture mechanisms (crack pinning, crack deflection and immobilised polymer around particles) can be discounted for silica nanoparticles. The major mechanism there was plastic deformation of epoxy. This means that the particles debonded from matrix, there were highly localised stress concentrated regions, which caused plastic deformation of the epoxy. 
+There have also been studies of addition of both rubber and silica particles and they show good toughening effect [22]. It is because these two types of particles provide a good balance of modulus and toughness [23]. A synergy effect was found, giving a significant increase in toughness, from studies by Hsieh et al. [24] and Manjunatha et al. [23], with the use of a combination of silica and CTBN particles. With the use of block copolymers or CSR with silica particles, synergy effect in terms of toughness was also found to increase in the study from Chen et al. [25, 26]. 
+
+\subsection{Fracture mechanics}
+There are different theories in the study of fracture mechanics, the two main approaches to quantity toughness are by the consideration of the energy approach and stress intensity approach [17]. Linear elastic fracture mechanics (LEFM) is used in considering the fracture circumstances in epoxy polymers indicate a linear elastic response with plasticity confined to only a small zone at the crack tip.
+At the crack tip, there are different directions of stresses; therefore, there would be different modes of loading. All the three modes of loading (mode I, mode II and mode III) would occur at the crack tip, see Figure 1, all of them are considered [17], but mode I is the most critical one as it has the lowest energy and hence the most likely to cause fracture. 
+% This is a figure
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{3modes}
+\caption{The different modes of loading [27]}
+\end{figure}
+
+\subsection{Fracture toughness}
+There are two approaches to calculate fracture toughness, one is based on energy while the other considers the stress intensity of the crack.
+1) Energy approach: fracture occurs when sufficient energy is released from the stress field by growth of the crack. The energy criterion [28] is:
+\begin{equation} \label{Energy criterion [28]}
+-\frac{1}{B} \frac{dU}{da} \geq G_C 
+\end{equation}
+
+where B = width of crack front, U = potential energy of the loaded specimen, a = crack length and $G_c$ = fracture energy (critical strain energy release rate). 
+For bulk linear elastic behaviour away from the crack tip, $G_c$ is given by:
+
+\begin{equation} \label{fracture energy [28]}
+G_c=\frac{P^2_c}{2B} \frac{dC}{da}
+\end{equation}
+
+where Pc = load required for fracture (crack propagation), and C = compliance (displacement/load) of the specimen.
+2) Stress intensity factor approach: The critical stress parameter is the critical stress intensity factor, KC, which is expressed in a slightly different way under plane stress and plane strain [17]. To be conservative, the minimum value is desired, so plane strain conditions are considered in tests. 
+For plane stress (i.e. a thin sheet): 
+
+\begin{equation} \label{plane stress  [28]}
+K_c^2=E G^c
+\end{equation}
+
+\begin{equation} \label{plane strain [28]}
+K_c^2=\frac{E}{1-v^2} G^c
+\end{equation}
+where $E$ = Young’s modulus and v = Poisson’s ratio [17].
+The correlation between GC and KC in plane strain is [29, 30]:
+\begin{equation} \label{correlation [28]}
+G_c = \frac{(1-v^2) K_C^2}{E} 
+\end{equation}
+
+The plane stress and plane strain conditions also have an effect on the plastic zone at the crack tip; the radius of the plastic zone at the crack tip, ry, see Figure 2, can be expressed as [29]:
+For plane stress (i.e. a thin sheet):
+\begin{equation} \label{ry plane stress [28]}
+r_y=\frac{1}{2\Pi}(K_c/\sigma_Y) \frac{dC}{da}
+\end{equation}
+
+For plane strain (i.e. a thick sheet):
+\begin{equation} \label{ry plane strain [28]}
+r_y=\frac{1}{6\Pi}(K_c/\sigma_Y)
+\end{equation}
+
+The crack opening displacement or dcrack [17] (which is in the y direction) is given by: 
+\begin{equation} 
+d_{crack}=\left( \frac{K_c}{\sigma yt}\right) ^2 e^y
+\end{equation}
+
+where KC is measured stress intensity factor at the onset of crack growth,
+$\sigma_yt$ is tensile yield stress and $e_y$ = yield strain [31].
+All of these concepts are used in considering the right thickness of adhesive in a joint [32], which must be greater than 2$r_y$ for the full toughness to be developed. 
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=5cm]{plasticZoneModel}
+\caption{Plastic zone model } 
+\end{figure}
+
+\subsection{Tapered double cantilever beam (TDCB)}
+The tapered double cantilever beam (TDCB) test and the double cantilever beam (DCB) test are LEFM methods that are commonly used in determining the fracture energy,$G_C$, of epoxy adhesive joints, because these methods can determine the fracture resistance of crack to initiation, propagation and arrest. Moreover, the R-curve (resistance-curve) of the adhesive fracture energy against crack length can also be found from the data obtained in the test, as the toughness may increase with crack length due to additional toughening mechanisms. Therefore, they are very useful in providing information about the fracture performance of the adhesive [33, 34]. 
+The TDCB specimen is designed such that the fracture energy, calculated using Equation 2.2, is not dependent on the value of crack length, so the rate of change of compliance with crack length is constant [35]. The value of $G_C$ can be calculated using Equation 2.9. The relationship between compliance and crack length is kept constant by varying the height of the specimen with the equation [33, 34]:
+
+\begin{equation} 
+\frac{dC}{da}=\frac{3a^2}{h^2}+\frac{1}{h}=m
+\end{equation}
+
+where a = crack length, h = height of substrate beam at a crack length a, and m = specimen geometry factor (constant). 
+Both TDCB and DCB specimens use the same principles in the test method (mode I, in-plane tensile), but TDCB is more stable as its shape reduces the stress concentration at the start of the crack, hence improving the accuracy of the results [34]. The TDCB is more suited to high rate tests as the failure load does not depend on the crack length, and hence the crack length does not need to be measured. 
+There are two main categories of failure types, (i) cohesive and (ii) adhesive/interfacial failure.
+Cohesive failure is when failure happens within the adhesive layer, see Figure 3a. This occurs when the interface strength is high [36]. Adnan et al. [36] showed that cohesive failure can occur under tensile loading or shear loading, where adhesive deformed through cavitation and bulk shear [36]. 
+Adhesive or interfacial failure is when failure is in-between the adhesive and substrate [37], due to the presence of low interfacial strength [36], see Figure 3b. Therefore the fracture energy measured would be that of the adhesive/substrate interface, but not of the adhesive itself. Aluminium alloy has a relatively high yield stress, so a plastic zone cannot be formed there and the measured fracture energy will be much lower than the cohesive value. 
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=3cm]{FrailureModesDiagram}
+\caption{Failure modes diagram a) cohesive, and b) interfacial failure [16] } %\label{MyFigure}
+\end{figure}
+
+\subsection{Types of crack growth}
+Crack growth in the TDCB test is not always under a stable manner. There are three types of crack growth (see Figure 4). The brittle and stable type was termed Type C, where the brittle adhesive would usually have high yield stress, little plasticity and the crack would be sharp. This is a typical of epoxy adhesives. Type B is stick-slip, which is unstable crack growth, it produces a significant pattern (where initiation and arrest points can be seen) on the load against displacement curve, it is brittle but has not got as high yield stress as type C. Type A is stable ductile crack growth, where the adhesive has high ductility and a rough or torn fracture surface, the fracture behaviour links to the testing temperature, and usually has a lower yield stress. This high crack-tip plasticity and blunting causes the ductile failure and stable crack growth. Smooth, featureless surfaces can be observed with continuous crack propagation [17]. 
+When the test rate is increased, there is less crack tip blunting [32]. Less load is required to propagate the crack than to initiate it and hence stick-slip failure occurs. When the temperature is low and the loading rate is high, crack initiation only needs a minimum yielding at the crack tip; therefore the crack is sharp and results in a low stress intensity factor. It is the same when there is a very high crack tip strain rate with very short deceleration times at arrest points [31]. 
+When the temperature is high, the yield stress reduces and plastic flow could be increased resulting in more crack tip yielding. This results in a larger stress intensity factor [31] and hence Type A crack growth occurs. The transition between the types of crack growth depends on the temperature and usually a clear state of transition occurs, where the changes in characteristics of the points are very significant [31, 32].
+Figure 4 shows the three different fracture types, which are extended to four types of crack growth under high rate testing (see Section 2.7) [38].
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=10cm]{fractureTypes}
+\caption{Graphic representation of different fracture types under different testing conditions [16]}
+\end{figure}
+
+\subsection{Single-edge notch bending (SENB) }
+Single-edge notch bending (SENB) tests are used with bulk materials rather than adhesive joints, and are designed to focus on the fracture energy, $G_c$, and fracture toughness, $K_c$, of the material. SENB testing can be performed under both quasi-static and high rates. However, there are dynamic effects under high rate that can cause large oscillations in the results graphs. The use of damping and a displacement method can ensure that this is usually not a problem. 
+According to ISO 13586 standard [39], SENB specimens (see Figures 5 and 6) should be 6 mm thick, 12 mm in width and 60 mm in length, with at least 6 replicate tests for each formulation. 
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{SENB}
+\caption{Single edge notch bending (SENB) specimen [39]} \label{Single edge notch bending (SENB) specimen [39]}
+\end{figure}
+
+Due to the conditions of high rate tests in this study, linear elastic fracture mechanics (LEFM) method was used in determining the peak load from SENB testing (where energy method would not be as accurate under high rate conditions of this material). The peak load values were then used to calculate fracture toughness or critical stress intensity, $K_c$, and fracture energy, $G_c$.
+Fracture toughness, $K_c$, can be found by using: 
+
+\begin{equation} 
+K_c=\frac{4P}{B}\frac{\sqrt{\pi}}{B}\left[1.6 \left( \frac{a}{w}\right)^1/2- 2.6 \left( \frac{a}{w}\right)^3/2 + 12.3 \left( \frac{a}{w}\right)^7/2 +21.8 \left( \frac{a}{w}\right)^1/2\right] 
+\end{equation}
+where P = critical applied load (Pmax), B = thickness of specimen, a = crack length and W = width of specimen, see Figure 5. 
+The fracture energy can be calculated for the LEFM method [40] using:
+
+\begin{equation} 
+G_c= /frac{((1-v^2) K_c^2)}{E}
+\end{equation}
+
+where the Poisson’s ratio v = 0.35 [40], and E is the tensile Young’s modulus. 
+To make the results valid, there are two criteria which must be met [39]:
+
+1. Size calibration:
+
+\begin{equation} 
+B,a,(W-a)>2.5 \frac{K_c}{σ_yt}
+\end{equation}
+
+2. Maximum fracture load, Pmax:
+
+\begin{equation} 
+\frac{P_{max}}{P_Q}<1.1
+\end{equation}
+
+where $P_max$ = maximum load or 5% offset load and PQ = the load at crack growth initiation
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=5cm]{SENBLoaded}
+\caption{Single edge notch bending (SENB) test, loaded in three point bending [40]} %\label{MyFigure}
+\end{figure}
+
+\section{Toughening mechanisms}
+\subsection{Introduction}
+The addition of particles normally increases the fracture energy of epoxy polymers. The common mechanisms of toughening according to Kinloch et al. [32] are: 1. Stretching and tearing or debonding of rubber particles: Stretching would increase the toughness, and followed by debonding or tearing, 2. Brittle fracture of a rigid particle, 3. Crack deflection, 4. Crack pinning, and 5. Yielding near the crack tip (the crack tip becomes blunt, plastic zone size increases and yield occurs) [32]. While the major toughening mechanisms in rigid silica particles are debonding, plastic void growth and shear yielding. Mechanisms discussed below including shear bands and shear yielding, crack pinning, crack deflection, cavitation, debonding and rubber bridging.
+
+\subsection{Shear bands and shear yielding}
+Shear banding is produced when there is a tensile stress applied to the polymer chains, and is caused by the orientation of polymer chains. It is plastic deformation due to shear force [29], which absorbs energy and hence increases toughness. It is a mechanism that involves localized inhomogeneous plastic deformation [32]. It occurs when there is a brittle fracture; it involves only little energy dissipation. But when there is a higher shear deformation around the crack tip, propagation of crack would become ductile. Therefore it would blunt the crack tip, and this leads to an increase in toughness of the material. When there is bulk yielding and fully ductile failure behaviour, shear yielding can be limited [32]. 
+
+\subsection{Crack pinning}
+The crack can be pinned when approaching particles, and so bows out between them. As the energy is proportional to the length of the crack front then extra energy is required, increasing the toughness. The crack then breaks away and moves forward from the particles, producing tails at the particles. This is due to presence of rigid particles. Secondary cracks could be formed between particles if bow out is followed by crack pinning [41]. This would produce a new fracture surface and an increase in the length of crack front. The consequence of formation of new surfaces is the increase in crack resistance, as energy needed would be higher [41], see Figure 7. 
+Crack pinning can only happen when the diameter of a particle, $d_{particle}$, is larger than the crack opening displacement, $d_{crack}$, so will only occur with large particles (i.e.micron sized) [32]. For large particles, the main toughening mechanisms are pinning, deflection, debonding with void growth and shear yielding (i.e.shear bands). Pinning and deflection would not occur in small particles (nanometre-sized particles), as nanoparticles would be too small for these mechanisms to occur (as the diameter of the particle, $d_{particle}$, is a lot smaller than $d_{crack}$). Instead, the mechanisms for nanoparticles are debonding followed by void growth and shear yielding.
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=5cm]{crackPining}
+\caption{The process of crack pinning [29]} %\label{MyFigure}
+\end{figure}
+
+\subsection{Crack deflection}
+When the crack is approaching a rigid particle, it is deflected around the particle, see Figure 8, as it cannot propagate through the particle which is tougher than the epoxy. This tilts the crack, so the local crack propagation is a mixed mode (I/II) not pure mode I. Thus more energy is required, as mode II requires more energy than mode I, increasing the measured toughness. There is usually an angle of where the crack tilts, and this would depend on the stress and the particles there. Crack deflection also causes a tail to be formed behind a particle. As for crack pinning, crack deflection requires that $d_{particle} > d_{crack}$ [32]. 
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=2cm]{crackDeflection}
+\caption{Crack deflection by a particle, after [32]} %\label{MyFigure}
+\end{figure}
+
+\subsection{Cavitation} 
+Cavitation is when the triaxial stresses in the plastic zone at the crack tip cause a soft particle to fail internally. This causes a void within the particle, see Figure 9. It causes blunting of crack under the riaxial stress state [42]. It happens before the shear yielding or plastic void growth, it doesn’t give a significant toughening effect on its own, but plastic deformation involving enlarged voids, which require a higher surface and strain energy hence increase energy dissipation [43] increase the toughness. It was found that there would be more initiation of cavitation if particles had a higher Poisson’s ratio [44] or a larger diameter [45].
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{cavitation}
+\caption{SEM image of cavitation of rubber particles [5] } %\label{MyFigure}
+\end{figure}
+
+\subsection{Debonding}
+This is when the interfacial adhesion between the particle and the epoxy is poor, so the particle becomes detached from the epoxy. Surface debonding involves only a small amount of energy being absorbed. However plastic deformation and void growth follow debonding, and these processes can absorb a significant amount of energy [29], see Figure 10. 
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{debonding}
+\caption{SEM image of debonding of glass particles [46]} %\label{MyFigure}
+\end{figure}
+
+\subsection{Rubber bridging}
+Bridging occurs when rubber particles are stretched and ‘forms a bridge’ in-between the two fracture surfaces of a crack. It is only for large (micron sized) particles. Stretching of the rubber will require energy, but it is not a major mechanism and does not show any significant effect in rubber particle toughening [29], see Figure 11. 
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{rubberBridging}
+\caption{Rubber bridging model [47]} %\label{MyFigure}
+\end{figure}
+
+\subsection{Plastic void growth}
+Figure 12 below shows plastic void growth of rubber modified epoxy. Debonding of hard particles or cavitation of soft particles relieves the constraint on the epoxy. The triaxial stress in the plastic zone at the crack tip causes the voids to grow and hence dissipated energy [48]. Plastic void growth has a great effect on the fracture energy measured. More regarding plastic void growth of rubber modified epoxy are discussed in SEM images in the experimental results section.
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{plasticVoidGrowth}
+\caption{Figure showing plastic void growth of epoxy (tested at 40$_O$C) [48]} %\label{MyFigure}
+\end{figure}
+
+\subsection{Modelling toughening mechanisms}
+The toughness of the epoxy can be predicted using analytical models, e.g. [2, 3]. In theory, there would be 100\% cavitation and void growth for soft particles, or debonding and void growth for rigid particles. However, all of the mechanisms are affected by the particle distribution, particle size, volume fraction and stress field due to the neighbouring particles [49]. Therefore, not all of the particles can undergo the toughening mechanisms. 
+The percentage of voids is low when particles are too close, as the energy required for voiding would be too high [2]. However voids can be formed further away from a voided particle. According to this theory, when there is a large \% of silica, there would only be 14.3 % of voids [2]. On the other hand, when particles are a long distance apart, 100\% of voids can be achieved with silica. For rubber particles, both CTBN and core-shell rubber, 100\% of the particles cavitate, e.g. [24]. For both particles types (soft and silica), shear yielding is the main toughening mechanism [24]. The total energy absorbed can be predicted by:
+
+\begin{equation} 
+G_c = G_{shear} + G_{DB+VG} +G_{unmodified}
+\end{equation}
+
+where $G_c$ = fracture energy, $G_{shear}$ = fracture energy from shear-banding, $G_{DB+VG}$ = fracture energy from debonding and void growth and $G_{unmodified}$ = fracture energy from unmodified epoxy. Expressions for these terms have been derived by Huang and Kinloch [50] and Hsieh et al [29]. More about toughening mechanisms is discussed in later sections, such as Sections 2.7.4 and 2.7.9.
+
+\subsection{High rate testing}
+There are very limited studies on high rate testing of toughened epoxies due to the challenges involved, such as: 1. The more complicated failure mechanisms and dynamic effects in high rate can cause problems with accuracy of the analysis and the results; 2. The analysis needs to be according to the type of fracture (stable propagation and stick-slip failure are analysed with different approaches), and 3. Due to the increase in the kinetic energy in the high rate test, this energy must be accounted for in the results [51].
+Therefore a data reduction strategy was developed by Blackman et al. [52] for accurate high rate data analysis. The data reduction strategy is summarised in the flow chart shown in Figure 13 [52]. This protocol was first used in DCB specimens using a frame-by-frame analysis approach. Four groups of fracture types were developed in the protocol, more details are discussed in high rate test experimental Section 5. This protocol enables the analysis of high rate results with the account of dynamic effects, hence the reliability of the data is assessed.
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=15cm]{DRS}
+\caption{Flow chart for data reduction strategy of TDCB test [52]} %\label{MyFigure}
+\end{figure}
+
+There are many factors that can affect the high test rate results, and the main considerations are stated below:
+
+\subsection{Uncertainties}
+When measured load values were reliable means that there was no significant dynamic effect that altered the values, so type 1 and 2 were considered to be reliable.
+Other uncertainties were also taken into account of the reliability of the results, such as uncertainties from the instruments used and the analysis types. For example, it was reported that there was a 6\% uncertainty when analysing type 1 and 2, while there was a 4\% of uncertainty in analysing type 3 and 4 [53]. Thus the uncertainties vary slightly when the different types of analysis were used, but are small.
+2.7.2 Expected effects
+It is expected that there would be more unstable crack growth when the rate of test increases. This was found by Blackman et al. [54] that at test rates higher than 8.3 x 10-5 $ms^{-1}$, unstable crack propagation occurs.
+It is found that the initiation and arrest points are difficult to distinguish when rate is at 1 $ms^{-1}$ , this could be due to the decreased in crack-length distance between initiation and arrest points [55]. Identifying crack initiation and arrest points at rates higher than 10 ms-1 is impossible [56].
+
+\subsection{Geometry factor}
+Flexural rigidity of the specimen is highly related to test geometry. TDCB has a high flexural rigidity when compared to DCB, hence could provide more reliable results at both low and high rates. The larger size in specimens also reduces the thermal shrinkage between substrate and adhesive layer, as the data reduction strategy does not consider residual stresses, TDCB specimens have their advantage. However, this larger geometry can also bring more significant inertial effects that could leads to unstable crack growth [57]. The geometry factor is also affected by the toughness of the adhesive, the tougher the adhesive is, the less that it is affected by the inertial effects. Therefore, it is expected that TDCB specimens would provide more reliable results when compared to DCB specimens.
+
+\subsection{Toughening mechanisms}
+It is expected that when rate is high, the toughening mechanisms would become less effective, which means there would be less plastic deformation due to the lower energy dissipation at crack tip as the yield stress will increase with test rate [53].
+More about the data reduction method is described in the experimental part of this report.
+
+\section{Conclusions}
+Many aspects of the use of particles in modifying epoxy have been reviewed. Significant improvement in toughness has been found in most of the studies available. The level of improvement can be highly affected by the dispersion of the particles and the individual toughening mechanisms. Other factors that contribute to the properties of joints are such as surface treatment and adhesive thickness, because they would affect the failure type and crack growth type.
+Epoxy toughness can be quantified using a fracture mechanics approach, such as the energy approach using TDCB specimens. At quasi-static test rates the analysis is relatively straight forward. However, at high test rates the analysis depends on the specimen behaviour (e.g. type of crack growth) and may be affected by dynamic effects.
+Therefore, fewer studies have been conducted using high rate, and more investigations and understanding of their toughening mechanisms are required for further improvement of the material, especially at high rate.
+
+\section{Experimental work}
+\subsection{Introduction}
+Nanoparticles were added in at 0.5, 1, 2, 3, 5, 10, 15, 20 weight \% and the maximum concentration of 25.4 weight \%. The results were expected to show a positive increase in toughness with increasing weight \% of silica particles, followed by a plateau at the maximum point. However, the low weight \% of the silica particles may show a steeper increase, as hinted in other work [14]. This outcome will be particularly linked to the mechanisms of fracture, especially variations in the percentage of silica particles which undergo debonding and void growth. The properties of silica-modified epoxy would be compared with CSR-modified and hybrid (silica and CSR) ones, where they have the same \% of particles as the silica-modified specimens up to 10\% (more about CSR in Section 3.2.1 below). This is due to the larger particle size of CSR that cannot be mixed properly when the \% of particle is higher than 10 weight \%.
+TDCB specimens were prepared using a range of different concentrations of nanoparticles. As high rate tests involve more analysis and with the limited storage of data from the camera, approximately four different concentrations of nanoparticles would be used at each high rate test, unlike the bulk specimens (where all formulae were tested in the bulk specimens).
+The experimental results will be compared to those from finite element modelling currently underway.
+
+\section{Materials and methods}
+\subsection{Materials}
+There were three materials used in mixing of the adhesive (epoxy, nanoparticles and hardener):
+Epoxy resin: Araldite LY 556 (Huntsman Advanced Materials, Belgium), which is a diglycidyl ether of bisphenol A (DGEBA) with an epoxy equivalent weight (EEW) of 185 g/mol and density of 1.175 g/ml. As some of the
+16
+nanoparticles are supplied in epoxy resin, the stoichiometric amount of the epoxy for the silica, CSR, epoxy and hardener were found by using their equivalent weight [1].
+Hardener: Albidur HE-600 (Nanoresins, Germany), which is an accelerated methylhexahydrophthalic acid anhydride with a density of 1.08 g/ml. This was used at a stoichiometric ratio of 1:1.09 to the resin.
+Nanoparticles:
+1. Silica: Nanopox F400 (Nanoresins, Germany). It is a DGEBA master batch with 40 weight \% of silica particles in DGEBA and a density of 1.4 g/ml. These silica particles have a mean diameter of 20 nm, they are in the form of a colloidal silica sol. The silica has been surface-treated by the manufacturer to prevent agglomeration.
+2. CSR: Paraloid EXL-2300G (Rohm and Haas, UK). They are powder form core-shell rubber particles sieved into three sizes: >106 μm, in-between 106 μm and 38 μm and <38 μm. Size of in-between 106 μm and 38 μm were used in this work.
+3. Hybrid: The same \% of silica nanoparticles and CSR were mixed into the epoxy, e.g. 5 weight \% of silica plus 5 weight \% of CSR.
+
+\subsection{TDCB specimen preparation}
+Aluminium alloy substrates (grade EN AW 2014A) were used in preparing the TDCB specimens. The substrates were first cleaned with acetone, and grit-blasted with 180/220 mesh alumina grit. The surface was then cleaned with acetone again before chromic acid etch treatment. The substrates were placed in a 70$^o$C chromic-sulphuric acid bath for 10 minutes (composition of bath is 0.1 kg of copper sulphate, 3.87 kg of sodium dichromate, 0.06 kg of powdered aluminium, 7.2 litres of sulphuric acid (s.g. 1.84) and 40 litres of distilled water) [58]. They were then rinsed with tap water and placed in a tap water bath for 15 minutes. They were rinsed with distilled water and then dried in an oven for 5 minutes.
+The epoxy and hardener were mixed and degassed in a vacuum oven. The mixture was spread on the substrate using a spatula, ensuring that it covers the whole surface. A piece of polytetrafluoroethylene (PTFE) film (Aerovac, UK) of 60 mm long was placed at one end for creating a pre-crack, and a stainless steel wire of 0.4 mm diameter was placed at each end of the substrate to provide a constant thickness of adhesive layer of 0.4 mm.
+A bonding jig was used to clamp the substrates together, see Figure 14. Three specimens are prepared each time; this can provide a higher consistency of the specimen’s conditions (as they would be prepared with the same jig). The jig was coated with release-agent Frekote 700-NC (Loctite, UK) to prevent the adhesive sticking to the jig and allowing removal of the specimens. The jig was placed in a fan oven, and the adhesive was cured.
+After curing, the excess adhesive was removed using sandpaper. The joint was coloured by white correction fluid and a paper ruler marked in millimetres was secured under the bonding line to allow the crack length to be measured, see Figure 14.
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{TDCBJig}
+\caption{TDCB bonding jig} %\label{MyFigure}
+\end{figure}
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{TDCBspecimens}
+\caption{TDCB specimens} %\label{MyFigure}
+\end{figure}
+
+\subsection{Differential scanning calorimetry (DSC) tests}
+The completeness of curing was confirmed by measuring glass transition temperature, Tg, of the specimens using differential scanning calorimetry (DSC) [59]. There were two different curing cycles used in the 1st and 2nd sets of control specimens to compare the Tg of the specimens.
+The two curing cycles used were:
+Control 1st three specimens: Preheat at 60\degree C, ramp at 1 \degree C/min to 95 \degree C, dwell for 1 hour, ramp at 1\degree C/min to 165 \degree C, and dwell for 2 hours, ramp at 2 \degree C/min to room temperature (20\degree C). 400 \degree C 
+Control 2nd three specimens: Ramp at 1 \degree C/min to 95 \degree C, dwell for 3 hours, ramp at 1\degree C /min to 155\degree C and dwell for 5 hours, ramp at 2\degree C/min to room temperature (20\degree C).
+DSC works by measuring the amount of heat energy needed for increasing temperature of the sample. There were two heating and cooling cycles in a DSC curve, shown in Figure 16.
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=6cm]{DSC}
+\caption{Heating and cooling cycle in DSC [29]} %\label{MyFigure}
+\end{figure}
+
+For the DSC measurements, 10 mg samples were used. Samples were taken from the TDCB joints and weighed. The samples were heated from 30 $^o$C to 180 $^o$C, at a rate of 10 $^o$C/min. The Tg was obtained from the second heating cycle. The glass transition temperature, Tg, measured was 133.2 $^o$C for both curing cycles, which was in the expected range (expected value is 148.0 $^o$C measured from DMA). It is found by Mohammed et al. [1] that Tg of the same unmodified epoxy was 153 $^o$C, the value was not affected by the addition of silica particles. The Tg value can be slightly different when there is a different curing cycle used, as well as different specimen size. Therefore no adjustment is needed for the curing cycle use in all the other specimens. The curing cycle for all the rest of specimens was the first one: Preheat at 60 $^o$C, ramp at 1 $^o$C/min to 95 $^o$C, dwell for 1 hour, ramp at 1 $^o$C/min to 165 $^o$C, and dwell for 2 hours, ramp at 2 $^o$C/min to room temperature (20 $^o$C)
+
+\subsection{Quasi-static rate tests}
+The TDCB tests were performed using a tensile testing machine with a cross-head displacement rate of 0.1 mm/min, see Figure 17. The specimen is fixed with a load-cell of 5 kN, and the load and displacement were recorded by the testing machine. The experiment was set up with a travelling microscope for measuring the crack length. The crack length was measured to a precision of ±0.5 mm.
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{TDCBSetUp}
+\caption{TDCB test set up} %\label{MyFigure}
+\end{figure}
+
+\subsection{Initial loading and re-loading}
+There were two loadings preformed in each quasi-static TDCB test: 1.Initial loading (precracking) and 2.Re-loading (actual loading) [34].
+1. During the initial loading, the test was stopped when the crack travelled to the end of the starter film and started to propagate into the adhesive, which would be the insert length (a$_0$).
+The specimen was then unloaded and crack would be closed up, specimen was unloaded slowly at a constant cross-head rate of 1 mm/min, and readings were taken at about every 0.1 mm of change of extension. The unloading curves should be able to go back to original, a slightly negative force when the extension was zero was acceptable, as there might be slight inaccuracy from reading, but a large negative load value would be an indication of permanent deformation of the substrate and test would not be valid.
+2. Re-loading rate was the same as the initial loading (0.1 mm/min). The first crack propagation would be the precrack value (NL, Visual and Max/5\%). The crack length readings were taken until specimen was opened up completely or until there were enough data points. At least 15 readings are recommended by the protocol from Blackman et al. [57].
+
+\subsection{Initiation and propagation values}
+There were three types of initiation values, and visual observation was used in this study [28]:
+Non-linear (NL): There is a linear region at the beginning of the graph where material can go back to original shape with linear elastic deformation. NL is the point at which the elastic behaviour ends.
+Visual observation (Vis): It is the first visible crack propagation.
+5\% or Max: It is the maximum point from the curve, or where a line of initial compliance +5\% cuts the graph. The value which occurs at the smaller displacement should be used.
+The thickness of the substrate was measured at 3 points (near both ends and at the middle) of the beam before and after bonding, in order to monitor the thickness of the adhesive layer.
+The height of specimen is tapered such that a constant specimen geometry factor, m, is used
+
+\begin{equation} 
+\frac{3a^2}{h^2}+\frac{1}{h}=m
+\end{equation}
+
+where a = crack length, m = 2 mm$^{-1}$, h = thickness of substrate beam at a crack length of a [28].
+
+\subsection{Determination of $G_c$ in TDCB}
+There are three methods in determining the value of $G_c$ : experimental compliance method (ECM), simple beam theory (SBT) and corrected beam theory (CBT) [60]. Their equations are shown below. The use of ECM and CBT can provide more accurate results [34] than SBT.
+Experimental compliance method (ECM):
+
+\begin{equation} 
+G_C=\frac{nPδ}{2Ba}\frac{F}{N} 
+\end{equation}
+
+where P = critical load, δ = displacement, a = crack length, B = width of specimen, F = displacement correction and N = load-block correction.
+
+Simple Beam Theory (SBT):
+\begin{equation} 
+G_C=\frac{P^2}{2B}m
+\end{equation}
+
+Corrected Beam Theory (CBT):
+\begin{equation} 
+G_C=\frac{4P^2 m}{E_s B^2}\left( 1+0.43\left( \frac{3}{ma}\right) ^{1/3} \right) 
+\end{equation}
+
+The results would include:
+1.	$G_c$ against weight \% of particles at slow test rate. 
+2.	$G_c$ against weight \% of particles at different higher test rates for certain weight \% of particles. 
+3.	A section of the TDCB specimen would be cut and the fracture surface examined using FEG-SEM, to measure the \% of voids. 
+
+\subsection{Field emission gun scanning electron microscopy (FEG-SEM)}
+Field emission gun scanning electron microscopy (FEG-SEM) was used to investigate the fracture surface of epoxy. FEG-SEM provides higher revolution of images which reveal more information from the fracture surface. Evidence of failure mechanisms such as river lines would provide supporting evidence to the results found. 
+Gold coating was applied to increase conductivity of specimens. It was performed by using ‘EMI TECH K575X’ coater at 120 mA for 1 min. Electrical conductivity of specimens is to make certain by applying some silver paint at the side of the specimens.
+The amount of coating applied on the specimen needed to be optimum, because thin coating can charge the specimen up, resulting in difficulties with beam focusing and aperture or stigmation correction. When coating is too thick, fine details could be masked.
+
+\subsection{Scanning electron microscopy}
+SEM imaging was performed with Hitachi S-3400N VPSEM, with an accelerating voltage of 15 kV and 10 kV for low magnification imaging. This was used to investigate the fracture surface of epoxy with larger particles. 
+
+\subsection{Fracture energies}
+The three methods used to calculate the fracture energy values were expected to give similar values, and they did. Table 1 compares the $G_c$ values for the control (unmodified) epoxy for the three methods. Simple beam theory (SBT) usually gives a slightly lower value according to previous experience [34], and these data fit this observation. 
+There are two types of crack propagation - stable propagation and stick-slip, see Figure 4. These values cannot be averaged, and need to be considered separately, such as comparing averaged initiation values etc. [34]. This is expected to show increase in the amount of stick-slip when test rate is increased [52]. 
+Similar fracture energies values of the control specimens were found when compared to studies from Hsieh et al. [24], more comparison of results are shown in the next Section. 
+
+\subsubsection{Control}
+Table 1 and Figure 18 show the control TDCB fracture energies from the SBT, CBT and ECM methods. The fracture energies from the control specimens were at the lowest end of results when compared to studies in the past, but these results were realistic [61]. The lower fracture energy values might be due to the thin layer of adhesive applied on the joint, and with relatively small standard deviations, the control results were considered to be reliable.
+
+\begin{table}[!htpb]
+\centering
+\includegraphics[height=4cm]{ControlFracture}
+\caption{Fracture energy versus crack length for the control epoxy from TDCB specimen} %\label{MyFigure}
+\end{table}
+
+%\begin{figure}[!htpb]
+%\centering
+%\includegraphics[height=6cm]{ControlGraph}
+%\caption{Fracture energy versus crack length for the control epoxy from TDCB specimen} %\label{MyFigure}
+%\end{figure}
+%\begin{figure}[!tbp]
+%  \centering
+%  \begin{minipage}[b]{0.45\textwidth}
+%    \includegraphics[width=\textwidth]{ControlGraph}
+%    \caption{Flower one.}
+%  \end{minipage}
+%  \hfill
+%  \begin{minipage}[b]{0.45\textwidth}
+%    \includegraphics[width=\textwidth]{ControlGraph}
+%    \caption{Flower two.}
+%  \end{minipage}
+%\end{figure}
+
+
+% This is a table
+%====================
+%\begin{table}[htbp]
+%\centering
+%\begin{tabular}[htbp]{|c|l|}
+%\hline
+%Number Stored & Description\\
+%\hline
+%Content 1 & Content 2 \\
+%\hline
+%\end{tabular}
+%
+%\caption{My Table Caption} \label{MyTable}
+%\end{table}
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=7cm]{ControlGraph}
+\caption{Fracture energy versus crack length for the control epoxy from TDCB specimen} %\label{MyFigure}
+\end{figure}
+
+\subsubsection{Silica-modified epoxy}
+The addition of silica generally increased the toughness, see Table 2. There was an increasing trend in mean Gc from control to the addition of 2 weight \% of silica, but when there was a higher amount of silica added, no pattern was formed and values were a lot lower than expected. There was interfacial failure, and no stick slips, in specimens with 10 and 15 weight \% of silica. All the results found were lower than the values from Hsieh et al. [24]. More about the interfacial fracture surfaces is discussed in the next Section. 
+According to the propagation curve, see Figure 19, there is a peak shown in Gc value with the addition of 2 weight \% of silica, the Gc value dropped after this point. This could be due to the presence of greater than 15 \% of debonding when a lower \% of silica is added. The \% of debonding reduces when there is a higher \% of silica added, because when particles are more concentrated, they would become too close to each other, so the energy needed for voiding would be higher [4], therefore these results are according to predictions. It is also found by Johnsen et al. [4] that there was a high increase in fracture energy when 13\% of silica nanoparticles were added in [4]. However, there were two lower values when 3 \% and 15 \% of silica particles were used, these drops were not expected, they would be errors and graph is expected to show a clear trend. A plateau is expected after the peak, the relatively high weight \% of silica particles would not show significant effects in toughening. At very high weight \% of silica particles the toughness will decrease due to there being too little epoxy between the particles to absorb the maximum energy, this occurred to some of the specimens. 
+
+\begin{table}[!htpb]
+\centering
+\includegraphics[height=4cm]{CBTSi}
+\caption{Summary of fracture energies calculated using the CBT method from TDCB specimens, mean ± standard deviation} %\label{MyFigure}
+\end{table}
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=9cm]{CBTSiGraph}
+\caption{Fracture energy against percentage of silica from TDCB specimens (CBT) and model predictions from Hsieh et al. [46] [51] } %\label{MyFigure}
+\end{figure}
+
+\subsubsection{CSR}
+It is shown that the fracture energy of the CSR-modified epoxy was about one time higher than the silica-modified epoxy for all weight \%. There is a general increase in toughness when the \% of particles increases, the small drop in fracture toughness at 2\% of CSR might be caused by clustering of particles that couldn’t be mixed properly. Most regions of the CSR-modified TDCB beams showed cohesive failure, while some of the silica-modified beams had interfacial failure, which explains why there were remarkably larger Gc values for the CSR specimens. This indicated that the fracture energies of the silica-modified joints were not measured accurately due to the effect of interfacial failure; see Tables 1, 2 and 3 and Figures 17, 18 and 19.
+The cause of inaccuracy in the silica-modified TDCB specimens can also be due to the viscosity of the resin. Silica-modified epoxy had a low viscosity and some of the resin dropped down from the beams during making of the joints. It caused uneven thickness of the bondline. Hybrid mixture would have a higher viscosity and would be expected to improve accuracy of the measurements.
+
+\begin{table}[!htpb]
+\centering
+\includegraphics[height=5cm]{CBTCSR}
+\caption{Summary of fracture energies of CSR modified epoxy calculated using the CBT method from TDCB specimens, mean ± standard deviation. } %\label{MyFigure}
+\end{table}
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=9cm]{CBTCSRGraph}
+\caption{Fracture energy against percentage of particles for CSR-modified epoxy from TDCB specimens} %\label{MyFigure}
+\end{figure}
+
+\subsection{Fracture surfaces}
+There was an increasing amount of interfacial failure found when there is 1 and 2 weight \% of silica added in. The amount of interfacial failure was reduced by changing the acid tank for refining the quality of the acid etch treatment. This showed that the surface treatment of the aluminium alloy highly affects the adhesive bonding and its failure. However, specimens with higher weight \% of silica (from 3 weight \% onwards) showed mainly interfacial failure with propagation only. It could be due to the differences on the surface of beams used (new and recycled beams), this could cause variations in bonding of joints. Most of the regions in CSR specimens were cohesive failure, so the toughness values were reliable. Figure 21 shows the two failure types (interfacial and cohesive) and indicates the stick-slip region in the specimens. 
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=7cm]{FractureSurfacesTDCB}
+\caption{Fracture surfaces of TDCB specimens (crack propagation from right to left)} %\label{MyFigure}
+\end{figure}
+
+\section{High rate testing}
+\subsection{Introduction}
+High rate testing was performed with TDCB and SENB samples. The effects of high test rate on the fracture behaviour were investigated, such as if there is any fracture type transition when test rate is increased. SENB high rate results provided additional information to clarify the results found from TDCB tests, as SENB does not have interfacial failure like TDCB. However, TDCB provided information for the propagation of crack, not just initiation as for SENB. 
+After testing, the fracture surfaces were analysed by field emission gun scanning electron microscopy (FEGSEM) (more details in Section 3.2.8), to identify the toughening mechanisms and the percentage of silica nanoparticles which undergo debonding and void growth. The measured fracture energies will be compared with predictions from analytical models, such as those by Hsieh et al. [2, 3].
+
+\subsection{TDCB high test rate set up}
+The experimental set up for high rate testing was similar to that at low rate, but instead of a travelling microscope used to measure crack length, a high-speed video camera was used to improve the accuracy of the crack length and displacement measurements. 
+In the test set up, the upper side of the loading shackle was connected to a titanium lost motion device (LMD), which was then attached to the hydraulic ram. A linear variable displacement transformer (LVDT) was used to measure the position, and hence to calculate the velocity, of the hydraulic ram, see Figure 21. 
+The lower side of the loading shackle was the stationary part of the set up; it was connected to a piezo-electric load cell (PCB 221B04, range of 4.48 kN, Sensitivity: 1124.1 mV/kN, rise time of 10 µs). A Phantom 3.1 high-speed camera (manufactured by Vision Research, New Jersey, USA) was used. High-speed video (HSV) was used to measure the local displacement without significant dynamic oscillations which affect the LVDT, and hence improves accuracy.
+A lost motion device (see Figure 22) was used for providing an even acceleration during high rate test; it was made up of a titanium rod with an aluminium ‘cup and cone’ contact unit. The LMD has a movable extension rod, which helps to ensure constant speed before the movement reaches the specimen. The LMD was kept at its minimum weight to reduce inertial effects. Inertial effects were also minimised by attaching the components (load cell to the test specimen and to the stationary loading shackle) together as close as possible. This reduced oscillations caused by stress wave reflections and acceleration during the test. However, there might be bouncing effects and oscillations during the contact of the LMD, therefore rubber washers were used as damping between the surfaces of the cup and cone.
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=6cm]{HighRateSetup1}
+\caption{TDCB mode I high rate test setup [38]} %\label{MyFigure}
+\end{figure}
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=6cm]{HighRateSetup}
+\caption{TDCB mode I high rate test setup [38]} %\label{MyFigure}
+\end{figure}
+
+For the high speed video (see Figure 23), the high framing rate used would reduce the amount of data that can be stored in the camera, therefore, images were cut to only the area needed, or reduced in image size. Hence different combinations of framing rate and picture resolution were used at different test rates. Hence the frame information was different for each test. The high speed photography was used to measure crack length to obtain the crack velocity.
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=1.5cm]{TDCBimage}
+\caption{Example of high rate TDCB image. Crack propagation was from left to right} %\label{MyFigure}
+\end{figure}
+
+In order to see the effect of rate in fracture, test rates of 0.1 m/s, 1 m/s and 10 m/s would be used.
+
+\section{High rate data reduction strategy}
+\subsection{Fracture types}
+There are four fracture types developed from the data reduction strategy in [53], for the four different types of crack growth:
+\newline
+Type 1: Slow, stable propagation
+\newline
+Type 2: Slow, unstable (stick-slip) propagation
+\newline
+Type 3: Fast, unstable (stick-slip) propagation
+\newline
+Type 4: Fast, stable propagation
+\newline
+There are different analysis methods required for the different types of crack growth, more about their analysis is discussed in part 3 of this section. 
+
+\subsection{Data analysis}
+\subsubsection{Video analysis}
+Measurements of displacement (from video), crack length (a) and time were taken from selected frames, as shown in Figure 24. 
+Crack length (a): Crack length was measured manually from each of the video images, as there was white ink painted on the specimen, the crack was visible as a black line between the substrates of the adhesive joint.
+Load point displacement ($\delta$): The displacement was measured manually from each of the video images by recording the distance between the centres of the two pins when compared to their initial positions.
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=8cm]{test2graph1}
+\caption{Distance between centres of pins against time graph for TDCB specimen } %\label{MyFigure}
+\end{figure}
+
+The numbers of pixels in the images were calibrated with the actual displacement in mm from the joint. This was performed by first finding the distance between two selected points within the white ink painted region. Then, by using the pixel information from the camera software settings, the number of pixels within the selected region could be found as a reference for calibration. It is important to use a large distance between the two points used for the calibration, as the error from one pixel would be more significant within a short distance. 
+
+\subsubsection{Plots}
+There are three plots used in this method: displacement (between loading pins) against time, load against time and crack length against time (see Figure 25). 
+Load and displacement data would be obtained from the oscilloscope or Imatek system, the Imatek system collates the readings from the machine and the oscilloscope, so that the different sets of data could be linked together, not individual data anymore. Load data at low rate are reliable, but when at high test rate there would be uncertainty in the load values due to dynamic effects (even with rubber washers there to minimise oscillations). Therefore the load values obtained from machine can only be used at low rate, or maybe at intermediate rates. Instead, displacement and crack length obtained from the video would be used to analyse the fracture. 
+Propagation points and initiation points were plotted separately as they should be analysed separately [38], and the arrest points are not used. When the test rate is high, it is difficult to distinguish between stable and stick-slip propagation. Hence, to distinguish whether the cracks were stable or unstable, linear regression would be performed on the crack versus time data (see Figure 25) to find out whether $R^2 > 0.95$[52]:
+
+If $R^2$ is larger than 0.95, the fracture type would be defined as stable, where propagation values would be used to plot the linear regression line. Whether it is type 1 or 4 depends on whether the kinetic energy (KE) was significant. 
+If $R^2$ is smaller than 0.95, fracture type would be stick-slip fracture, where initiation values would be used to plot the linear regression line. It would be defined as a type 2 or 3 fracture depending on whether the KE was significant.
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=8cm]{test2graph2}
+\caption{Distance between centres of pins against time graph for TDCB specimen } %\label{MyFigure}
+\end{figure}
+
+\subsubsection{Analysis of GC values}
+The values of $G^s_C$ (static value of the adhesive fracture energy) and $G^d_C$ (dynamic value of the adhesive fracture energy) are used to determine if the kinetic energy (KE) was significant. The KE would be considered significant when the fracture energy increases by more than 5\% of the quasi-static value due to the increase in test rate, i.e. when: 
+
+\begin{equation} 
+(G_C^S  - G_C^d)/G_C^s< 0.05
+\end{equation}
+then the KE would be significant, and the fracture would be analysed as type 3 or 4 (depends on whether it is stable or unstable from the crack length against time plot mentioned above). Gdc values would be reported.
+If
+\begin{equation} 
+(G_c^s  - G_c^d)/G_c^s\neq< 0.05
+\end{equation}
+
+then the KE would not be significant, and the fracture would be analysed as type 1 or 2 (depends on if it is stable or unstable from the crack against time plot mentioned above). $G^s_C$ values would be reported. The equations used to calculate $G^S_C$, $G^d_C$ for the TDCB specimens [57]: 
+
+For type 1 (it is a CBT method that uses propagation values): 
+
+\begin{equation} 
+G_C^S= \frac{4P^2 m}{EB^2} \left[1+0.43\left( \frac{3}{ma}\right) \right] ^{1/3}
+\end{equation}
+
+where $G^S_C$ = quasi-static value of the adhesive fracture energy, P = load, E = Young’s modulus of substrate, B = width of test specimen, a = crack length and m = specimen geometry factor (m = 2 mm$^{-1}$ for TDCB specimens):
+
+
+\begin{equation} 
+m=\frac{3a^2}{h^3}+\frac{1}{h}
+\end{equation}
+
+where h = height of specimen substrate
+
+For type 2 (it is a CBT method that uses initiation values):
+\begin{equation} 
+G_C^S=\frac{4P^2}{EB^2}\left[1+0.43\left(\frac{3}{ma}\right) ^{1/3} \right]
+\end{equation}
+
+For type 3 (only uses crack initiation values):
+
+\begin{equation} 
+G_C^S= \frac{E}{4m}\left[\frac{\delta}{2a}\right]^2 \left[1+0.43(\frac{3}{ma})\right]^{1/3} \left[1-3\frac{9}{22}^3 \left(\frac{a^*}{c_L^{ t}}\right) ^2 m∙h(a^*)\right]
+\end{equation}
+
+where δ = displacement between pins, t = time, a = crack length and CL = longitudinal wave speed:
+
+\begin{equation} 
+C_L= \frac{\sqrt{E}}{\rho_s}
+\end{equation}
+
+where E = modulus of substrate and ρs = density of substrate. For the aluminium alloy substrates used, these values are 70 x 109 Pa and 2700 kg/m3 respectively. 
+For type 4 (only uses crack propagation values):
+\begin{equation} 
+G_C^d=  \frac{E}{4m} \left[\frac{\delta}{2\dot{a}^\ast}\right]\left[1+〖[[0.43\left( \frac{3}{ma}\right) \right]^(1/3)\left[1-3\frac{9}{22}^3 {\frac{a^\ast}{c_L t}}^2 m∙h(a^\ast)\right] 
+\end{equation}
+
+where V = crack velocity (found using the distance between centres of pins and time from video). The equation used to find out the dynamically-corrected value of $G_C (G^d_C)$ of TDCB specimens is:
+\begin{equation} 
+G_C^S=〖\left[\frac{(V/2)}{a}\right]^2 \left[1+0.43\left(\frac{3}{ma}\right) 〗^{1/3}\right]^{-1}
+\end{equation}
+
+where V = crack velocity (found using the distance between centres of pins and time from video). The equation used to find out the dynamically-corrected value of $G_C$ ($G^d_C$) of TDCB specimens is: 
+
+\begin{equation} 
+G_C^d= \frac{E}{4m}  
+\left[\frac{\delta}{2a^\ast}\right]
+\left[1 +0.43\left( \frac{3}{ma}\right)^{1/3} \right] 
+\left[1-3\left( \frac{9}{22}\right) ^3 \left[\frac{a^\ast}{c_L t}\right]^2mh(a^\ast)\right]
+\end{equation}
+
+where h(a*) = height of beam at a distance a* from load line, where a* is the crack at a specific height, and is given by
+
+\begin{equation} 
+a^\ast=a+0.64 \left( \frac{3a^2}{m}\right) ^{1/3}-\frac{2}{3}x_0
+\end{equation}
+
+where for TDCB specimens the initial crack length $x_(0)= 50mm$ 
+
+Note that the type 3 GSC equation = GdC equation, because type 3 only uses crack initiation values as it is for a fast-rate unstable crack. 
+Trials of the high rate set up have been ongoing and tests are expected to run smoothly once all the connections of equipment are ready. Trials with CSR 2 weight % specimens showed unstable crack growth at under 1 m/s, so analysis would be using the type 3 equation as the load from the machine is not reliable due to dynamic effects from the fast unstable crack. There were very different values of Gc were found at different points of cracks, varying from 420 to 2748 J/m2. 
+Three specimens from each of the selected formulations would be used each test rate (0.1, 1 and 10 m/s), these rates of tests would provide insights into the effect of the rate of testing on the fracture behaviours.
+
+\subsection{Tensile testing}
+\subsubsection{Introduction}
+Tensile tests on bulk samples provided the Young’s modulus, E, of the materials for the calculations of fracture toughness or critical stress intensity at the crack tip, Kc, and fracture energy, Gc, when using the linear elastic fracture mechanics (LEFM) method in the SENB test. The Young’s modulus value was found using the linear portion of the stress-strain curves. The results calculated also included values such as true yield strength and true yield strain. 
+The tensile true stress, t, was found using: 
+
+\begin{equation} 
+\sigma_t= \sigma_E (1+\varepsilon_E)
+\end{equation}
+
+Tensile true strain, $\varepsilont$, was found by:
+
+\begin{equation} 
+\varepsilon_t=In(\varepsilon_E+1)
+\end{equation}
+
+Tensile tests were performed using specimens with type 1BA geometry (see Figure 26) according to ISO standard 527 [62]. 
+
+\begin{figure}[!htpb]
+\centering
+\includegraphics[height=4cm]{tensile}
+\caption{Tensile test geometry (dimensions in millimetres) [59]} %\label{MyFigure}
+\end{figure}
+
+The tests were performed at a test rate of 1 mm/min. Six specimens were tested for each set. An Instron 2620-601 dynamic extensometer was attached to the specimen to measure the extension for providing accurate strain values. The tensile test results were assumed not to be significantly affected by rate for the calculation of LEFM values. The mean and the standard deviation of the Young’s modulus are reported.
+
+
+\end{document}
